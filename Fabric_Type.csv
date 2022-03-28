@@ -1,0 +1,1001 @@
+ID,Fabric Type,Fabric Color, Design ,Quantity
+1,Poplin,Red,Floral,6080
+2,Poplin,Purple,Polka Dot,5849
+3,Jute,Mauv,Stripes,749
+4,Sateen,Aquamarine,Ikat,7102
+5,Lace,Teal,Flame Stitch,6803
+6,Lace,Blue,Thread Patterns,9854
+7,Jute,Blue,Painting,9761
+8,Cotton ,Purple,Shabby Chic Rose,1319
+9,Velvet,Crimson,Ethnic,6591
+10,Silk,Maroon,Summer Fabrics,5495
+11,Wool,Goldenrod,Retro Seamless,5761
+12,Denim,Purple,Vinatge Seamless,7775
+13,Satin,Orange,Geometric,2653
+14,Linen,Crimson,Zebra,3229
+15,Rayon,Khaki,Floral,2822
+16,Chiffon,Goldenrod,Retro Seamless,6206
+17,Georgette,Maroon,Flame Stitch,870
+18,Sateen,Mauv,Summer Fabrics,2745
+19,Jute,Purple,Shabby Chic Rose,9768
+20,Lace,Aquamarine,Flame Stitch,1888
+21,Poplin,Teal,Ikat,3726
+22,Rayon,Crimson,Ikat,2563
+23,Sateen,Orange,Painting,8378
+24,Georgette,Puce,Polka Dot,3037
+25,Silk,Violet,Ethnic,2037
+26,Rayon,Violet,Vinatge Seamless,3547
+27,Velvet,Blue,Thread Patterns,7837
+28,Georgette,Indigo,Summer Fabrics,7871
+29,Satin,Khaki,Stripes,8312
+30,Cotton ,Pink,Geometric,4217
+31,Chiffon,Violet,Zebra,5424
+32,Cotton ,Mauv,Summer Fabrics,6673
+33,Poplin,Crimson,Floral,7747
+34,Poplin,Teal,Ikat,9205
+35,Jute,Violet,Shabby Chic Rose,4268
+36,Sateen,Orange,Vinatge Seamless,5227
+37,Lace,Pink,Retro Seamless,3414
+38,Lace,Indigo,Retro Seamless,9238
+39,Jute,Blue,Flame Stitch,684
+40,Cotton ,Maroon,Polka Dot,1568
+41,Velvet,Purple,Floral,1735
+42,Silk,Purple,Polka Dot,1199
+43,Wool,Violet,Stripes,5396
+44,Denim,Yellow,Ikat,3942
+45,Satin,Puce,Flame Stitch,8067
+46,Linen,Pink,Thread Patterns,5137
+47,Rayon,Puce,Painting,1882
+48,Chiffon,Red,Shabby Chic Rose,1575
+49,Georgette,Fuscia,Ethnic,5881
+50,Sateen,Mauv,Summer Fabrics,6638
+51,Jute,Blue,Retro Seamless,3902
+52,Lace,Indigo,Vinatge Seamless,2139
+53,Poplin,Teal,Geometric,9419
+54,Rayon,Puce,Zebra,4592
+55,Sateen,Aquamarine,Floral,9177
+56,Georgette,Khaki,Retro Seamless,3166
+57,Silk,Turquoise,Flame Stitch,7127
+58,Rayon,Aquamarine,Summer Fabrics,3545
+59,Velvet,Blue,Shabby Chic Rose,638
+60,Georgette,Maroon,Flame Stitch,9460
+61,Satin,Teal,Ikat,9042
+62,Cotton ,Red,Ikat,8773
+63,Chiffon,Aquamarine,Painting,5520
+64,Cotton ,Turquoise,Polka Dot,1257
+65,Poplin,Pink,Ethnic,6212
+66,Poplin,Orange,Vinatge Seamless,8614
+67,Jute,Blue,Thread Patterns,4193
+68,Sateen,Khaki,Summer Fabrics,3784
+69,Lace,Purple,Stripes,8026
+70,Lace,Violet,Geometric,9225
+71,Jute,Yellow,Zebra,1747
+72,Cotton ,Maroon,Summer Fabrics,2708
+73,Velvet,Blue,Floral,2249
+74,Silk,Indigo,Ikat,4894
+75,Wool,Blue,Shabby Chic Rose,1233
+76,Denim,Red,Vinatge Seamless,840
+77,Satin,Puce,Retro Seamless,2555
+78,Linen,Puce,Retro Seamless,3508
+79,Rayon,Teal,Flame Stitch,978
+80,Chiffon,Yellow,Polka Dot,7424
+81,Georgette,Khaki,Floral,7170
+82,Sateen,Yellow,Polka Dot,3425
+83,Jute,Yellow,Stripes,3255
+84,Lace,Maroon,Ikat,3774
+85,Poplin,Indigo,Flame Stitch,1804
+86,Rayon,Mauv,Thread Patterns,903
+87,Sateen,Khaki,Painting,6102
+88,Georgette,Mauv,Shabby Chic Rose,6545
+89,Silk,Pink,Ethnic,3841
+90,Rayon,Blue,Summer Fabrics,5595
+91,Velvet,Khaki,Retro Seamless,8746
+92,Georgette,Mauv,Vinatge Seamless,3290
+93,Satin,Pink,Geometric,6232
+94,Cotton ,Goldenrod,Zebra,8090
+95,Chiffon,Red,Floral,5540
+96,Cotton ,Crimson,Retro Seamless,5588
+97,Poplin,Purple,Flame Stitch,4496
+98,Poplin,Red,Summer Fabrics,694
+99,Jute,Blue,Shabby Chic Rose,715
+100,Sateen,Turquoise,Flame Stitch,9736
+101,Lace,Aquamarine,Ikat,3160
+102,Lace,Teal,Ikat,3515
+103,Jute,Blue,Painting,3238
+104,Cotton ,Mauv,Polka Dot,5629
+105,Velvet,Pink,Ethnic,4488
+106,Silk,Aquamarine,Vinatge Seamless,1464
+107,Wool,Khaki,Thread Patterns,7821
+108,Denim,Maroon,Summer Fabrics,9068
+109,Satin,Goldenrod,Stripes,7191
+110,Linen,Red,Geometric,5786
+111,Rayon,Teal,Zebra,3368
+112,Chiffon,Blue,Summer Fabrics,4628
+113,Georgette,Goldenrod,Floral,7227
+114,Sateen,Purple,Ikat,8573
+115,Jute,Aquamarine,Shabby Chic Rose,1669
+116,Lace,Teal,Vinatge Seamless,4776
+117,Poplin,Mauv,Retro Seamless,8340
+118,Rayon,Aquamarine,Retro Seamless,5890
+119,Sateen,Mauv,Flame Stitch,3210
+120,Georgette,Violet,Polka Dot,4509
+121,Silk,Goldenrod,Floral,4948
+122,Rayon,Orange,Polka Dot,7564
+123,Velvet,Violet,Stripes,3338
+124,Georgette,Puce,Ikat,9839
+125,Satin,Teal,Flame Stitch,4129
+126,Cotton ,Pink,Thread Patterns,5462
+127,Chiffon,Pink,Painting,1259
+128,Cotton ,Pink,Shabby Chic Rose,5642
+129,Poplin,Goldenrod,Ethnic,1384
+130,Poplin,Orange,Summer Fabrics,8040
+131,Jute,Indigo,Retro Seamless,7109
+132,Sateen,Blue,Vinatge Seamless,7163
+133,Lace,Mauv,Geometric,6418
+134,Lace,Violet,Zebra,3019
+135,Jute,Mauv,Floral,8481
+136,Cotton ,Teal,Retro Seamless,2612
+137,Velvet,Goldenrod,Flame Stitch,6168
+138,Silk,Crimson,Summer Fabrics,9786
+139,Wool,Puce,Shabby Chic Rose,6487
+140,Denim,Crimson,Flame Stitch,1240
+141,Satin,Purple,Ikat,8968
+142,Linen,Aquamarine,Ikat,5296
+143,Rayon,Mauv,Painting,4170
+144,Chiffon,Crimson,Polka Dot,554
+145,Georgette,Khaki,Ethnic,7396
+146,Sateen,Goldenrod,Vinatge Seamless,9069
+147,Jute,Mauv,Thread Patterns,8519
+148,Lace,Aquamarine,Summer Fabrics,9516
+149,Poplin,Green,Stripes,4733
+150,Rayon,Maroon,Geometric,6184
+151,Sateen,Turquoise,Zebra,3928
+152,Georgette,Puce,Summer Fabrics,7281
+153,Silk,Khaki,Floral,2383
+154,Rayon,Blue,Ikat,6351
+155,Velvet,Pink,Shabby Chic Rose,4981
+156,Georgette,Purple,Vinatge Seamless,3575
+157,Satin,Crimson,Retro Seamless,806
+158,Cotton ,Green,Retro Seamless,7826
+159,Chiffon,Orange,Flame Stitch,5140
+160,Cotton ,Mauv,Polka Dot,5494
+161,Poplin,Mauv,Floral,9736
+162,Poplin,Teal,Polka Dot,7723
+163,Jute,Orange,Stripes,8203
+164,Sateen,Turquoise,Ikat,2220
+165,Lace,Puce,Flame Stitch,5879
+166,Lace,Purple,Thread Patterns,6134
+167,Jute,Goldenrod,Painting,9807
+168,Cotton ,Red,Shabby Chic Rose,9296
+169,Velvet,Turquoise,Ethnic,3660
+170,Silk,Orange,Summer Fabrics,5519
+171,Wool,Orange,Retro Seamless,1234
+172,Denim,Aquamarine,Vinatge Seamless,1781
+173,Satin,Teal,Geometric,8067
+174,Linen,Turquoise,Zebra,6503
+175,Rayon,Green,Floral,1823
+176,Chiffon,Aquamarine,Retro Seamless,5212
+177,Georgette,Crimson,Flame Stitch,8564
+178,Sateen,Puce,Summer Fabrics,8982
+179,Jute,Indigo,Shabby Chic Rose,8977
+180,Lace,Maroon,Flame Stitch,4686
+181,Poplin,Crimson,Ikat,9522
+182,Rayon,Khaki,Ikat,9616
+183,Sateen,Fuscia,Painting,2870
+184,Georgette,Crimson,Polka Dot,8404
+185,Silk,Green,Ethnic,511
+186,Rayon,Puce,Vinatge Seamless,7510
+187,Velvet,Teal,Thread Patterns,8646
+188,Georgette,Turquoise,Summer Fabrics,6004
+189,Satin,Mauv,Stripes,5270
+190,Cotton ,Goldenrod,Geometric,6422
+191,Chiffon,Teal,Zebra,1446
+192,Cotton ,Red,Summer Fabrics,7486
+193,Poplin,Puce,Floral,8408
+194,Poplin,Maroon,Ikat,6193
+195,Jute,Mauv,Shabby Chic Rose,3051
+196,Sateen,Turquoise,Vinatge Seamless,9698
+197,Lace,Aquamarine,Retro Seamless,8271
+198,Lace,Yellow,Retro Seamless,3146
+199,Jute,Aquamarine,Flame Stitch,4874
+200,Cotton ,Turquoise,Polka Dot,4565
+201,Velvet,Violet,Floral,7822
+202,Silk,Pink,Polka Dot,4254
+203,Wool,Yellow,Stripes,9376
+204,Denim,Green,Ikat,9522
+205,Satin,Red,Flame Stitch,4850
+206,Linen,Orange,Thread Patterns,3324
+207,Rayon,Mauv,Painting,2327
+208,Chiffon,Indigo,Shabby Chic Rose,7598
+209,Georgette,Maroon,Ethnic,9600
+210,Sateen,Turquoise,Summer Fabrics,9353
+211,Jute,Violet,Retro Seamless,5364
+212,Lace,Green,Vinatge Seamless,6466
+213,Poplin,Orange,Geometric,8731
+214,Rayon,Violet,Zebra,3848
+215,Sateen,Blue,Floral,9702
+216,Georgette,Green,Retro Seamless,7601
+217,Silk,Crimson,Flame Stitch,9589
+218,Rayon,Mauv,Summer Fabrics,2200
+219,Velvet,Fuscia,Shabby Chic Rose,6258
+220,Georgette,Indigo,Flame Stitch,6888
+221,Satin,Crimson,Ikat,2319
+222,Cotton ,Red,Ikat,2187
+223,Chiffon,Green,Painting,1345
+224,Cotton ,Orange,Polka Dot,3307
+225,Poplin,Puce,Ethnic,4697
+226,Poplin,Indigo,Vinatge Seamless,3459
+227,Jute,Green,Thread Patterns,1378
+228,Sateen,Fuscia,Summer Fabrics,9326
+229,Lace,Violet,Stripes,8667
+230,Lace,Green,Geometric,4285
+231,Jute,Mauv,Zebra,5258
+232,Cotton ,Aquamarine,Summer Fabrics,1175
+233,Velvet,Red,Floral,546
+234,Silk,Fuscia,Ikat,3376
+235,Wool,Violet,Shabby Chic Rose,5749
+236,Denim,Goldenrod,Vinatge Seamless,3725
+237,Satin,Crimson,Retro Seamless,3934
+238,Linen,Indigo,Retro Seamless,2487
+239,Rayon,Aquamarine,Flame Stitch,6811
+240,Chiffon,Puce,Polka Dot,7976
+241,Georgette,Puce,Floral,8848
+242,Sateen,Teal,Polka Dot,5169
+243,Jute,Puce,Stripes,5495
+244,Lace,Fuscia,Ikat,7250
+245,Poplin,Maroon,Flame Stitch,7814
+246,Rayon,Teal,Thread Patterns,9119
+247,Sateen,Yellow,Painting,9707
+248,Georgette,Crimson,Shabby Chic Rose,3042
+249,Silk,Orange,Ethnic,3025
+250,Rayon,Indigo,Summer Fabrics,3360
+251,Velvet,Blue,Retro Seamless,8139
+252,Georgette,Purple,Vinatge Seamless,2044
+253,Satin,Red,Geometric,4122
+254,Cotton ,Green,Zebra,4130
+255,Chiffon,Khaki,Floral,1021
+256,Cotton ,Aquamarine,Retro Seamless,4871
+257,Poplin,Green,Flame Stitch,956
+258,Poplin,Orange,Summer Fabrics,9476
+259,Jute,Violet,Shabby Chic Rose,8849
+260,Sateen,Puce,Flame Stitch,8091
+261,Lace,Maroon,Ikat,1643
+262,Lace,Maroon,Ikat,3850
+263,Jute,Mauv,Painting,5188
+264,Cotton ,Purple,Polka Dot,2197
+265,Velvet,Aquamarine,Ethnic,2441
+266,Silk,Goldenrod,Vinatge Seamless,6338
+267,Wool,Khaki,Thread Patterns,9232
+268,Denim,Indigo,Summer Fabrics,5305
+269,Satin,Mauv,Stripes,8028
+270,Linen,Red,Geometric,9014
+271,Rayon,Goldenrod,Zebra,4847
+272,Chiffon,Khaki,Summer Fabrics,6071
+273,Georgette,Aquamarine,Floral,6797
+274,Sateen,Fuscia,Ikat,7955
+275,Jute,Purple,Shabby Chic Rose,2244
+276,Lace,Crimson,Vinatge Seamless,9263
+277,Poplin,Purple,Retro Seamless,7188
+278,Rayon,Indigo,Retro Seamless,8675
+279,Sateen,Khaki,Flame Stitch,8899
+280,Georgette,Maroon,Polka Dot,2700
+281,Silk,Indigo,Floral,3941
+282,Rayon,Violet,Polka Dot,7633
+283,Velvet,Pink,Stripes,7017
+284,Georgette,Pink,Ikat,2672
+285,Satin,Pink,Flame Stitch,9865
+286,Cotton ,Yellow,Thread Patterns,3024
+287,Chiffon,Blue,Painting,4110
+288,Cotton ,Purple,Shabby Chic Rose,1858
+289,Poplin,Red,Ethnic,8558
+290,Poplin,Goldenrod,Summer Fabrics,1167
+291,Jute,Teal,Retro Seamless,4906
+292,Sateen,Crimson,Vinatge Seamless,7481
+293,Lace,Yellow,Geometric,4551
+294,Lace,Fuscia,Zebra,8140
+295,Jute,Fuscia,Floral,9122
+296,Cotton ,Indigo,Retro Seamless,9898
+297,Velvet,Purple,Flame Stitch,1865
+298,Silk,Crimson,Summer Fabrics,7742
+299,Wool,Crimson,Shabby Chic Rose,7863
+300,Denim,Fuscia,Flame Stitch,7291
+301,Satin,Turquoise,Ikat,6948
+302,Linen,Teal,Ikat,688
+303,Rayon,Violet,Painting,8664
+304,Chiffon,Green,Polka Dot,8383
+305,Georgette,Orange,Ethnic,6525
+306,Sateen,Aquamarine,Vinatge Seamless,3490
+307,Jute,Indigo,Thread Patterns,7989
+308,Lace,Indigo,Summer Fabrics,8508
+309,Poplin,Purple,Stripes,5518
+310,Rayon,Crimson,Geometric,8334
+311,Sateen,Teal,Zebra,6144
+312,Georgette,Crimson,Summer Fabrics,4838
+313,Silk,Mauv,Floral,3446
+314,Rayon,Blue,Ikat,6673
+315,Velvet,Khaki,Shabby Chic Rose,2342
+316,Georgette,Mauv,Vinatge Seamless,6711
+317,Satin,Red,Retro Seamless,1255
+318,Cotton ,Mauv,Retro Seamless,3406
+319,Chiffon,Red,Flame Stitch,4793
+320,Cotton ,Green,Polka Dot,3010
+321,Poplin,Fuscia,Floral,2512
+322,Poplin,Yellow,Polka Dot,602
+323,Jute,Aquamarine,Stripes,5620
+324,Sateen,Aquamarine,Ikat,6001
+325,Lace,Pink,Flame Stitch,4656
+326,Lace,Mauv,Thread Patterns,4106
+327,Jute,Puce,Painting,5378
+328,Cotton ,Turquoise,Shabby Chic Rose,8085
+329,Velvet,Orange,Ethnic,3183
+330,Silk,Crimson,Summer Fabrics,9799
+331,Wool,Crimson,Retro Seamless,3971
+332,Denim,Red,Vinatge Seamless,9288
+333,Satin,Puce,Geometric,8686
+334,Linen,Green,Zebra,7294
+335,Rayon,Yellow,Floral,9583
+336,Chiffon,Goldenrod,Retro Seamless,7905
+337,Georgette,Yellow,Flame Stitch,8766
+338,Sateen,Violet,Summer Fabrics,2936
+339,Jute,Mauv,Shabby Chic Rose,3918
+340,Lace,Blue,Flame Stitch,9603
+341,Poplin,Green,Ikat,945
+342,Rayon,Maroon,Ikat,3152
+343,Sateen,Indigo,Painting,5979
+344,Georgette,Orange,Polka Dot,1684
+345,Silk,Violet,Ethnic,9757
+346,Rayon,Maroon,Vinatge Seamless,6179
+347,Velvet,Orange,Thread Patterns,9029
+348,Georgette,Teal,Summer Fabrics,4530
+349,Satin,Purple,Stripes,7041
+350,Cotton ,Crimson,Geometric,7462
+351,Chiffon,Puce,Zebra,2331
+352,Cotton ,Purple,Summer Fabrics,4527
+353,Poplin,Blue,Floral,8209
+354,Poplin,Indigo,Ikat,9056
+355,Jute,Indigo,Shabby Chic Rose,8586
+356,Sateen,Purple,Vinatge Seamless,7134
+357,Lace,Khaki,Retro Seamless,7875
+358,Lace,Aquamarine,Retro Seamless,8378
+359,Jute,Pink,Flame Stitch,7630
+360,Cotton ,Yellow,Polka Dot,6022
+361,Velvet,Puce,Floral,3020
+362,Silk,Yellow,Polka Dot,8948
+363,Wool,Turquoise,Stripes,2507
+364,Denim,Purple,Ikat,8926
+365,Satin,Maroon,Flame Stitch,7883
+366,Linen,Puce,Thread Patterns,5188
+367,Rayon,Turquoise,Painting,7623
+368,Chiffon,Yellow,Shabby Chic Rose,6966
+369,Georgette,Red,Ethnic,3974
+370,Sateen,Crimson,Summer Fabrics,2348
+371,Jute,Mauv,Retro Seamless,1205
+372,Lace,Indigo,Vinatge Seamless,6901
+373,Poplin,Goldenrod,Geometric,3839
+374,Rayon,Turquoise,Zebra,3268
+375,Sateen,Orange,Floral,1354
+376,Georgette,Purple,Retro Seamless,4663
+377,Silk,Fuscia,Flame Stitch,9072
+378,Rayon,Fuscia,Summer Fabrics,9426
+379,Velvet,Green,Shabby Chic Rose,2954
+380,Georgette,Puce,Flame Stitch,8609
+381,Satin,Fuscia,Ikat,2068
+382,Cotton ,Indigo,Ikat,9266
+383,Chiffon,Aquamarine,Painting,6179
+384,Cotton ,Teal,Polka Dot,7009
+385,Poplin,Goldenrod,Ethnic,5526
+386,Poplin,Blue,Vinatge Seamless,1978
+387,Jute,Green,Thread Patterns,6108
+388,Sateen,Turquoise,Summer Fabrics,5524
+389,Lace,Mauv,Stripes,5196
+390,Lace,Mauv,Geometric,8024
+391,Jute,Indigo,Zebra,9011
+392,Cotton ,Goldenrod,Summer Fabrics,3736
+393,Velvet,Purple,Floral,3762
+394,Silk,Yellow,Ikat,1893
+395,Wool,Puce,Shabby Chic Rose,6249
+396,Denim,Aquamarine,Vinatge Seamless,9558
+397,Satin,Maroon,Retro Seamless,1673
+398,Linen,Violet,Retro Seamless,1468
+399,Rayon,Crimson,Flame Stitch,2612
+400,Chiffon,Goldenrod,Polka Dot,5347
+401,Georgette,Blue,Floral,8193
+402,Sateen,Orange,Polka Dot,5051
+403,Jute,Turquoise,Stripes,2217
+404,Lace,Indigo,Ikat,8885
+405,Poplin,Green,Flame Stitch,6973
+406,Rayon,Purple,Thread Patterns,1305
+407,Sateen,Khaki,Painting,2382
+408,Georgette,Goldenrod,Shabby Chic Rose,4535
+409,Silk,Purple,Ethnic,7933
+410,Rayon,Maroon,Summer Fabrics,6971
+411,Velvet,Mauv,Retro Seamless,9913
+412,Georgette,Aquamarine,Vinatge Seamless,8573
+413,Satin,Yellow,Geometric,5871
+414,Cotton ,Yellow,Zebra,7431
+415,Chiffon,Mauv,Floral,3212
+416,Cotton ,Teal,Retro Seamless,2997
+417,Poplin,Aquamarine,Flame Stitch,4323
+418,Poplin,Aquamarine,Summer Fabrics,3512
+419,Jute,Yellow,Shabby Chic Rose,5084
+420,Sateen,Puce,Flame Stitch,3401
+421,Lace,Green,Ikat,1978
+422,Lace,Goldenrod,Ikat,1397
+423,Jute,Khaki,Painting,6752
+424,Cotton ,Aquamarine,Polka Dot,2158
+425,Velvet,Aquamarine,Ethnic,4143
+426,Silk,Orange,Vinatge Seamless,2198
+427,Wool,Indigo,Thread Patterns,2391
+428,Denim,Blue,Summer Fabrics,6632
+429,Satin,Indigo,Stripes,9046
+430,Linen,Teal,Geometric,1678
+431,Rayon,Green,Zebra,8077
+432,Chiffon,Puce,Summer Fabrics,5926
+433,Georgette,Yellow,Floral,1023
+434,Sateen,Fuscia,Ikat,9383
+435,Jute,Teal,Shabby Chic Rose,1798
+436,Lace,Orange,Vinatge Seamless,9784
+437,Poplin,Turquoise,Retro Seamless,3640
+438,Rayon,Violet,Retro Seamless,2101
+439,Sateen,Blue,Flame Stitch,2593
+440,Georgette,Fuscia,Polka Dot,1501
+441,Silk,Green,Floral,7032
+442,Rayon,Maroon,Polka Dot,1881
+443,Velvet,Orange,Stripes,4031
+444,Georgette,Mauv,Ikat,5052
+445,Satin,Pink,Flame Stitch,1281
+446,Cotton ,Turquoise,Thread Patterns,3770
+447,Chiffon,Turquoise,Painting,2391
+448,Cotton ,Maroon,Shabby Chic Rose,7967
+449,Poplin,Green,Ethnic,979
+450,Poplin,Indigo,Summer Fabrics,8631
+451,Jute,Mauv,Retro Seamless,3847
+452,Sateen,Indigo,Vinatge Seamless,7770
+453,Lace,Goldenrod,Geometric,4867
+454,Lace,Maroon,Zebra,9100
+455,Jute,Maroon,Floral,4551
+456,Cotton ,Green,Retro Seamless,4509
+457,Velvet,Pink,Flame Stitch,7320
+458,Silk,Indigo,Summer Fabrics,6206
+459,Wool,Blue,Shabby Chic Rose,5151
+460,Denim,Teal,Flame Stitch,2962
+461,Satin,Purple,Ikat,2847
+462,Linen,Turquoise,Ikat,6393
+463,Rayon,Puce,Painting,599
+464,Chiffon,Violet,Polka Dot,4691
+465,Georgette,Mauv,Ethnic,9613
+466,Sateen,Fuscia,Vinatge Seamless,7167
+467,Jute,Red,Thread Patterns,8236
+468,Lace,Puce,Summer Fabrics,2862
+469,Poplin,Red,Stripes,1065
+470,Rayon,Orange,Geometric,7735
+471,Sateen,Orange,Zebra,1486
+472,Georgette,Yellow,Summer Fabrics,2850
+473,Silk,Crimson,Floral,4293
+474,Rayon,Fuscia,Ikat,6762
+475,Velvet,Pink,Shabby Chic Rose,9662
+476,Georgette,Indigo,Vinatge Seamless,7513
+477,Satin,Orange,Retro Seamless,2265
+478,Cotton ,Maroon,Retro Seamless,1209
+479,Chiffon,Red,Flame Stitch,2667
+480,Cotton ,Purple,Polka Dot,4547
+481,Poplin,Goldenrod,Floral,3566
+482,Poplin,Indigo,Polka Dot,7309
+483,Jute,Maroon,Stripes,7241
+484,Sateen,Purple,Ikat,2893
+485,Lace,Green,Flame Stitch,4509
+486,Lace,Violet,Thread Patterns,9803
+487,Jute,Khaki,Painting,3188
+488,Cotton ,Teal,Shabby Chic Rose,6098
+489,Velvet,Maroon,Ethnic,4456
+490,Silk,Green,Summer Fabrics,8885
+491,Wool,Fuscia,Retro Seamless,2629
+492,Denim,Orange,Vinatge Seamless,7020
+493,Satin,Fuscia,Geometric,7587
+494,Linen,Mauv,Zebra,1789
+495,Rayon,Goldenrod,Floral,4652
+496,Chiffon,Red,Retro Seamless,3180
+497,Georgette,Khaki,Flame Stitch,9446
+498,Sateen,Maroon,Summer Fabrics,5449
+499,Jute,Yellow,Shabby Chic Rose,2993
+500,Lace,Fuscia,Flame Stitch,2865
+501,Poplin,Green,Ikat,7778
+502,Rayon,Puce,Ikat,930
+503,Sateen,Red,Painting,6347
+504,Georgette,Blue,Polka Dot,2673
+505,Silk,Maroon,Ethnic,1372
+506,Rayon,Aquamarine,Vinatge Seamless,8390
+507,Velvet,Green,Thread Patterns,7094
+508,Georgette,Pink,Summer Fabrics,5917
+509,Satin,Khaki,Stripes,2846
+510,Cotton ,Khaki,Geometric,1946
+511,Chiffon,Maroon,Zebra,4223
+512,Cotton ,Turquoise,Summer Fabrics,817
+513,Poplin,Purple,Floral,9934
+514,Poplin,Green,Ikat,1522
+515,Jute,Mauv,Shabby Chic Rose,6906
+516,Sateen,Yellow,Vinatge Seamless,8540
+517,Lace,Orange,Retro Seamless,7326
+518,Lace,Fuscia,Retro Seamless,7957
+519,Jute,Maroon,Flame Stitch,5450
+520,Cotton ,Turquoise,Polka Dot,1367
+521,Velvet,Mauv,Floral,5970
+522,Silk,Green,Polka Dot,1655
+523,Wool,Crimson,Stripes,2088
+524,Denim,Pink,Ikat,3613
+525,Satin,Goldenrod,Flame Stitch,9764
+526,Linen,Blue,Thread Patterns,1375
+527,Rayon,Teal,Painting,4847
+528,Chiffon,Purple,Shabby Chic Rose,4533
+529,Georgette,Goldenrod,Ethnic,9108
+530,Sateen,Goldenrod,Summer Fabrics,4673
+531,Jute,Blue,Retro Seamless,9742
+532,Lace,Puce,Vinatge Seamless,3669
+533,Poplin,Crimson,Geometric,8720
+534,Rayon,Violet,Zebra,5780
+535,Sateen,Goldenrod,Floral,3116
+536,Georgette,Red,Retro Seamless,1357
+537,Silk,Mauv,Flame Stitch,9252
+538,Rayon,Pink,Summer Fabrics,774
+539,Velvet,Green,Shabby Chic Rose,5181
+540,Georgette,Orange,Flame Stitch,7841
+541,Satin,Goldenrod,Ikat,2023
+542,Cotton ,Purple,Ikat,7611
+543,Chiffon,Purple,Painting,8431
+544,Cotton ,Purple,Polka Dot,6259
+545,Poplin,Purple,Ethnic,2301
+546,Poplin,Violet,Vinatge Seamless,2571
+547,Jute,Violet,Thread Patterns,4022
+548,Sateen,Maroon,Summer Fabrics,6405
+549,Lace,Maroon,Stripes,999
+550,Lace,Purple,Geometric,8237
+551,Jute,Turquoise,Zebra,3657
+552,Cotton ,Teal,Summer Fabrics,3452
+553,Velvet,Indigo,Floral,8034
+554,Silk,Teal,Ikat,7496
+555,Wool,Crimson,Shabby Chic Rose,4498
+556,Denim,Blue,Vinatge Seamless,1813
+557,Satin,Red,Retro Seamless,2237
+558,Linen,Red,Retro Seamless,7140
+559,Rayon,Goldenrod,Flame Stitch,7315
+560,Chiffon,Pink,Polka Dot,711
+561,Georgette,Orange,Floral,7655
+562,Sateen,Fuscia,Polka Dot,8780
+563,Jute,Goldenrod,Stripes,1988
+564,Lace,Aquamarine,Ikat,9100
+565,Poplin,Red,Flame Stitch,8356
+566,Rayon,Crimson,Thread Patterns,1713
+567,Sateen,Khaki,Painting,9121
+568,Georgette,Green,Shabby Chic Rose,3727
+569,Silk,Goldenrod,Ethnic,6906
+570,Rayon,Orange,Summer Fabrics,697
+571,Velvet,Pink,Retro Seamless,4241
+572,Georgette,Goldenrod,Vinatge Seamless,6831
+573,Satin,Green,Geometric,5205
+574,Cotton ,Indigo,Zebra,9490
+575,Chiffon,Indigo,Floral,1553
+576,Cotton ,Orange,Retro Seamless,4911
+577,Poplin,Blue,Flame Stitch,3137
+578,Poplin,Green,Summer Fabrics,5498
+579,Jute,Indigo,Shabby Chic Rose,2370
+580,Sateen,Pink,Flame Stitch,971
+581,Lace,Crimson,Ikat,1923
+582,Lace,Teal,Ikat,7500
+583,Jute,Maroon,Painting,1039
+584,Cotton ,Crimson,Polka Dot,1211
+585,Velvet,Goldenrod,Ethnic,8699
+586,Silk,Indigo,Vinatge Seamless,7863
+587,Wool,Violet,Thread Patterns,5821
+588,Denim,Green,Summer Fabrics,3239
+589,Satin,Fuscia,Stripes,2951
+590,Linen,Yellow,Geometric,6596
+591,Rayon,Crimson,Zebra,545
+592,Chiffon,Maroon,Summer Fabrics,5789
+593,Georgette,Purple,Floral,8050
+594,Sateen,Blue,Ikat,1012
+595,Jute,Green,Shabby Chic Rose,1951
+596,Lace,Aquamarine,Vinatge Seamless,5875
+597,Poplin,Aquamarine,Retro Seamless,5980
+598,Rayon,Puce,Retro Seamless,8137
+599,Sateen,Puce,Flame Stitch,2527
+600,Georgette,Red,Polka Dot,4231
+601,Silk,Violet,Floral,9538
+602,Rayon,Goldenrod,Polka Dot,2494
+603,Velvet,Blue,Stripes,4371
+604,Georgette,Fuscia,Ikat,3823
+605,Satin,Green,Flame Stitch,4673
+606,Cotton ,Aquamarine,Thread Patterns,689
+607,Chiffon,Pink,Painting,8860
+608,Cotton ,Teal,Shabby Chic Rose,3143
+609,Poplin,Orange,Ethnic,9399
+610,Poplin,Puce,Summer Fabrics,5360
+611,Jute,Yellow,Retro Seamless,8281
+612,Sateen,Crimson,Vinatge Seamless,3487
+613,Lace,Orange,Geometric,2897
+614,Lace,Pink,Zebra,6475
+615,Jute,Purple,Floral,2467
+616,Cotton ,Red,Retro Seamless,5550
+617,Velvet,Aquamarine,Flame Stitch,4316
+618,Silk,Violet,Summer Fabrics,5405
+619,Wool,Yellow,Shabby Chic Rose,714
+620,Denim,Crimson,Flame Stitch,2975
+621,Satin,Maroon,Ikat,6319
+622,Linen,Orange,Ikat,895
+623,Rayon,Red,Painting,7758
+624,Chiffon,Pink,Polka Dot,6416
+625,Georgette,Teal,Ethnic,719
+626,Sateen,Orange,Vinatge Seamless,638
+627,Jute,Aquamarine,Thread Patterns,1288
+628,Lace,Purple,Summer Fabrics,988
+629,Poplin,Orange,Stripes,2600
+630,Rayon,Teal,Geometric,2470
+631,Sateen,Maroon,Zebra,8982
+632,Georgette,Mauv,Summer Fabrics,2587
+633,Silk,Blue,Floral,2348
+634,Rayon,Turquoise,Ikat,8445
+635,Velvet,Khaki,Shabby Chic Rose,9595
+636,Georgette,Khaki,Vinatge Seamless,5552
+637,Satin,Teal,Retro Seamless,5360
+638,Cotton ,Aquamarine,Retro Seamless,9315
+639,Chiffon,Khaki,Flame Stitch,3513
+640,Cotton ,Yellow,Polka Dot,734
+641,Poplin,Red,Floral,7211
+642,Poplin,Turquoise,Polka Dot,764
+643,Jute,Yellow,Stripes,3959
+644,Sateen,Aquamarine,Ikat,3336
+645,Lace,Red,Flame Stitch,4019
+646,Lace,Indigo,Thread Patterns,9730
+647,Jute,Maroon,Painting,8095
+648,Cotton ,Fuscia,Shabby Chic Rose,2432
+649,Velvet,Pink,Ethnic,9816
+650,Silk,Blue,Summer Fabrics,5691
+651,Wool,Teal,Retro Seamless,6074
+652,Denim,Crimson,Vinatge Seamless,580
+653,Satin,Maroon,Geometric,5795
+654,Linen,Green,Zebra,3738
+655,Rayon,Pink,Floral,4071
+656,Chiffon,Indigo,Retro Seamless,1378
+657,Georgette,Purple,Flame Stitch,5567
+658,Sateen,Red,Summer Fabrics,5786
+659,Jute,Orange,Shabby Chic Rose,1554
+660,Lace,Yellow,Flame Stitch,3080
+661,Poplin,Fuscia,Ikat,5041
+662,Rayon,Purple,Ikat,1981
+663,Sateen,Teal,Painting,1839
+664,Georgette,Red,Polka Dot,4717
+665,Silk,Crimson,Ethnic,2831
+666,Rayon,Puce,Vinatge Seamless,4499
+667,Velvet,Teal,Thread Patterns,883
+668,Georgette,Yellow,Summer Fabrics,5021
+669,Satin,Yellow,Stripes,7080
+670,Cotton ,Mauv,Geometric,2827
+671,Chiffon,Purple,Zebra,2486
+672,Cotton ,Pink,Summer Fabrics,2922
+673,Poplin,Purple,Floral,1803
+674,Poplin,Khaki,Ikat,6842
+675,Jute,Orange,Shabby Chic Rose,1869
+676,Sateen,Crimson,Vinatge Seamless,4626
+677,Lace,Violet,Retro Seamless,1336
+678,Lace,Purple,Retro Seamless,6604
+679,Jute,Violet,Flame Stitch,8845
+680,Cotton ,Mauv,Polka Dot,4379
+681,Velvet,Teal,Floral,9188
+682,Silk,Blue,Polka Dot,7112
+683,Wool,Indigo,Stripes,1803
+684,Denim,Red,Ikat,3049
+685,Satin,Violet,Flame Stitch,3029
+686,Linen,Aquamarine,Thread Patterns,6866
+687,Rayon,Teal,Painting,8773
+688,Chiffon,Blue,Shabby Chic Rose,7253
+689,Georgette,Crimson,Ethnic,7290
+690,Sateen,Indigo,Summer Fabrics,4441
+691,Jute,Blue,Retro Seamless,3734
+692,Lace,Maroon,Vinatge Seamless,2328
+693,Poplin,Orange,Geometric,2679
+694,Rayon,Violet,Zebra,2314
+695,Sateen,Goldenrod,Floral,6392
+696,Georgette,Goldenrod,Retro Seamless,6673
+697,Silk,Aquamarine,Flame Stitch,5241
+698,Rayon,Turquoise,Summer Fabrics,4587
+699,Velvet,Crimson,Shabby Chic Rose,8616
+700,Georgette,Green,Flame Stitch,2877
+701,Satin,Blue,Ikat,8701
+702,Cotton ,Green,Ikat,9438
+703,Chiffon,Turquoise,Painting,7644
+704,Cotton ,Violet,Polka Dot,6501
+705,Poplin,Red,Ethnic,6167
+706,Poplin,Violet,Vinatge Seamless,6199
+707,Jute,Mauv,Thread Patterns,9874
+708,Sateen,Turquoise,Summer Fabrics,7302
+709,Lace,Red,Stripes,2119
+710,Lace,Goldenrod,Geometric,9462
+711,Jute,Violet,Zebra,8670
+712,Cotton ,Aquamarine,Summer Fabrics,3065
+713,Velvet,Aquamarine,Floral,2390
+714,Silk,Fuscia,Ikat,7152
+715,Wool,Maroon,Shabby Chic Rose,4558
+716,Denim,Crimson,Vinatge Seamless,7757
+717,Satin,Green,Retro Seamless,3189
+718,Linen,Green,Retro Seamless,8983
+719,Rayon,Violet,Flame Stitch,6441
+720,Chiffon,Yellow,Polka Dot,6670
+721,Georgette,Turquoise,Floral,8960
+722,Sateen,Turquoise,Polka Dot,5183
+723,Jute,Khaki,Stripes,3450
+724,Lace,Blue,Ikat,2453
+725,Poplin,Fuscia,Flame Stitch,6251
+726,Rayon,Violet,Thread Patterns,1961
+727,Sateen,Pink,Painting,5272
+728,Georgette,Mauv,Shabby Chic Rose,6420
+729,Silk,Red,Ethnic,7060
+730,Rayon,Violet,Summer Fabrics,5748
+731,Velvet,Mauv,Retro Seamless,5669
+732,Georgette,Aquamarine,Vinatge Seamless,2433
+733,Satin,Violet,Geometric,7643
+734,Cotton ,Crimson,Zebra,1432
+735,Chiffon,Crimson,Floral,2528
+736,Cotton ,Maroon,Retro Seamless,5933
+737,Poplin,Yellow,Flame Stitch,9914
+738,Poplin,Orange,Summer Fabrics,1588
+739,Jute,Crimson,Shabby Chic Rose,4459
+740,Sateen,Khaki,Flame Stitch,6683
+741,Lace,Goldenrod,Ikat,4811
+742,Lace,Crimson,Ikat,3700
+743,Jute,Goldenrod,Painting,533
+744,Cotton ,Puce,Polka Dot,6978
+745,Velvet,Orange,Ethnic,6711
+746,Silk,Indigo,Vinatge Seamless,6891
+747,Wool,Khaki,Thread Patterns,7529
+748,Denim,Indigo,Summer Fabrics,6683
+749,Satin,Indigo,Stripes,5444
+750,Linen,Puce,Geometric,7511
+751,Rayon,Fuscia,Zebra,4457
+752,Chiffon,Maroon,Summer Fabrics,9835
+753,Georgette,Fuscia,Floral,5315
+754,Sateen,Purple,Ikat,2939
+755,Jute,Green,Shabby Chic Rose,7415
+756,Lace,Pink,Vinatge Seamless,4504
+757,Poplin,Fuscia,Retro Seamless,673
+758,Rayon,Goldenrod,Retro Seamless,8362
+759,Sateen,Blue,Flame Stitch,2723
+760,Georgette,Mauv,Polka Dot,2644
+761,Silk,Blue,Floral,7075
+762,Rayon,Puce,Polka Dot,7005
+763,Velvet,Maroon,Stripes,1950
+764,Georgette,Fuscia,Ikat,575
+765,Satin,Green,Flame Stitch,6037
+766,Cotton ,Indigo,Thread Patterns,2396
+767,Chiffon,Teal,Painting,5859
+768,Cotton ,Purple,Shabby Chic Rose,4186
+769,Poplin,Puce,Ethnic,9484
+770,Poplin,Green,Summer Fabrics,9346
+771,Jute,Pink,Retro Seamless,4076
+772,Sateen,Yellow,Vinatge Seamless,2395
+773,Lace,Fuscia,Geometric,9108
+774,Lace,Aquamarine,Zebra,2643
+775,Jute,Fuscia,Floral,3868
+776,Cotton ,Goldenrod,Retro Seamless,5465
+777,Velvet,Yellow,Flame Stitch,3008
+778,Silk,Pink,Summer Fabrics,3026
+779,Wool,Indigo,Shabby Chic Rose,1621
+780,Denim,Turquoise,Flame Stitch,4322
+781,Satin,Red,Ikat,7740
+782,Linen,Turquoise,Ikat,5443
+783,Rayon,Mauv,Painting,3283
+784,Chiffon,Blue,Polka Dot,6466
+785,Georgette,Indigo,Ethnic,9853
+786,Sateen,Turquoise,Vinatge Seamless,2732
+787,Jute,Khaki,Thread Patterns,2393
+788,Lace,Teal,Summer Fabrics,7174
+789,Poplin,Khaki,Stripes,4436
+790,Rayon,Crimson,Geometric,7507
+791,Sateen,Goldenrod,Zebra,3594
+792,Georgette,Teal,Summer Fabrics,7209
+793,Silk,Fuscia,Floral,9653
+794,Rayon,Mauv,Ikat,1389
+795,Velvet,Crimson,Shabby Chic Rose,4356
+796,Georgette,Violet,Vinatge Seamless,2260
+797,Satin,Orange,Retro Seamless,8174
+798,Cotton ,Blue,Retro Seamless,7181
+799,Chiffon,Goldenrod,Flame Stitch,733
+800,Cotton ,Orange,Polka Dot,1590
+801,Poplin,Violet,Floral,2151
+802,Poplin,Violet,Polka Dot,8850
+803,Jute,Maroon,Stripes,1996
+804,Sateen,Pink,Ikat,8652
+805,Lace,Turquoise,Flame Stitch,2980
+806,Lace,Blue,Thread Patterns,1994
+807,Jute,Yellow,Painting,7694
+808,Cotton ,Turquoise,Shabby Chic Rose,9410
+809,Velvet,Yellow,Ethnic,5821
+810,Silk,Red,Summer Fabrics,4351
+811,Wool,Puce,Retro Seamless,8148
+812,Denim,Goldenrod,Vinatge Seamless,6172
+813,Satin,Aquamarine,Geometric,7789
+814,Linen,Red,Zebra,4686
+815,Rayon,Puce,Floral,4239
+816,Chiffon,Orange,Retro Seamless,9687
+817,Georgette,Khaki,Flame Stitch,2901
+818,Sateen,Indigo,Summer Fabrics,6365
+819,Jute,Green,Shabby Chic Rose,7766
+820,Lace,Mauv,Flame Stitch,1404
+821,Poplin,Mauv,Ikat,860
+822,Rayon,Fuscia,Ikat,6930
+823,Sateen,Fuscia,Painting,9194
+824,Georgette,Yellow,Polka Dot,9519
+825,Silk,Crimson,Ethnic,8798
+826,Rayon,Orange,Vinatge Seamless,5718
+827,Velvet,Puce,Thread Patterns,6114
+828,Georgette,Red,Summer Fabrics,6969
+829,Satin,Violet,Stripes,6313
+830,Cotton ,Turquoise,Geometric,5598
+831,Chiffon,Yellow,Zebra,3923
+832,Cotton ,Red,Summer Fabrics,4219
+833,Poplin,Puce,Floral,7216
+834,Poplin,Turquoise,Ikat,9881
+835,Jute,Orange,Shabby Chic Rose,7760
+836,Sateen,Red,Vinatge Seamless,9322
+837,Lace,Khaki,Retro Seamless,5286
+838,Lace,Blue,Retro Seamless,9349
+839,Jute,Goldenrod,Flame Stitch,9616
+840,Cotton ,Green,Polka Dot,3439
+841,Velvet,Orange,Floral,6249
+842,Silk,Puce,Polka Dot,6005
+843,Wool,Fuscia,Stripes,9832
+844,Denim,Khaki,Ikat,3252
+845,Satin,Maroon,Flame Stitch,3997
+846,Linen,Purple,Thread Patterns,5167
+847,Rayon,Crimson,Painting,4505
+848,Chiffon,Red,Shabby Chic Rose,6165
+849,Georgette,Orange,Ethnic,5550
+850,Sateen,Goldenrod,Summer Fabrics,4888
+851,Jute,Green,Retro Seamless,614
+852,Lace,Maroon,Vinatge Seamless,2180
+853,Poplin,Orange,Geometric,691
+854,Rayon,Indigo,Zebra,6810
+855,Sateen,Indigo,Floral,8049
+856,Georgette,Green,Retro Seamless,9829
+857,Silk,Turquoise,Flame Stitch,3977
+858,Rayon,Indigo,Summer Fabrics,2816
+859,Velvet,Blue,Shabby Chic Rose,8704
+860,Georgette,Goldenrod,Flame Stitch,3124
+861,Satin,Crimson,Ikat,2866
+862,Cotton ,Maroon,Ikat,2933
+863,Chiffon,Red,Painting,6049
+864,Cotton ,Turquoise,Polka Dot,5089
+865,Poplin,Khaki,Ethnic,5227
+866,Poplin,Green,Vinatge Seamless,2002
+867,Jute,Pink,Thread Patterns,7927
+868,Sateen,Fuscia,Summer Fabrics,8069
+869,Lace,Blue,Stripes,4147
+870,Lace,Yellow,Geometric,624
+871,Jute,Orange,Zebra,5867
+872,Cotton ,Mauv,Summer Fabrics,4135
+873,Velvet,Green,Floral,3246
+874,Silk,Goldenrod,Ikat,1912
+875,Wool,Aquamarine,Shabby Chic Rose,1346
+876,Denim,Khaki,Vinatge Seamless,5339
+877,Satin,Yellow,Retro Seamless,616
+878,Linen,Orange,Retro Seamless,5285
+879,Rayon,Yellow,Flame Stitch,1083
+880,Chiffon,Indigo,Polka Dot,7746
+881,Georgette,Mauv,Floral,9738
+882,Sateen,Green,Polka Dot,3058
+883,Jute,Orange,Stripes,2360
+884,Lace,Maroon,Ikat,6594
+885,Poplin,Khaki,Flame Stitch,3932
+886,Rayon,Crimson,Thread Patterns,8865
+887,Sateen,Yellow,Painting,4472
+888,Georgette,Green,Shabby Chic Rose,2846
+889,Silk,Maroon,Ethnic,3191
+890,Rayon,Khaki,Summer Fabrics,5623
+891,Velvet,Khaki,Retro Seamless,4261
+892,Georgette,Violet,Vinatge Seamless,8532
+893,Satin,Goldenrod,Geometric,4349
+894,Cotton ,Red,Zebra,3591
+895,Chiffon,Crimson,Floral,901
+896,Cotton ,Aquamarine,Retro Seamless,8614
+897,Poplin,Goldenrod,Flame Stitch,9379
+898,Poplin,Indigo,Summer Fabrics,1162
+899,Jute,Blue,Shabby Chic Rose,2875
+900,Sateen,Crimson,Flame Stitch,4329
+901,Lace,Teal,Ikat,6196
+902,Lace,Indigo,Ikat,2185
+903,Jute,Puce,Painting,1341
+904,Cotton ,Khaki,Polka Dot,2936
+905,Velvet,Crimson,Ethnic,4553
+906,Silk,Red,Vinatge Seamless,1226
+907,Wool,Fuscia,Thread Patterns,1375
+908,Denim,Puce,Summer Fabrics,7268
+909,Satin,Fuscia,Stripes,6873
+910,Linen,Goldenrod,Geometric,5889
+911,Rayon,Teal,Zebra,8609
+912,Chiffon,Puce,Summer Fabrics,2872
+913,Georgette,Teal,Floral,6891
+914,Sateen,Purple,Ikat,4023
+915,Jute,Mauv,Shabby Chic Rose,3902
+916,Lace,Mauv,Vinatge Seamless,4961
+917,Poplin,Blue,Retro Seamless,2992
+918,Rayon,Puce,Retro Seamless,8885
+919,Sateen,Violet,Flame Stitch,2199
+920,Georgette,Aquamarine,Polka Dot,1747
+921,Silk,Khaki,Floral,8843
+922,Rayon,Red,Polka Dot,4522
+923,Velvet,Turquoise,Stripes,5033
+924,Georgette,Violet,Ikat,1598
+925,Satin,Mauv,Flame Stitch,3616
+926,Cotton ,Yellow,Thread Patterns,9960
+927,Chiffon,Puce,Painting,1667
+928,Cotton ,Crimson,Shabby Chic Rose,5578
+929,Poplin,Aquamarine,Ethnic,5141
+930,Poplin,Goldenrod,Summer Fabrics,7877
+931,Jute,Red,Retro Seamless,6579
+932,Sateen,Indigo,Vinatge Seamless,9902
+933,Lace,Orange,Geometric,3578
+934,Lace,Turquoise,Zebra,1719
+935,Jute,Crimson,Floral,5463
+936,Cotton ,Violet,Retro Seamless,4601
+937,Velvet,Orange,Flame Stitch,5834
+938,Silk,Pink,Summer Fabrics,8601
+939,Wool,Aquamarine,Shabby Chic Rose,8700
+940,Denim,Mauv,Flame Stitch,6429
+941,Satin,Purple,Ikat,8152
+942,Linen,Crimson,Ikat,8443
+943,Rayon,Teal,Painting,8132
+944,Chiffon,Khaki,Polka Dot,5744
+945,Georgette,Teal,Ethnic,6224
+946,Sateen,Mauv,Vinatge Seamless,1960
+947,Jute,Fuscia,Thread Patterns,7557
+948,Lace,Fuscia,Summer Fabrics,7148
+949,Poplin,Yellow,Stripes,2765
+950,Rayon,Green,Geometric,5800
+951,Sateen,Mauv,Zebra,7973
+952,Georgette,Yellow,Summer Fabrics,8728
+953,Silk,Red,Floral,2775
+954,Rayon,Violet,Ikat,5236
+955,Velvet,Aquamarine,Shabby Chic Rose,6278
+956,Georgette,Aquamarine,Vinatge Seamless,7065
+957,Satin,Red,Retro Seamless,9076
+958,Cotton ,Turquoise,Retro Seamless,4856
+959,Chiffon,Khaki,Flame Stitch,5763
+960,Cotton ,Orange,Polka Dot,4321
+961,Poplin,Aquamarine,Floral,509
+962,Poplin,Violet,Polka Dot,1972
+963,Jute,Red,Stripes,5329
+964,Sateen,Maroon,Ikat,7858
+965,Lace,Indigo,Flame Stitch,6972
+966,Lace,Orange,Thread Patterns,1808
+967,Jute,Pink,Painting,6216
+968,Cotton ,Khaki,Shabby Chic Rose,859
+969,Velvet,Turquoise,Ethnic,1682
+970,Silk,Blue,Summer Fabrics,9641
+971,Wool,Khaki,Retro Seamless,8942
+972,Denim,Aquamarine,Vinatge Seamless,4863
+973,Satin,Red,Geometric,1826
+974,Linen,Orange,Zebra,6055
+975,Rayon,Yellow,Floral,4414
+976,Chiffon,Goldenrod,Retro Seamless,4567
+977,Georgette,Pink,Flame Stitch,4648
+978,Sateen,Aquamarine,Summer Fabrics,9353
+979,Jute,Fuscia,Shabby Chic Rose,5370
+980,Lace,Yellow,Flame Stitch,6801
+981,Poplin,Khaki,Ikat,5887
+982,Rayon,Mauv,Ikat,928
+983,Sateen,Green,Painting,695
+984,Georgette,Mauv,Polka Dot,9659
+985,Silk,Teal,Ethnic,7122
+986,Rayon,Violet,Vinatge Seamless,4602
+987,Velvet,Blue,Thread Patterns,7369
+988,Georgette,Khaki,Summer Fabrics,1224
+989,Satin,Indigo,Stripes,6794
+990,Cotton ,Purple,Geometric,8119
+991,Chiffon,Goldenrod,Zebra,694
+992,Cotton ,Turquoise,Summer Fabrics,1312
+993,Poplin,Orange,Floral,4688
+994,Poplin,Purple,Ikat,6937
+995,Jute,Green,Shabby Chic Rose,7870
+996,Sateen,Yellow,Vinatge Seamless,3065
+997,Lace,Pink,Retro Seamless,3332
+998,Lace,Pink,Retro Seamless,3323
+999,Jute,Indigo,Flame Stitch,5301
+1000,Cotton ,Goldenrod,Polka Dot,9707
