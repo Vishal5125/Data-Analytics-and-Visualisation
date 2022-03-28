@@ -1,0 +1,1001 @@
+Customer id,Customer Name ,Customer Email,Customer contact no,Fabric Type, Design ,Fabric Colour,Order Priority,Delivery Time,Sales
+1,Barbabra,aboorman0@blinklist.com,(153) 9758658,Poplin,Floral,Violet,Critical ,One week,382.808
+2,Pate,fdilger1@aol.com,(397) 5392440,Poplin,Polka Dot,Pink,High ,Two weeks,358.177
+3,Aristotle,ajaniak2@reverbnation.com,(527) 9381959,Jute,Stripes,Crimson,Low ,Four weeks,470.312
+4,Editha,chapper3@ft.com,(883) 2211205,Sateen,Ikat,Turquoise,Medium,Three weeks,763.317
+5,Hoebart,eglavis4@sun.com,(169) 2281706,Lace,Flame Stitch,Pink,High ,Two weeks,592.887
+6,Karon,pmulbry5@netscape.com,(999) 3788988,Lace,Thread Patterns,Yellow,Critical ,One week,320.575
+7,Becki,dfilipychev6@amazonaws.com,(870) 9194210,Jute,Painting,Maroon,Low ,Four weeks,961.968
+8,Amanda,mcalyton7@list-manage.com,(844) 9268909,Cotton ,Shabby Chic Rose,Teal,Medium,Three weeks,370.812
+9,Risa,mwoolfall8@icio.us,(336) 3841163,Velvet,Ethnic,Fuscia,Medium,Three weeks,278.776
+10,Pauline,tkedslie9@nsw.gov.au,(417) 2362625,Silk,Summer Fabrics,Purple,Low ,Four weeks,913.593
+11,Berte,ktunnowa@goo.ne.jp,(227) 1776167,Wool,Retro Seamless,Green,High ,Two weeks,438.614
+12,Ephrem,cbottb@timesonline.co.uk,(556) 4463056,Denim,Vinatge Seamless,Aquamarine,Critical ,One week,294.525
+13,Kristopher,dmacfaddenc@imageshack.us,(862) 5794380,Satin,Geometric,Pink,High ,Two weeks,297.154
+14,Arther,fmccoidd@vk.com,(176) 1972059,Linen,Zebra,Fuscia,High ,Two weeks,570.426
+15,Eulalie,cplankee@si.edu,(738) 9193659,Rayon,Floral,Goldenrod,Medium,Three weeks,519.76
+16,Cybil,hmilesopf@scientificamerican.com,(101) 7661892,Chiffon,Retro Seamless,Maroon,Critical ,One week,619.023
+17,Gauthier,rskipseyg@adobe.com,(633) 1813289,Georgette,Flame Stitch,Khaki,Critical ,One week,526.782
+18,Ann,gbiermanh@bravesites.com,(994) 5667900,Sateen,Summer Fabrics,Goldenrod,Low ,Four weeks,109.24
+19,Cristy,ediglini@sciencedaily.com,(262) 3331073,Jute,Shabby Chic Rose,Turquoise,Low ,Four weeks,269.528
+20,Borg,achestersj@1688.com,(780) 7452180,Lace,Flame Stitch,Mauv,Critical ,One week,225.335
+21,Hubert,mshanahank@exblog.jp,(583) 3421364,Poplin,Ikat,Blue,High ,Two weeks,638.945
+22,Faye,hhelliwelll@howstuffworks.com,(182) 1767988,Rayon,Ikat,Teal,Low ,Four weeks,571.386
+23,Giacopo,cleeburnm@biglobe.ne.jp,(723) 7038563,Sateen,Painting,Puce,Medium,Three weeks,143.631
+24,Gates,mogersn@bizjournals.com,(628) 4044069,Georgette,Polka Dot,Violet,High ,Two weeks,367.461
+25,Demetris,tstookeo@economist.com,(859) 4544232,Silk,Ethnic,Teal,Critical ,One week,212.614
+26,Druci,pclemenzap@gnu.org,(281) 2090002,Rayon,Vinatge Seamless,Purple,Low ,Four weeks,129.19
+27,Kipp,sslymeq@constantcontact.com,(896) 1758866,Velvet,Thread Patterns,Blue,Medium,Three weeks,119.721
+28,Fidel,dwetheyr@tumblr.com,(211) 3683626,Georgette,Summer Fabrics,Fuscia,Medium,Three weeks,199.196
+29,Kriste,jelsbys@icio.us,(919) 8720576,Satin,Stripes,Blue,Low ,Four weeks,412.533
+30,Baird,mjeppet@geocities.jp,(853) 8128332,Cotton ,Geometric,Violet,High ,Two weeks,850.488
+31,Karole,fdarvilleu@slate.com,(896) 7458611,Chiffon,Zebra,Khaki,Critical ,One week,152.06
+32,Therese,rmcavincheyv@cdbaby.com,(559) 5660014,Cotton ,Summer Fabrics,Green,High ,Two weeks,851.55
+33,Manolo,cbernardow@elpais.com,(166) 2045847,Poplin,Floral,Maroon,High ,Two weeks,879.654
+34,Pieter,dmcowenx@livejournal.com,(429) 8896248,Poplin,Ikat,Puce,Medium,Three weeks,935.396
+35,Chad,pbrodwayy@dagondesign.com,(515) 3506115,Jute,Shabby Chic Rose,Turquoise,Critical ,One week,704.771
+36,Jayne,wmatschossz@symantec.com,(608) 3439677,Sateen,Vinatge Seamless,Yellow,Critical ,One week,877.644
+37,Rich,rconyer10@cbc.ca,(825) 6265117,Lace,Retro Seamless,Mauv,Low ,Four weeks,378.773
+38,Mollie,iboyington11@rambler.ru,(738) 4067817,Lace,Retro Seamless,Red,Low ,Four weeks,385.994
+39,Marena,shearnshaw12@google.co.uk,(452) 8180917,Jute,Flame Stitch,Pink,Critical ,One week,730.375
+40,Christi,alotherington13@taobao.com,(651) 1582212,Cotton ,Polka Dot,Fuscia,High ,Four weeks,857.128
+41,Elisa,eisley14@cnet.com,(772) 9365403,Velvet,Floral,Purple,Low ,One week,377.709
+42,Janek,tmeers15@state.gov,(401) 8673402,Silk,Polka Dot,Puce,Medium,Two weeks,212.134
+43,Dannye,mpolgreen16@fastcompany.com,(458) 4580717,Wool,Stripes,Violet,High ,Four weeks,845.993
+44,Friedrick,meickhoff17@discuz.net,(705) 6227701,Denim,Ikat,Red,Critical ,Three weeks,345.713
+45,Corrie,acasement18@economist.com,(152) 4480488,Satin,Flame Stitch,Khaki,Low ,Two weeks,346.728
+46,Irma,hdrust19@naver.com,(400) 8721038,Linen,Thread Patterns,Goldenrod,Medium,One week,140.476
+47,Hollis,vkorn1a@angelfire.com,(294) 5220386,Rayon,Painting,Purple,Medium,Four weeks,899.042
+48,Nanine,pstaneland1b@technorati.com,(437) 8977413,Chiffon,Shabby Chic Rose,Goldenrod,Low ,Three weeks,875.292
+49,Oralla,krickeard1c@cam.ac.uk,(649) 2644167,Georgette,Ethnic,Orange,High ,Three weeks,848.764
+50,Christan,hhazell1d@eepurl.com,(776) 4066660,Sateen,Summer Fabrics,Mauv,Critical ,Four weeks,412.506
+51,Rhoda,bcafe1e@hibu.com,(322) 5031987,Jute,Retro Seamless,Pink,High ,Two weeks,275.329
+52,Yorke,bpenton1f@shinystat.com,(444) 1433146,Lace,Vinatge Seamless,Pink,High ,One week,819.432
+53,Alexei,mvalett1g@cornell.edu,(607) 8865190,Poplin,Geometric,Aquamarine,Medium,Two weeks,855.896
+54,Mayer,jgoane1h@devhub.com,(445) 3229959,Rayon,Zebra,Teal,Critical ,Two weeks,284.987
+55,Cristian,lgermon1i@nationalgeographic.com,(180) 7307380,Sateen,Floral,Goldenrod,Critical ,Three weeks,380.376
+56,Son,dshelmerdine1j@webeden.co.uk,(971) 9685447,Georgette,Retro Seamless,Puce,Low ,One week,140.711
+57,Zedekiah,mdetocqueville1k@simplemachines.org,(741) 7690403,Silk,Flame Stitch,Puce,Low ,One week,265.291
+58,Morgen,vreuble1l@dyndns.org,(522) 1705206,Rayon,Summer Fabrics,Khaki,Critical ,Four weeks,915.826
+59,Dona,ihapps1m@cornell.edu,(415) 7951770,Velvet,Shabby Chic Rose,Mauv,High ,Four weeks,971.868
+60,Constancia,hcunniffe1n@discovery.com,(255) 8175508,Georgette,Flame Stitch,Turquoise,Low ,One week,558.046
+61,Ivy,hbortoloni1o@hhs.gov,(408) 8793139,Satin,Ikat,Goldenrod,Medium,Two weeks,530.987
+62,Veda,mmacvaugh1p@devhub.com,(220) 8287390,Cotton ,Ikat,Crimson,High ,Four weeks,634.055
+63,Loralyn,jtorrie1q@google.com.au,(992) 2037346,Chiffon,Painting,Yellow,Critical ,Three weeks,153.455
+64,Eldredge,mfrancom1r@wikipedia.org,(187) 5005044,Cotton ,Polka Dot,Blue,Low ,Two weeks,179.191
+65,Ardisj,kliddy1s@jugem.jp,(539) 8230015,Poplin,Ethnic,Blue,Medium,One week,871.393
+66,Rhodie,lgrimble1t@prlog.org,(851) 2702164,Poplin,Vinatge Seamless,Yellow,Medium,Four weeks,766.598
+67,Tova,imettrick1u@bbb.org,(252) 2324811,Jute,Thread Patterns,Crimson,Low ,Three weeks,401.854
+68,Wendye,kzaniolo1v@eepurl.com,(936) 2346804,Sateen,Summer Fabrics,Goldenrod,High ,Three weeks,392.534
+69,Jaime,jsabban1w@youku.com,(769) 2770015,Lace,Stripes,Green,Critical ,Four weeks,867.815
+70,Reba,cstiff1x@google.com.hk,(751) 9928230,Lace,Geometric,Green,High ,Two weeks,340.888
+71,Cybill,twalak1y@sbwire.com,(128) 7027002,Jute,Zebra,Puce,High ,One week,555.398
+72,Yule,hshekle1z@blogtalkradio.com,(694) 9094874,Cotton ,Summer Fabrics,Maroon,Medium,Two weeks,498.937
+73,Gaelan,mbeining20@bloomberg.com,(666) 6619819,Velvet,Floral,Violet,Critical ,Two weeks,788.337
+74,Codie,ljerschke21@nyu.edu,(708) 1671441,Silk,Ikat,Mauv,Critical ,Three weeks,193.874
+75,Charlena,jmustchin22@pagesperso-orange.fr,(717) 1901730,Wool,Shabby Chic Rose,Teal,Low ,One week,828.307
+76,Pansie,tbakes23@bloglines.com,(829) 9734883,Denim,Vinatge Seamless,Red,Low ,One week,172.166
+77,Katheryn,thearse24@reddit.com,(668) 5186616,Satin,Retro Seamless,Goldenrod,Critical ,Four weeks,468.558
+78,Aaren,tkabsch25@chronoengine.com,(359) 2185492,Linen,Retro Seamless,Khaki,High ,Four weeks,353.828
+79,Bucky,tkeating26@slideshare.net,(762) 2639720,Rayon,Flame Stitch,Maroon,Low ,One week,514.622
+80,Susie,omerit27@shop-pro.jp,(677) 7423615,Chiffon,Polka Dot,Indigo,Medium,Four weeks,993.081
+81,Orly,ebourke28@yolasite.com,(191) 9673596,Georgette,Floral,Maroon,High ,One week,640.801
+82,Thoma,hbelhome29@cbc.ca,(980) 9260435,Sateen,Polka Dot,Aquamarine,Critical ,Two weeks,418.821
+83,Eolanda,rpickrell2a@nsw.gov.au,(225) 3768459,Jute,Stripes,Violet,Low ,Four weeks,405.922
+84,Kandy,oburfitt2b@imgur.com,(719) 5968237,Lace,Ikat,Goldenrod,Medium,Three weeks,319.626
+85,Oswell,zsebyer2c@dailymail.co.uk,(852) 5946461,Poplin,Flame Stitch,Crimson,Medium,Two weeks,151.371
+86,Anallise,gtrigwell2d@xing.com,(838) 3132847,Rayon,Thread Patterns,Blue,Low ,One week,628.24
+87,Florie,cnajera2e@xing.com,(208) 7412417,Sateen,Painting,Green,High ,Four weeks,866.046
+88,Freddy,sstenhouse2f@skype.com,(816) 3103613,Georgette,Shabby Chic Rose,Pink,Critical ,Three weeks,287.281
+89,Sarene,ftheunissen2g@squarespace.com,(869) 1565322,Silk,Ethnic,Yellow,High ,Three weeks,160.426
+90,Berkie,wsabater2h@vkontakte.ru,(203) 3967154,Rayon,Summer Fabrics,Crimson,High ,Four weeks,463.087
+91,Cherianne,lmoulton2i@sitemeter.com,(878) 1821840,Velvet,Retro Seamless,Fuscia,Medium,Two weeks,909.543
+92,Randolf,mcarbett2j@vimeo.com,(706) 4691897,Georgette,Vinatge Seamless,Purple,Critical ,One week,212.693
+93,Bobbi,pwilcock2k@webmd.com,(772) 4467556,Satin,Geometric,Maroon,Critical ,Two weeks,468.051
+94,Josias,egoodanew2l@dion.ne.jp,(455) 8585891,Cotton ,Zebra,Red,Low ,Two weeks,656.679
+95,Carleen,ckirimaa2m@constantcontact.com,(434) 7586642,Chiffon,Floral,Pink,Low ,Three weeks,780.502
+96,Kimmie,aevans2n@intel.com,(405) 1069622,Cotton ,Retro Seamless,Pink,Critical ,One week,268.67
+97,Alie,wmorgon2o@miitbeian.gov.cn,(713) 7442918,Poplin,Flame Stitch,Goldenrod,High ,One week,893.408
+98,Viviyan,aarmatys2p@fda.gov,(932) 2762749,Poplin,Summer Fabrics,Crimson,Low ,Four weeks,723.065
+99,Hunt,wcanet2q@macromedia.com,(687) 9869723,Jute,Shabby Chic Rose,Purple,Medium,Four weeks,921.386
+100,Elden,cmccreery2r@histats.com,(998) 6922935,Sateen,Flame Stitch,Yellow,High ,One week,382.565
+101,Shem,scouthard2s@mediafire.com,(882) 6292196,Lace,Ikat,Crimson,Critical ,Two weeks,819.923
+102,Sanderson,pvasilevich2t@ameblo.jp,(594) 4863731,Lace,Ikat,Turquoise,Low ,Four weeks,508.187
+103,Jori,itruran2u@spotify.com,(748) 9362865,Jute,Painting,Purple,Medium,Three weeks,802.16
+104,Geraldine,rhakeworth2v@nyu.edu,(546) 1644050,Cotton ,Polka Dot,Fuscia,Medium,Two weeks,265.644
+105,Kathrine,mflacknoe2w@stumbleupon.com,(166) 5363091,Velvet,Ethnic,Puce,Low ,One week,231.47
+106,Blanch,htoman2x@icio.us,(451) 3400486,Silk,Vinatge Seamless,Purple,High ,Four weeks,941.745
+107,Xavier,dmaliffe2y@jigsy.com,(843) 5813924,Wool,Thread Patterns,Khaki,Critical ,Three weeks,794.52
+108,Nadeen,osylett2z@xinhuanet.com,(705) 3398017,Denim,Summer Fabrics,Red,High ,Three weeks,704.079
+109,Rickard,ldixcey30@myspace.com,(387) 6958761,Satin,Stripes,Aquamarine,High ,Four weeks,878.034
+110,Garey,gkinloch31@reuters.com,(213) 7640761,Linen,Geometric,Violet,Medium,Two weeks,459.462
+111,Gal,jswaisland32@technorati.com,(780) 5695150,Rayon,Zebra,Yellow,Critical ,One week,608.604
+112,Alecia,hkinig33@virginia.edu,(540) 3990902,Chiffon,Summer Fabrics,Purple,Critical ,Two weeks,913.493
+113,Clarence,jcuseck34@ed.gov,(902) 7965992,Georgette,Floral,Mauv,Low ,Two weeks,337.894
+114,Danny,aabreheart35@free.fr,(575) 6174737,Sateen,Ikat,Turquoise,Low ,Three weeks,433.111
+115,Regina,dpolly36@apple.com,(383) 4095307,Jute,Shabby Chic Rose,Green,Critical ,One week,231.188
+116,Harriet,jserfati37@pen.io,(278) 2721216,Lace,Vinatge Seamless,Violet,High ,One week,732.158
+117,Faythe,jmauro38@blinklist.com,(620) 5593479,Poplin,Retro Seamless,Crimson,Low ,Four weeks,111.929
+118,Barbara,btreppas39@fema.gov,(183) 2381223,Rayon,Retro Seamless,Orange,Medium,Four weeks,285.098
+119,Kirbie,eallinson3a@globo.com,(917) 3879147,Sateen,Flame Stitch,Fuscia,High ,One week,244.462
+120,Fielding,vosan3b@people.com.cn,(756) 1056831,Georgette,Polka Dot,Red,Critical ,Four weeks,191.878
+121,Ralph,thalgarth3c@cnet.com,(290) 3524982,Silk,Floral,Crimson,Low ,One week,539.593
+122,Maddie,gchapiro3d@drupal.org,(162) 8983941,Rayon,Polka Dot,Pink,Medium,Two weeks,198.406
+123,Angelica,wmatoshin3e@shop-pro.jp,(893) 7904692,Velvet,Stripes,Fuscia,Medium,Four weeks,203.299
+124,Levey,gbernardeau3f@geocities.com,(228) 9206413,Georgette,Ikat,Maroon,Low ,Three weeks,787.085
+125,Pansy,aburden3g@soup.io,(242) 9169088,Satin,Flame Stitch,Puce,High ,Two weeks,864.902
+126,Max,bmasterson3h@admin.ch,(500) 3832497,Cotton ,Thread Patterns,Green,Critical ,One week,161.942
+127,Standford,pwyld3i@virginia.edu,(594) 3339509,Chiffon,Painting,Violet,High ,Four weeks,323.924
+128,Gabi,mwhittock3j@ifeng.com,(330) 4422271,Cotton ,Shabby Chic Rose,Goldenrod,High ,Three weeks,696.863
+129,Lucius,bbloxham3k@1und1.de,(660) 2650981,Poplin,Ethnic,Teal,Medium,Three weeks,935.458
+130,Maximilian,jtinston3l@macromedia.com,(354) 2315501,Poplin,Summer Fabrics,Orange,Critical ,Four weeks,992.045
+131,Avie,egianettini3m@surveymonkey.com,(731) 2229162,Jute,Retro Seamless,Fuscia,Critical ,Two weeks,814.317
+132,Dex,sswedeland3n@amazon.com,(460) 5118307,Sateen,Vinatge Seamless,Mauv,Low ,One week,694.545
+133,Minerva,rletterick3o@clickbank.net,(419) 9939636,Lace,Geometric,Goldenrod,Low ,Two weeks,260.424
+134,Nettle,fheyfield3p@reddit.com,(977) 5362267,Lace,Zebra,Aquamarine,Critical ,Two weeks,660.812
+135,Darsie,nmackaig3q@twitpic.com,(571) 9327242,Jute,Floral,Crimson,High ,Three weeks,963.872
+136,David,pcases3r@istockphoto.com,(606) 3562317,Cotton ,Retro Seamless,Pink,Low ,One week,794.189
+137,Amil,askillicorn3s@sina.com.cn,(805) 1548207,Velvet,Flame Stitch,Violet,Medium,One week,313.027
+138,Larina,akibbye3t@cocolog-nifty.com,(863) 1855493,Silk,Summer Fabrics,Yellow,High ,Four weeks,267.693
+139,Juanita,ccoggan3u@ehow.com,(873) 4879554,Wool,Shabby Chic Rose,Orange,Critical ,Four weeks,623.42
+140,Cazzie,omaddicks3v@1688.com,(487) 6778165,Denim,Flame Stitch,Purple,Low ,One week,192.59
+141,Anselma,jfilyaev3w@angelfire.com,(490) 4934103,Satin,Ikat,Maroon,Medium,Two weeks,790.243
+142,Man,hbinch3x@ed.gov,(599) 2583457,Linen,Ikat,Yellow,Medium,Four weeks,749.832
+143,Swen,bzahor3y@gnu.org,(996) 6132464,Rayon,Painting,Mauv,Low ,Three weeks,679.622
+144,Sharron,sbunstone3z@canalblog.com,(244) 3730184,Chiffon,Polka Dot,Maroon,High ,Two weeks,541.065
+145,Frederico,ghamblen40@nih.gov,(742) 6230743,Georgette,Ethnic,Fuscia,Critical ,One week,866.698
+146,Baryram,vtoll41@wunderground.com,(342) 2259865,Sateen,Vinatge Seamless,Purple,High ,Four weeks,663.916
+147,Lay,wgwalter42@google.nl,(147) 9545569,Jute,Thread Patterns,Red,High ,Three weeks,815.611
+148,Fanchette,bskuce43@simplemachines.org,(892) 4725144,Lace,Summer Fabrics,Goldenrod,Medium,Three weeks,481.004
+149,Frances,adollard44@dagondesign.com,(673) 5563438,Poplin,Stripes,Turquoise,Critical ,Four weeks,171.906
+150,Vevay,hsieb45@mozilla.com,(319) 5153119,Rayon,Geometric,Maroon,Critical ,Two weeks,932.836
+151,Minor,msultana46@youtube.com,(160) 5028854,Sateen,Zebra,Puce,Low ,One week,838.308
+152,Elvyn,ppryce47@desdev.cn,(609) 6027907,Georgette,Summer Fabrics,Violet,Low ,Two weeks,140.981
+153,Oona,wcastelyn48@yahoo.co.jp,(358) 7136074,Silk,Floral,Blue,Critical ,Two weeks,827.149
+154,Morissa,jplumbley49@mysql.com,(264) 5139900,Rayon,Ikat,Violet,High ,Three weeks,515.783
+155,Maybelle,fwass4a@miitbeian.gov.cn,(467) 6485246,Velvet,Shabby Chic Rose,Puce,Low ,One week,319.086
+156,Alana,ejovovic4b@theguardian.com,(512) 4671730,Georgette,Vinatge Seamless,Turquoise,Medium,One week,800.594
+157,Bayard,trae4c@cam.ac.uk,(789) 7844365,Satin,Retro Seamless,Purple,High ,Four weeks,961.357
+158,Beale,rneilus4d@stanford.edu,(720) 2333830,Cotton ,Retro Seamless,Mauv,Critical ,Four weeks,955.521
+159,Anabelle,akissick4e@rakuten.co.jp,(278) 3477275,Chiffon,Flame Stitch,Blue,Low ,One week,714.079
+160,Burl,jdarnbrook4f@mit.edu,(301) 2285096,Cotton ,Polka Dot,Pink,Medium,Four weeks,277.322
+161,Rina,ggullis4g@accuweather.com,(277) 4644547,Poplin,Floral,Maroon,Medium,One week,816.788
+162,Casie,ttalby4h@amazonaws.com,(396) 3491494,Poplin,Polka Dot,Indigo,Low ,Two weeks,600.819
+163,Elbertina,glamball4i@hubpages.com,(901) 8216548,Jute,Stripes,Goldenrod,High ,Four weeks,958.651
+164,Beniamino,fmenure4j@dailymotion.com,(101) 9105347,Sateen,Ikat,Mauv,Critical ,Three weeks,409.674
+165,Richardo,thinder4k@wired.com,(679) 7780198,Lace,Flame Stitch,Red,High ,Two weeks,558.374
+166,Nev,ddebow4l@google.nl,(842) 5074756,Lace,Thread Patterns,Yellow,High ,One week,896.539
+167,Karalynn,kdew4m@privacy.gov.au,(877) 1980947,Jute,Painting,Goldenrod,Medium,Four weeks,579.77
+168,Lelia,pgurry4n@google.cn,(537) 7772951,Cotton ,Shabby Chic Rose,Yellow,Critical ,Three weeks,879.84
+169,Arleen,fsimukov4o@cdbaby.com,(264) 4197419,Velvet,Ethnic,Orange,Critical ,Three weeks,860.777
+170,La verne,pelkin4p@smh.com.au,(285) 5775516,Silk,Summer Fabrics,Blue,Low ,Four weeks,540.276
+171,Leonhard,mwelbourn4q@mashable.com,(729) 1304971,Wool,Retro Seamless,Yellow,Low ,Two weeks,823.057
+172,Beckie,fbrazer4r@smh.com.au,(739) 4221466,Denim,Vinatge Seamless,Fuscia,Critical ,One week,602.019
+173,Gertrude,ccohani4s@nytimes.com,(172) 3021460,Satin,Geometric,Blue,High ,Two weeks,952.24
+174,Averill,bannes4t@wordpress.org,(493) 1634955,Linen,Zebra,Maroon,Low ,Two weeks,587.015
+175,Cheslie,bbesque4u@si.edu,(905) 5797509,Rayon,Floral,Orange,Medium,Three weeks,349.436
+176,Mariam,lascough4v@devhub.com,(666) 3736119,Chiffon,Retro Seamless,Yellow,High ,One week,250.537
+177,Cassandra,rwofenden4w@businessweek.com,(184) 4616968,Georgette,Flame Stitch,Purple,Critical ,One week,985.902
+178,Celina,cgrewar4x@technorati.com,(343) 9856143,Sateen,Summer Fabrics,Crimson,Low ,Four weeks,394.11
+179,Geri,elorent4y@sakura.ne.jp,(185) 5058598,Jute,Shabby Chic Rose,Orange,Medium,Four weeks,262.299
+180,Alain,pvonasek4z@geocities.com,(412) 7752715,Lace,Flame Stitch,Blue,Medium,One week,178.747
+181,Jourdan,cstot50@bizjournals.com,(965) 2762570,Poplin,Ikat,Violet,Low ,Two weeks,182.589
+182,Viki,rparfett51@fema.gov,(766) 7380576,Rayon,Ikat,Turquoise,High ,Four weeks,271.215
+183,Etienne,egludor52@list-manage.com,(528) 9127167,Sateen,Painting,Indigo,Critical ,Three weeks,435.7
+184,Pearle,blowen53@prnewswire.com,(249) 3449871,Georgette,Polka Dot,Puce,High ,Two weeks,384.405
+185,Estell,rshilladay54@xing.com,(368) 6931122,Silk,Ethnic,Yellow,High ,One week,373.186
+186,Velvet,jmanjin55@blogspot.com,(591) 3583720,Rayon,Vinatge Seamless,Red,Medium,Four weeks,748.952
+187,Siward,ndickens56@netlog.com,(152) 1517079,Velvet,Thread Patterns,Yellow,Critical ,Three weeks,341.32
+188,Esra,abarras57@answers.com,(241) 9421056,Georgette,Summer Fabrics,Aquamarine,Critical ,Three weeks,459.242
+189,Yorgos,aaven58@phoca.cz,(226) 9485073,Satin,Stripes,Pink,Low ,Four weeks,386.528
+190,Francois,oestoile59@wired.com,(346) 3652237,Cotton ,Geometric,Mauv,Low ,Two weeks,384.688
+191,Khalil,geastham5a@earthlink.net,(814) 8599980,Chiffon,Zebra,Mauv,Critical ,One week,112.537
+192,Nicol,dmalloch5b@over-blog.com,(553) 2141275,Cotton ,Summer Fabrics,Blue,High ,Two weeks,798.627
+193,Ericka,cbarrowclough5c@mac.com,(581) 1150996,Poplin,Floral,Pink,Low ,Two weeks,246.834
+194,Lorens,maharoni5d@sun.com,(983) 1107887,Poplin,Ikat,Indigo,Medium,Three weeks,917.629
+195,Ellynn,fpaolillo5e@cmu.edu,(851) 1468787,Jute,Shabby Chic Rose,Khaki,High ,One week,451.345
+196,Bryon,bkupper5f@newyorker.com,(217) 4324261,Sateen,Vinatge Seamless,Crimson,Critical ,One week,418.355
+197,Sophronia,ctravers5g@google.ru,(514) 4836754,Lace,Retro Seamless,Blue,Low ,Four weeks,516.763
+198,Nollie,smorbey5h@epa.gov,(462) 2324177,Lace,Retro Seamless,Khaki,Medium,Four weeks,667.861
+199,Henryetta,ecahan5i@disqus.com,(796) 5728760,Jute,Flame Stitch,Aquamarine,Medium,One week,844.232
+200,Jolynn,ikeaveny5j@tripod.com,(786) 1167427,Cotton ,Polka Dot,Pink,Low ,Four weeks,410.259
+201,Raoul,rbilham5k@prlog.org,(177) 8094476,Velvet,Floral,Blue,High ,One week,636.765
+202,Emelyne,dorganer5l@rambler.ru,(724) 9193573,Silk,Polka Dot,Teal,Critical ,Two weeks,292.722
+203,Ailey,losorio5m@facebook.com,(475) 4947521,Wool,Stripes,Mauv,High ,Four weeks,920.82
+204,Welsh,jmattia5n@usa.gov,(591) 7286590,Denim,Ikat,Teal,High ,Three weeks,698.453
+205,Rutter,cadamik5o@google.cn,(636) 7272119,Satin,Flame Stitch,Aquamarine,Medium,Two weeks,113.786
+206,Anett,uchicotti5p@diigo.com,(490) 6592432,Linen,Thread Patterns,Yellow,Critical ,One week,463.724
+207,Tyne,jkingerby5q@examiner.com,(398) 1411272,Rayon,Painting,Goldenrod,Critical ,Four weeks,120.451
+208,Cheslie,ewilman5r@zimbio.com,(130) 3536386,Chiffon,Shabby Chic Rose,Puce,Low ,Three weeks,571.994
+209,Loise,jwallage5s@npr.org,(952) 4647229,Georgette,Ethnic,Yellow,Low ,Three weeks,414.736
+210,Tess,sbamborough5t@tripod.com,(139) 7372428,Sateen,Summer Fabrics,Aquamarine,Critical ,Four weeks,502.83
+211,Pegeen,dsallows5u@tamu.edu,(712) 2006580,Jute,Retro Seamless,Blue,High ,Two weeks,883.264
+212,Harriott,ireder5v@usnews.com,(798) 1669365,Lace,Vinatge Seamless,Khaki,Low ,One week,935.378
+213,Tamiko,dbutcher5w@facebook.com,(693) 7697590,Poplin,Geometric,Puce,Medium,Two weeks,319.882
+214,Aksel,wogilby5x@ifeng.com,(389) 3150826,Rayon,Zebra,Maroon,High ,Two weeks,647.861
+215,Emilia,wshilstone5y@uiuc.edu,(392) 1487777,Sateen,Floral,Blue,Critical ,Three weeks,116.724
+216,Rance,nscarbarrow5z@yolasite.com,(607) 6942116,Georgette,Retro Seamless,Yellow,Low ,One week,369.888
+217,Burke,ibedells60@people.com.cn,(286) 6542088,Silk,Flame Stitch,Purple,Medium,One week,237.213
+218,Loutitia,pbettesworth61@bizjournals.com,(245) 2884874,Rayon,Summer Fabrics,Mauv,Medium,Four weeks,790.499
+219,Ardis,mhayley62@simplemachines.org,(377) 6537044,Velvet,Shabby Chic Rose,Crimson,Low ,Four weeks,156.92
+220,Antonia,rcraze63@bravesites.com,(507) 6053267,Georgette,Flame Stitch,Green,High ,One week,604.544
+221,Hershel,aweatherill64@vistaprint.com,(643) 7688073,Satin,Ikat,Goldenrod,Critical ,Two weeks,624.909
+222,Agace,ccorss65@dropbox.com,(704) 9296063,Cotton ,Ikat,Red,High ,Four weeks,929.162
+223,Delcine,bsamweyes66@simplemachines.org,(783) 4006855,Chiffon,Painting,Yellow,High ,Three weeks,203.09
+224,Greer,fnestoruk67@usgs.gov,(536) 7933349,Cotton ,Polka Dot,Fuscia,Medium,Two weeks,226.84
+225,Cati,gskeat68@blogtalkradio.com,(700) 6107158,Poplin,Ethnic,Blue,Critical ,One week,739.293
+226,Fayina,mpearton69@alexa.com,(931) 4144643,Poplin,Vinatge Seamless,Maroon,Critical ,Four weeks,466.247
+227,Lissa,dshortin6a@dailymail.co.uk,(464) 5723149,Jute,Thread Patterns,Turquoise,Low ,Three weeks,349.285
+228,El,dacutt6b@smh.com.au,(640) 3611775,Sateen,Summer Fabrics,Pink,Low ,Three weeks,218.205
+229,Bernadine,mgiacobillo6c@ucla.edu,(962) 8863809,Lace,Stripes,Pink,Critical ,Four weeks,533.42
+230,Denis,ldemschke6d@foxnews.com,(551) 4221257,Lace,Geometric,Goldenrod,High ,Two weeks,128.369
+231,Pavia,pkofax6e@vinaora.com,(158) 1546540,Jute,Zebra,Orange,Low ,One week,892.768
+232,Elly,smithan6f@ox.ac.uk,(911) 3617808,Cotton ,Summer Fabrics,Maroon,Medium,Two weeks,335.986
+233,Gamaliel,lbrighouse6g@squarespace.com,(419) 6952795,Velvet,Floral,Red,High ,Two weeks,683.714
+234,Roderich,nblaszkiewicz6h@dropbox.com,(130) 9854882,Silk,Ikat,Fuscia,Critical ,Three weeks,679.849
+235,Gilbert,ccoaten6i@aol.com,(395) 3294747,Wool,Shabby Chic Rose,Orange,Low ,One week,457.531
+236,Alysa,cprovost6j@arstechnica.com,(500) 8612489,Denim,Vinatge Seamless,Green,Medium,One week,237.522
+237,Mag,fgiotto6k@dailymotion.com,(734) 4649920,Satin,Retro Seamless,Red,Medium,Four weeks,763.279
+238,Gal,ctal6l@google.nl,(895) 5160582,Linen,Retro Seamless,Aquamarine,Low ,Four weeks,116.477
+239,Port,jcalvert6m@ebay.co.uk,(252) 4363534,Rayon,Flame Stitch,Mauv,High ,One week,517.671
+240,Lorianna,swooff6n@cnet.com,(414) 2921772,Chiffon,Polka Dot,Khaki,Critical ,Four weeks,922.563
+241,Celinka,mgingle6o@google.de,(662) 1934792,Georgette,Floral,Mauv,High ,One week,775.513
+242,Israel,bbiasioli6p@sakura.ne.jp,(776) 2563867,Sateen,Polka Dot,Teal,High ,Two weeks,103.86
+243,Egon,emote6q@privacy.gov.au,(778) 6687276,Jute,Stripes,Blue,Medium,Four weeks,113.82
+244,Joellen,keisikowitch6r@bbb.org,(704) 8089994,Lace,Ikat,Green,Critical ,Three weeks,113.222
+245,Woodie,wamberger6s@wunderground.com,(981) 2450915,Poplin,Flame Stitch,Yellow,Critical ,Two weeks,448.355
+246,Hildegaard,gshrawley6t@hibu.com,(553) 8151557,Rayon,Thread Patterns,Orange,Low ,One week,424.264
+247,Skippie,ghubball6u@themeforest.net,(492) 7610150,Sateen,Painting,Maroon,Low ,Four weeks,530.549
+248,Radcliffe,nmacarthur6v@yellowpages.com,(287) 4279647,Georgette,Shabby Chic Rose,Goldenrod,Critical ,Three weeks,592.108
+249,Ethelyn,aback6w@techcrunch.com,(765) 7885747,Silk,Ethnic,Red,High ,Three weeks,264.394
+250,Gris,vgrayshon6x@wiley.com,(805) 1823044,Rayon,Summer Fabrics,Puce,Low ,Four weeks,124.416
+251,Debora,wpepperill6y@harvard.edu,(194) 5782911,Velvet,Retro Seamless,Mauv,Medium,Two weeks,277.678
+252,Rorke,bmcclifferty6z@163.com,(829) 8134311,Georgette,Vinatge Seamless,Turquoise,High ,One week,628.877
+253,Welsh,dmitchall70@typepad.com,(909) 5987692,Satin,Geometric,Teal,Critical ,Two weeks,897.286
+254,Dolli,mcornilli71@umich.edu,(969) 3813216,Cotton ,Zebra,Teal,Low ,Two weeks,486.545
+255,Estella,blalley72@irs.gov,(918) 7602871,Chiffon,Floral,Green,Medium,Three weeks,820.142
+256,Benito,dainsbury73@chicagotribune.com,(663) 9941474,Cotton ,Retro Seamless,Turquoise,Medium,One week,215.867
+257,Lothario,tmuddicliffe74@skype.com,(559) 8518167,Poplin,Flame Stitch,Mauv,Low ,One week,418.301
+258,Jsandye,mgahan75@prlog.org,(349) 4337869,Poplin,Summer Fabrics,Pink,High ,Four weeks,221.373
+259,Alphard,hgair76@telegraph.co.uk,(830) 2007972,Jute,Shabby Chic Rose,Purple,Critical ,Four weeks,727.065
+260,Rianon,wvickery77@forbes.com,(969) 8722539,Sateen,Flame Stitch,Pink,High ,One week,374.567
+261,Barclay,cmcsaul78@reddit.com,(947) 4768595,Lace,Ikat,Blue,High ,Two weeks,581.147
+262,Ernesto,jstirley79@ucla.edu,(701) 7794852,Lace,Ikat,Purple,Medium,Four weeks,491.621
+263,Luelle,aconnichie7a@ycombinator.com,(928) 9803964,Jute,Painting,Khaki,Critical ,Three weeks,143.573
+264,Kaitlyn,rmatten7b@google.co.jp,(607) 9968918,Cotton ,Polka Dot,Violet,Critical ,Two weeks,339.612
+265,Merrielle,mbrann7c@ca.gov,(917) 6806978,Velvet,Ethnic,Purple,Low ,One week,956.772
+266,Callean,ebinding7d@umich.edu,(307) 5116842,Silk,Vinatge Seamless,Fuscia,Low ,Four weeks,640.05
+267,Stanford,ascarth7e@opensource.org,(755) 3174702,Wool,Thread Patterns,Pink,Critical ,Three weeks,715.617
+268,Grenville,atwitchett7f@furl.net,(746) 4639224,Denim,Summer Fabrics,Fuscia,High ,Three weeks,891.179
+269,Rachele,dyurchenko7g@google.nl,(110) 9984335,Satin,Stripes,Maroon,Low ,Four weeks,756.165
+270,Alisha,pplom7h@meetup.com,(724) 3563530,Linen,Geometric,Aquamarine,Medium,Two weeks,833.105
+271,Dulsea,aplaistowe7i@homestead.com,(855) 7848066,Rayon,Zebra,Fuscia,High ,One week,666.002
+272,Berk,cpedden7j@oakley.com,(364) 9244461,Chiffon,Summer Fabrics,Green,Critical ,Two weeks,715.914
+273,Chauncey,clegrys7k@typepad.com,(834) 9894519,Georgette,Floral,Green,Low ,Two weeks,325.132
+274,Gerome,kgoodbur7l@who.int,(493) 4136329,Sateen,Ikat,Red,Medium,Three weeks,973.421
+275,Jan,bmartine7m@t-online.de,(482) 1812323,Jute,Shabby Chic Rose,Pink,Medium,One week,543.802
+276,Lionel,jjacquemot7n@hhs.gov,(197) 4758258,Lace,Vinatge Seamless,Mauv,Low ,One week,422.07
+277,Ric,mranns7o@storify.com,(254) 3307249,Poplin,Retro Seamless,Maroon,High ,Four weeks,105.865
+278,Tarrance,salway7p@adobe.com,(938) 4431814,Rayon,Retro Seamless,Turquoise,Critical ,Four weeks,479.899
+279,Carl,ckirkbright7q@gnu.org,(568) 8689948,Sateen,Flame Stitch,Purple,High ,One week,820.5
+280,Victor,dcady7r@comsenz.com,(287) 7229686,Georgette,Polka Dot,Orange,High ,Four weeks,257.443
+281,Yorker,zdahlman7s@clickbank.net,(539) 4198986,Silk,Floral,Yellow,Medium,One week,563.265
+282,Wernher,shuggill7t@etsy.com,(836) 7799242,Rayon,Polka Dot,Green,Critical ,Two weeks,241.646
+283,Elsworth,ookennedy7u@surveymonkey.com,(848) 2725829,Velvet,Stripes,Blue,Critical ,Four weeks,153.515
+284,Carlo,vbriance7v@angelfire.com,(432) 3986822,Georgette,Ikat,Mauv,Low ,Three weeks,667.594
+285,Ursa,aplacide7w@columbia.edu,(123) 6117186,Satin,Flame Stitch,Violet,Low ,Two weeks,473.379
+286,Stephan,tmarsland7x@webmd.com,(301) 8579831,Cotton ,Thread Patterns,Aquamarine,Critical ,One week,119.885
+287,Wileen,dotowey7y@bandcamp.com,(588) 7500500,Chiffon,Painting,Fuscia,High ,Four weeks,756.853
+288,Maitilde,dhallor7z@godaddy.com,(140) 9284654,Cotton ,Shabby Chic Rose,Purple,Low ,Three weeks,623.777
+289,Jemima,nmottley80@tamu.edu,(965) 4794781,Poplin,Ethnic,Blue,Medium,Three weeks,260.337
+290,Ramsay,swillowby81@nhs.uk,(619) 9363692,Poplin,Summer Fabrics,Pink,High ,Four weeks,726.971
+291,Mabel,jyoungman82@washingtonpost.com,(914) 9302770,Jute,Retro Seamless,Purple,Critical ,Two weeks,735.496
+292,Mayne,lfarries83@webnode.com,(251) 3870813,Sateen,Vinatge Seamless,Crimson,Low ,One week,305.789
+293,Solomon,gceaplen84@google.co.jp,(197) 5256555,Lace,Geometric,Goldenrod,Medium,Two weeks,664.622
+294,Bartholemy,jpeasee85@oaic.gov.au,(179) 3369956,Lace,Zebra,Teal,Medium,Two weeks,248.274
+295,Rosalind,kcoggan86@gmpg.org,(922) 1789361,Jute,Floral,Teal,Low ,Three weeks,460.979
+296,Yvette,bhedylstone87@google.ca,(400) 6827136,Cotton ,Retro Seamless,Teal,High ,One week,645.755
+297,Aubree,ccorns88@wikimedia.org,(758) 3898142,Velvet,Flame Stitch,Fuscia,Critical ,One week,377.866
+298,Cristina,smacscherie89@illinois.edu,(764) 1148378,Silk,Summer Fabrics,Blue,High ,Four weeks,681.596
+299,Lainey,mbuckie8a@webs.com,(195) 2511485,Wool,Shabby Chic Rose,Khaki,High ,Four weeks,134.747
+300,Karine,btroker8b@com.com,(746) 9064612,Denim,Flame Stitch,Aquamarine,Medium,One week,216.059
+301,Maisie,dbaile8c@webnode.com,(175) 7684882,Satin,Ikat,Violet,Critical ,Two weeks,949.38
+302,Buddy,pdight8d@xinhuanet.com,(456) 5816052,Linen,Ikat,Khaki,Critical ,Four weeks,351.175
+303,Gretta,zhearst8e@wikipedia.org,(658) 4634282,Rayon,Painting,Purple,Low ,Three weeks,777.55
+304,Ki,zmoir8f@newyorker.com,(255) 4066236,Chiffon,Polka Dot,Blue,Low ,Two weeks,362.338
+305,Joye,edigiacomo8g@nps.gov,(328) 7800338,Georgette,Ethnic,Puce,Critical ,One week,401.324
+306,Emmanuel,iclows8h@reference.com,(136) 4550591,Sateen,Vinatge Seamless,Indigo,High ,Four weeks,880.227
+307,Gaynor,dcloute8i@chronoengine.com,(816) 1733169,Jute,Thread Patterns,Aquamarine,Low ,Three weeks,149.472
+308,Erinn,btargett8j@bing.com,(201) 2583744,Lace,Summer Fabrics,Khaki,Medium,Three weeks,762.645
+309,Rosella,jsagg8k@storify.com,(191) 4311432,Poplin,Stripes,Yellow,High ,Four weeks,337.938
+310,Michel,gbeccero8l@nyu.edu,(220) 3142811,Rayon,Geometric,Blue,Critical ,Two weeks,414.437
+311,Sal,getches8m@ft.com,(650) 8515418,Sateen,Zebra,Khaki,Low ,One week,851.659
+312,Pepillo,aashling8n@google.com.hk,(993) 9393763,Georgette,Summer Fabrics,Teal,Medium,Two weeks,943.961
+313,Erroll,yhuton8o@canalblog.com,(614) 3236239,Silk,Floral,Puce,Medium,Two weeks,340.01
+314,Dorine,ldomerq8p@nih.gov,(739) 6869116,Rayon,Ikat,Mauv,Low ,Three weeks,919.491
+315,Lavina,alongworthy8q@people.com.cn,(469) 4265427,Velvet,Shabby Chic Rose,Red,High ,One week,181.8
+316,Roselle,lradley8r@nydailynews.com,(555) 7129684,Georgette,Vinatge Seamless,Violet,Critical ,One week,944.061
+317,Fraze,galsobrook8s@zimbio.com,(531) 6501546,Satin,Retro Seamless,Red,High ,Four weeks,117.407
+318,Thornie,gmonnery8t@slideshare.net,(275) 6445802,Cotton ,Retro Seamless,Red,High ,Four weeks,140.021
+319,Daffy,alippett8u@usda.gov,(171) 7694785,Chiffon,Flame Stitch,Mauv,Medium,One week,204.967
+320,Reuven,apawlaczyk8v@lycos.com,(247) 5413101,Cotton ,Polka Dot,Mauv,Critical ,Four weeks,825.917
+321,Clerissa,theddy8w@dyndns.org,(253) 8756065,Poplin,Floral,Goldenrod,Critical ,One week,671.387
+322,Bertha,gpassfield8x@digg.com,(714) 9556119,Poplin,Polka Dot,Khaki,Low ,Two weeks,807.53
+323,Dasya,kcalbreath8y@studiopress.com,(643) 5071232,Jute,Stripes,Puce,Low ,Four weeks,584.37
+324,Giustino,jgreason8z@wufoo.com,(322) 3440411,Sateen,Ikat,Turquoise,Critical ,Three weeks,291.092
+325,Trish,gwroughton90@t.co,(923) 9714231,Lace,Flame Stitch,Yellow,High ,Two weeks,877.615
+326,Shermy,pzanuciolii91@thetimes.co.uk,(288) 2032707,Lace,Thread Patterns,Pink,Low ,One week,547.794
+327,Fae,eperryman92@mail.ru,(251) 9641359,Jute,Painting,Purple,Medium,Four weeks,490.783
+328,Dorice,epoluzzi93@columbia.edu,(914) 1047074,Cotton ,Shabby Chic Rose,Aquamarine,High ,Three weeks,828.048
+329,Dorothea,gblurton94@live.com,(303) 8109550,Velvet,Ethnic,Violet,Critical ,Three weeks,116.655
+330,Kerrie,tmillward95@weather.com,(281) 9777415,Silk,Summer Fabrics,Goldenrod,Low ,Four weeks,724.62
+331,Bone,lkubicek96@google.com.au,(307) 2850601,Wool,Retro Seamless,Khaki,Medium,Two weeks,581.427
+332,Chloette,pboxhall97@dropbox.com,(848) 8680846,Denim,Vinatge Seamless,Teal,Medium,One week,506.662
+333,Cyndie,ddymock98@altervista.org,(683) 1588441,Satin,Geometric,Pink,Low ,Two weeks,828.579
+334,Charil,eygou99@ow.ly,(888) 1126812,Linen,Zebra,Puce,High ,Two weeks,887.105
+335,Alta,dthatcham9a@epa.gov,(110) 2447151,Rayon,Floral,Mauv,Critical ,Three weeks,117.171
+336,Moses,jkloster9b@oracle.com,(275) 9956017,Chiffon,Retro Seamless,Yellow,High ,One week,129.212
+337,Cassie,fdudliston9c@weather.com,(938) 4628321,Georgette,Flame Stitch,Red,High ,One week,835.462
+338,Shalna,epoulney9d@google.es,(966) 8911681,Sateen,Summer Fabrics,Maroon,Medium,Four weeks,757.169
+339,Ivory,ccollumbell9e@about.me,(701) 5476934,Jute,Shabby Chic Rose,Mauv,Critical ,Four weeks,836.915
+340,Sandi,pdixcee9f@storify.com,(694) 7301472,Lace,Flame Stitch,Teal,Critical ,One week,895.392
+341,Bridie,obeachem9g@bloglines.com,(885) 7680841,Poplin,Ikat,Maroon,Low ,Two weeks,473.237
+342,Ross,sibbison9h@vinaora.com,(900) 6606564,Rayon,Ikat,Puce,Low ,Four weeks,794.729
+343,Paige,fspry9i@tmall.com,(224) 9784736,Sateen,Painting,Green,Critical ,Three weeks,682.884
+344,Ingram,lmathews9j@nydailynews.com,(103) 7336936,Georgette,Polka Dot,Purple,High ,Two weeks,905.012
+345,Celesta,lcoronas9k@miibeian.gov.cn,(213) 5568022,Silk,Ethnic,Indigo,Low ,One week,380.271
+346,Vinny,smazdon9l@github.com,(342) 4666217,Rayon,Vinatge Seamless,Red,Medium,Four weeks,941.454
+347,Beret,dbashford9m@globo.com,(453) 1332655,Velvet,Thread Patterns,Red,High ,Three weeks,594.599
+348,Carine,ftosspell9n@twitpic.com,(442) 3969401,Georgette,Summer Fabrics,Blue,Critical ,Three weeks,763.166
+349,Bordie,cmilson9o@smh.com.au,(716) 5949002,Satin,Stripes,Turquoise,Low ,Four weeks,966.203
+350,Noelyn,mratke9p@vinaora.com,(507) 9384156,Cotton ,Geometric,Orange,Medium,Two weeks,380.192
+351,Alexine,rcrich9q@engadget.com,(349) 1664484,Chiffon,Zebra,Crimson,Medium,One week,793.452
+352,Jolee,gbridgeman9r@businessweek.com,(789) 1133279,Cotton ,Summer Fabrics,Puce,Low ,Two weeks,619.381
+353,Anthiathia,rloughnan9s@google.com.au,(578) 4170796,Poplin,Floral,Blue,High ,Two weeks,269.575
+354,Nancie,yspeir9t@reuters.com,(839) 7987014,Poplin,Ikat,Turquoise,Critical ,Three weeks,729.522
+355,Kaine,mgrewcock9u@rambler.ru,(239) 8507946,Jute,Shabby Chic Rose,Red,High ,One week,196.208
+356,Meaghan,aarmes9v@webeden.co.uk,(769) 3425783,Sateen,Vinatge Seamless,Maroon,High ,One week,964.905
+357,Cynthie,dkift9w@wiley.com,(223) 3436585,Lace,Retro Seamless,Green,Medium,Four weeks,248.03
+358,Winston,wbreckin9x@cargocollective.com,(371) 8078760,Lace,Retro Seamless,Pink,Critical ,Four weeks,606.885
+359,Nalani,agalier9y@prnewswire.com,(699) 5350388,Jute,Flame Stitch,Puce,Critical ,One week,282.618
+360,Odo,hwest9z@squidoo.com,(274) 2230802,Cotton ,Polka Dot,Maroon,Low ,Four weeks,628.265
+361,Fidelio,mproppera0@yolasite.com,(213) 3380715,Velvet,Floral,Violet,Low ,One week,883.38
+362,Elvis,krawlinga1@epa.gov,(397) 9514508,Silk,Polka Dot,Pink,Critical ,Two weeks,356.802
+363,Saxe,cskainsa2@hugedomains.com,(269) 7667860,Wool,Stripes,Red,High ,Four weeks,602.503
+364,Hayyim,apanchina3@prnewswire.com,(221) 5385206,Denim,Ikat,Turquoise,Low ,Three weeks,746.536
+365,Aleece,lchallicea4@wikimedia.org,(319) 8225066,Satin,Flame Stitch,Maroon,Medium,Two weeks,414.171
+366,Paige,pdibbena5@reference.com,(210) 3293921,Linen,Thread Patterns,Blue,High ,One week,980.604
+367,Davon,mboolea6@cdc.gov,(947) 3498343,Rayon,Painting,Mauv,Critical ,Four weeks,784.31
+368,Raynell,adickiea7@vk.com,(650) 4919263,Chiffon,Shabby Chic Rose,Teal,Low ,Three weeks,403.69
+369,Freida,qiacobassia8@live.com,(617) 8707622,Georgette,Ethnic,Orange,Medium,Three weeks,182.609
+370,Cynthea,omidgleya9@java.com,(659) 3963076,Sateen,Summer Fabrics,Violet,Medium,Four weeks,943.99
+371,Kincaid,cmoaraa@people.com.cn,(988) 9622892,Jute,Retro Seamless,Mauv,Low ,Two weeks,413.328
+372,Alyosha,mwasylkiewiczab@abc.net.au,(600) 1514516,Lace,Vinatge Seamless,Red,High ,One week,769.253
+373,Pegeen,jleserac@imageshack.us,(680) 8387401,Poplin,Geometric,Teal,Critical ,Two weeks,309.289
+374,Quinton,bmccorryad@yelp.com,(971) 4334934,Rayon,Zebra,Goldenrod,High ,Two weeks,842.576
+375,Lyndell,vkilbrideae@soup.io,(346) 7827160,Sateen,Floral,Green,High ,Three weeks,809.792
+376,Aldric,akenwardaf@pinterest.com,(261) 5254238,Georgette,Retro Seamless,Blue,Medium,One week,871.301
+377,Caroline,ktipperag@deliciousdays.com,(517) 8637386,Silk,Flame Stitch,Goldenrod,Critical ,One week,608.573
+378,Jedd,gaulettaah@hhs.gov,(216) 3395479,Rayon,Summer Fabrics,Green,Critical ,Four weeks,522.331
+379,Elias,lnieselai@devhub.com,(185) 1990001,Velvet,Shabby Chic Rose,Purple,Low ,Four weeks,579.472
+380,Tyrone,afowellaj@guardian.co.uk,(493) 2505974,Georgette,Flame Stitch,Indigo,Low ,One week,586.167
+381,Cami,amclanaghanak@loc.gov,(749) 7807912,Satin,Ikat,Purple,Critical ,Two weeks,867.099
+382,Nada,mbassonal@tamu.edu,(315) 3751018,Cotton ,Ikat,Teal,High ,Four weeks,463.177
+383,Euell,cbarronam@rediff.com,(662) 4696877,Chiffon,Painting,Indigo,Low ,Three weeks,222.078
+384,Abbey,dsutherelan@taobao.com,(640) 5655070,Cotton ,Polka Dot,Khaki,Medium,Two weeks,553.436
+385,Redford,amcmurdoao@geocities.jp,(379) 1363633,Poplin,Ethnic,Fuscia,High ,One week,862.319
+386,Seward,sbonelleap@wunderground.com,(610) 3317448,Poplin,Vinatge Seamless,Turquoise,Critical ,Four weeks,825.649
+387,Ferrell,elidellaq@myspace.com,(468) 7303118,Jute,Thread Patterns,Green,Low ,Three weeks,129.768
+388,Rheba,jleggisar@hostgator.com,(570) 2195968,Sateen,Summer Fabrics,Crimson,Medium,Three weeks,877.254
+389,Friedrich,gburlingameas@va.gov,(177) 1516769,Lace,Stripes,Purple,Medium,Four weeks,560.518
+390,Henderson,erasellat@narod.ru,(209) 5878983,Lace,Geometric,Mauv,Low ,Two weeks,185.855
+391,Reeta,dcowdroyau@columbia.edu,(539) 1188881,Jute,Zebra,Purple,High ,One week,946.115
+392,Pen,grouselav@marriott.com,(564) 9983533,Cotton ,Summer Fabrics,Goldenrod,Critical ,Two weeks,337.468
+393,Guido,bdehoochaw@alibaba.com,(823) 8805681,Velvet,Floral,Aquamarine,High ,Two weeks,797.38
+394,Tobiah,ltitheridgeax@pagesperso-orange.fr,(773) 1379152,Silk,Ikat,Puce,High ,Three weeks,300.525
+395,Montgomery,gtanswillay@examiner.com,(205) 6930746,Wool,Shabby Chic Rose,Red,Medium,One week,364.689
+396,Shannon,fsummonsaz@quantcast.com,(291) 5774549,Denim,Vinatge Seamless,Turquoise,Critical ,One week,241.683
+397,Clemmie,rscrinageb0@imageshack.us,(575) 7847637,Satin,Retro Seamless,Indigo,Critical ,Four weeks,557.535
+398,Wesley,tnassyb1@redcross.org,(342) 3884285,Linen,Retro Seamless,Yellow,Low ,Four weeks,855.424
+399,Efrem,blawlingb2@bbc.co.uk,(930) 7539459,Rayon,Flame Stitch,Teal,Low ,One week,172.019
+400,Bennie,djosofovitzb3@photobucket.com,(614) 7145663,Chiffon,Polka Dot,Yellow,Critical ,Four weeks,632.279
+401,Annnora,igriffitheb4@google.co.uk,(295) 9684027,Georgette,Floral,Crimson,High ,One week,901.189
+402,Madlin,rferenczyb5@sohu.com,(238) 4442320,Sateen,Polka Dot,Goldenrod,Low ,Two weeks,551.432
+403,Hurley,kdecleyneb6@vinaora.com,(346) 3107515,Jute,Stripes,Red,Medium,Four weeks,342.118
+404,Lovell,bstorrieb7@nbcnews.com,(155) 4783000,Lace,Ikat,Orange,High ,Three weeks,373.114
+405,Waneta,ecartwightb8@who.int,(211) 1960361,Poplin,Flame Stitch,Pink,Critical ,Two weeks,816.266
+406,Virginia,kcleaveb9@cdc.gov,(368) 5076942,Rayon,Thread Patterns,Red,Low ,One week,362.189
+407,Ivan,valsterba@mozilla.org,(403) 8876352,Sateen,Painting,Purple,Medium,Four weeks,174.794
+408,Merrill,sdanellbb@hp.com,(715) 3171191,Georgette,Shabby Chic Rose,Yellow,Medium,Three weeks,489.985
+409,Jeannine,mmulvennabc@uol.com.br,(370) 3496116,Silk,Ethnic,Orange,Low ,Three weeks,732.943
+410,Page,fmcmennumbd@mozilla.com,(812) 2261569,Rayon,Summer Fabrics,Mauv,High ,Four weeks,389.944
+411,Opaline,rperkinsonbe@acquirethisname.com,(693) 8951046,Velvet,Retro Seamless,Red,Critical ,Two weeks,653.924
+412,Caressa,sbenfordbf@hp.com,(725) 9653914,Georgette,Vinatge Seamless,Orange,High ,One week,717.517
+413,Cally,dkylebg@moonfruit.com,(624) 2045209,Satin,Geometric,Yellow,High ,Two weeks,757.337
+414,Sigvard,vfirebracebh@adobe.com,(949) 2196002,Cotton ,Zebra,Orange,Medium,Two weeks,926.621
+415,Reg,adittsonbi@cnbc.com,(201) 8895883,Chiffon,Floral,Yellow,Critical ,Three weeks,145.672
+416,Hermione,gslybj@wired.com,(477) 7725603,Cotton ,Retro Seamless,Goldenrod,Critical ,One week,762.053
+417,Virginia,irobetbk@house.gov,(749) 6867470,Poplin,Flame Stitch,Violet,Low ,One week,457.258
+418,Carol,hgasperibl@reddit.com,(731) 7470479,Poplin,Summer Fabrics,Puce,Low ,Four weeks,153.091
+419,Lemar,kgiorgettibm@exblog.jp,(383) 4854678,Jute,Shabby Chic Rose,Turquoise,Critical ,Four weeks,362.744
+420,Dalis,dwigginsbn@cornell.edu,(344) 9638187,Sateen,Flame Stitch,Crimson,High ,One week,128.075
+421,Farley,hmccreadiebo@state.gov,(921) 3012695,Lace,Ikat,Fuscia,Low ,Two weeks,206.801
+422,Sheena,mhansleybp@si.edu,(494) 8491274,Lace,Ikat,Fuscia,Medium,Four weeks,143.013
+423,Rivy,sbentjensbq@dropbox.com,(110) 7155579,Jute,Painting,Puce,High ,Three weeks,790.328
+424,Stanton,aorrettbr@narod.ru,(448) 7317854,Cotton ,Polka Dot,Orange,Critical ,Two weeks,567.783
+425,Sauveur,santognellibs@vimeo.com,(283) 8670080,Velvet,Ethnic,Purple,Low ,One week,436.505
+426,Liuka,brichfieldbt@vk.com,(402) 7359948,Silk,Vinatge Seamless,Yellow,Medium,Four weeks,528.978
+427,Kessia,ymccookbu@plala.or.jp,(492) 7262048,Wool,Thread Patterns,Mauv,Medium,Three weeks,645.124
+428,Deedee,jdasentbv@ehow.com,(259) 7563673,Denim,Summer Fabrics,Red,Low ,Three weeks,229.187
+429,Pam,glosemannbw@e-recht24.de,(523) 9753454,Satin,Stripes,Indigo,High ,Four weeks,874.062
+430,Bogey,npearmainbx@zdnet.com,(970) 9190654,Linen,Geometric,Purple,Critical ,Two weeks,718.758
+431,Pammi,fcaudrelierby@uiuc.edu,(703) 5036534,Rayon,Zebra,Aquamarine,High ,One week,468.967
+432,Waneta,wmotherwellbz@multiply.com,(471) 9567354,Chiffon,Summer Fabrics,Goldenrod,High ,Two weeks,182.902
+433,Marcus,kgawthorpc0@independent.co.uk,(908) 2358374,Georgette,Floral,Goldenrod,Medium,Two weeks,268.963
+434,Geneva,jpalphreymanc1@reference.com,(482) 6460635,Sateen,Ikat,Maroon,Critical ,Three weeks,705.121
+435,Christel,mdensiec2@digg.com,(156) 9810094,Jute,Shabby Chic Rose,Yellow,Critical ,One week,836.908
+436,Mirabella,lgabrielc3@yale.edu,(389) 4554497,Lace,Vinatge Seamless,Mauv,Low ,One week,163.128
+437,Elwood,cdaniellc4@aboutads.info,(239) 7734598,Poplin,Retro Seamless,Mauv,Low ,Four weeks,687.603
+438,Theobald,ysawfordc5@state.tx.us,(640) 3413019,Rayon,Retro Seamless,Blue,Critical ,Four weeks,900.998
+439,Yoko,scasemorec6@berkeley.edu,(931) 3771895,Sateen,Flame Stitch,Pink,High ,One week,464.123
+440,Murry,ltuckiec7@1und1.de,(154) 3212831,Georgette,Polka Dot,Yellow,Low ,Four weeks,994.563
+441,Almire,bvipanc8@liveinternet.ru,(335) 2148750,Silk,Floral,Puce,Medium,One week,788.46
+442,Yalonda,aesterbrookc9@goodreads.com,(233) 1297020,Rayon,Polka Dot,Khaki,High ,Two weeks,398.265
+443,Loella,crolinsonca@cloudflare.com,(866) 2244059,Velvet,Stripes,Yellow,Critical ,Four weeks,647.385
+444,Vinnie,cgiraultcb@reverbnation.com,(266) 6428559,Georgette,Ikat,Maroon,Low ,Three weeks,208.631
+445,Mariam,denriettocc@taobao.com,(896) 2348124,Satin,Flame Stitch,Maroon,Medium,Two weeks,307.224
+446,Gustavus,fwindrasscd@list-manage.com,(677) 4091034,Cotton ,Thread Patterns,Khaki,Medium,One week,612.58
+447,Robin,cstretece@quantcast.com,(826) 5877825,Chiffon,Painting,Violet,Low ,Four weeks,627.54
+448,Ludwig,gyannikovcf@admin.ch,(891) 6741318,Cotton ,Shabby Chic Rose,Purple,High ,Three weeks,901.554
+449,Mae,hadshadcg@apache.org,(930) 8975266,Poplin,Ethnic,Violet,Critical ,Three weeks,647.845
+450,Morly,bjesperch@smugmug.com,(716) 1559409,Poplin,Summer Fabrics,Pink,High ,Four weeks,788.349
+451,Francene,tpimblotteci@hao123.com,(127) 3187179,Jute,Retro Seamless,Green,High ,Two weeks,494.425
+452,Kikelia,spossekcj@sogou.com,(763) 1133877,Sateen,Vinatge Seamless,Pink,Medium,One week,683.653
+453,Herbert,efitzsymonck@goo.ne.jp,(781) 7684217,Lace,Geometric,Green,Critical ,Two weeks,122.97
+454,Joanna,lhatchettecl@senate.gov,(534) 5692409,Lace,Zebra,Goldenrod,Critical ,Two weeks,954.035
+455,Orville,mdesbrowcm@unc.edu,(446) 8987236,Jute,Floral,Teal,Low ,Three weeks,252.896
+456,Sacha,rmagranecn@addtoany.com,(753) 2089741,Cotton ,Retro Seamless,Khaki,Low ,One week,918.959
+457,Erick,fquinceco@rambler.ru,(609) 6733530,Velvet,Flame Stitch,Goldenrod,Critical ,One week,697.852
+458,Willetta,jsalzburgercp@virginia.edu,(240) 3204838,Silk,Summer Fabrics,Orange,High ,Four weeks,467.036
+459,Carolin,ghenzercq@mozilla.com,(299) 4399871,Wool,Shabby Chic Rose,Aquamarine,Low ,Four weeks,603.417
+460,Gisela,pdradeycr@house.gov,(435) 2183074,Denim,Flame Stitch,Blue,Medium,One week,928.043
+461,Randi,gdionisiocs@bizjournals.com,(437) 1979653,Satin,Ikat,Aquamarine,High ,Two weeks,700.705
+462,Frazer,uhullinct@theglobeandmail.com,(146) 9963900,Linen,Ikat,Purple,Critical ,Four weeks,600.775
+463,Vinny,aedgworthcu@msu.edu,(374) 4632731,Rayon,Painting,Indigo,Low ,Three weeks,898.932
+464,Bunny,jpardycv@diigo.com,(773) 3091342,Chiffon,Polka Dot,Aquamarine,Medium,Two weeks,499.385
+465,Kimmy,jmillottcw@cornell.edu,(416) 3509613,Georgette,Ethnic,Goldenrod,Medium,One week,635.346
+466,Richmound,caldcorncx@wikispaces.com,(544) 4702829,Sateen,Vinatge Seamless,Orange,Low ,Four weeks,550.948
+467,Caz,emosedalecy@chron.com,(369) 7217325,Jute,Thread Patterns,Crimson,High ,Three weeks,625.321
+468,Niki,ecarrivickcz@bizjournals.com,(782) 8577477,Lace,Summer Fabrics,Violet,Critical ,Three weeks,275.547
+469,Larissa,gsussemsd0@list-manage.com,(562) 7070849,Poplin,Stripes,Pink,High ,Four weeks,621.959
+470,Doll,iwillmettsd1@google.cn,(469) 5546623,Rayon,Geometric,Green,High ,Two weeks,373.392
+471,Eran,nbleakleyd2@ow.ly,(302) 6704742,Sateen,Zebra,Goldenrod,Medium,One week,390.709
+472,Jessey,jelixd3@delicious.com,(812) 5134930,Georgette,Summer Fabrics,Orange,Critical ,Two weeks,293.499
+473,Orrin,kpetrosellid4@cbsnews.com,(378) 5411626,Silk,Floral,Pink,Critical ,Two weeks,247.855
+474,Rudyard,lglaysherd5@accuweather.com,(271) 5127201,Rayon,Ikat,Mauv,Low ,Three weeks,374.349
+475,Gayelord,mtomaskovd6@smugmug.com,(464) 7604649,Velvet,Shabby Chic Rose,Pink,Low ,One week,788.495
+476,Jeno,lvendittid7@salon.com,(884) 9807602,Georgette,Vinatge Seamless,Puce,Critical ,One week,685.905
+477,Vance,kchatelaind8@nba.com,(767) 3726273,Satin,Retro Seamless,Puce,High ,Four weeks,651.475
+478,Orson,durpethd9@discuz.net,(801) 3627608,Cotton ,Retro Seamless,Crimson,Low ,Four weeks,275.642
+479,Marilin,cillstonda@usda.gov,(287) 2573149,Chiffon,Flame Stitch,Purple,Medium,One week,160.513
+480,Skippie,cheatheringtondb@pbs.org,(633) 2297056,Cotton ,Polka Dot,Crimson,High ,Four weeks,263.249
+481,Erin,wlampertidc@spotify.com,(963) 9769453,Poplin,Floral,Blue,Critical ,One week,968.615
+482,Bernette,pafielddd@hibu.com,(160) 6625594,Poplin,Polka Dot,Mauv,Low ,Two weeks,491.033
+483,Gilbertine,akitteringhamde@rakuten.co.jp,(392) 9542474,Jute,Stripes,Goldenrod,Medium,Four weeks,215.615
+484,Lissie,ppaveydf@wired.com,(339) 1152770,Sateen,Ikat,Crimson,Medium,Three weeks,327.076
+485,Belicia,jtomsadg@reddit.com,(837) 7021185,Lace,Flame Stitch,Yellow,Low ,Two weeks,428.197
+486,Rhonda,lgilligandh@booking.com,(729) 2058385,Lace,Thread Patterns,Blue,High ,One week,906.738
+487,Isak,rstrongedi@merriam-webster.com,(236) 8919677,Jute,Painting,Yellow,Critical ,Four weeks,658.201
+488,Gisela,lpashleydj@angelfire.com,(573) 1107105,Cotton ,Shabby Chic Rose,Orange,High ,Three weeks,167.751
+489,Honey,ucanadinedk@pen.io,(511) 2507499,Velvet,Ethnic,Yellow,High ,Three weeks,814.959
+490,Florenza,hhassettdl@wikipedia.org,(313) 5118264,Silk,Summer Fabrics,Maroon,Medium,Four weeks,409.031
+491,Jerrylee,ftinnerdm@tripadvisor.com,(420) 2269008,Wool,Retro Seamless,Yellow,Critical ,Two weeks,887.247
+492,Billye,aserjeantdn@cnet.com,(315) 8136125,Denim,Vinatge Seamless,Blue,Critical ,One week,239.101
+493,Ade,rgouldiedo@uol.com.br,(111) 8561893,Satin,Geometric,Purple,Low ,Two weeks,367.585
+494,Mirilla,lbentleydp@skype.com,(396) 9011662,Linen,Zebra,Crimson,Low ,Two weeks,670.593
+495,Shelbi,kfitzgeralddq@flavors.me,(449) 9412958,Rayon,Floral,Indigo,Critical ,Three weeks,494.838
+496,Lissa,csokelldr@narod.ru,(680) 2790638,Chiffon,Retro Seamless,Yellow,High ,One week,671.422
+497,Phaedra,mscullyds@ow.ly,(453) 5434127,Georgette,Flame Stitch,Khaki,Low ,One week,160.668
+498,Samaria,lbrizelldt@nyu.edu,(661) 9358264,Sateen,Summer Fabrics,Violet,Medium,Four weeks,296.178
+499,Chas,taxtelldu@cisco.com,(982) 8350017,Jute,Shabby Chic Rose,Purple,High ,Four weeks,168.407
+500,Libby,sspontondv@nifty.com,(182) 7259965,Lace,Flame Stitch,Aquamarine,Critical ,One week,550.468
+501,Katalin,mkonraddw@cbc.ca,(532) 3618804,Poplin,Ikat,Red,Low ,Two weeks,177.496
+502,Briano,rgricksdx@amazonaws.com,(803) 4675864,Rayon,Ikat,Maroon,Medium,Four weeks,844.444
+503,Findlay,hwigfalldy@umn.edu,(164) 1456391,Sateen,Painting,Goldenrod,Medium,Three weeks,281.786
+504,Flinn,glecointedz@last.fm,(223) 3474437,Georgette,Polka Dot,Red,Low ,Two weeks,347.351
+505,Neille,tbengocheae0@google.pl,(612) 6236586,Silk,Ethnic,Pink,High ,One week,692.036
+506,Malinde,gmilhame1@merriam-webster.com,(770) 7582665,Rayon,Vinatge Seamless,Aquamarine,Critical ,Four weeks,674.621
+507,Zena,kdewane2@addtoany.com,(325) 4253002,Velvet,Thread Patterns,Puce,High ,Three weeks,517.906
+508,Harper,lwildishe3@quantcast.com,(704) 8216720,Georgette,Summer Fabrics,Indigo,High ,Three weeks,278.021
+509,Lacey,fhallarde4@chronoengine.com,(265) 4379329,Satin,Stripes,Maroon,Medium,Four weeks,956.652
+510,Garrik,soxe5@hp.com,(366) 5041337,Cotton ,Geometric,Aquamarine,Critical ,Two weeks,419.925
+511,Mohandis,lcandline6@ebay.com,(650) 5747519,Chiffon,Zebra,Violet,Critical ,One week,379.14
+512,Shirlee,jdanforde7@addtoany.com,(420) 4392836,Cotton ,Summer Fabrics,Teal,Low ,Two weeks,417.957
+513,Ynez,nkrusee8@google.ca,(316) 2618209,Poplin,Floral,Teal,Low ,Two weeks,815.166
+514,Felizio,kfinnimoree9@geocities.jp,(647) 9745489,Poplin,Ikat,Puce,Critical ,Three weeks,216.363
+515,Raven,schaveyea@ycombinator.com,(148) 6952178,Jute,Shabby Chic Rose,Aquamarine,High ,One week,683.553
+516,Lib,clorenzettoeb@merriam-webster.com,(746) 2674625,Sateen,Vinatge Seamless,Blue,Low ,One week,302.244
+517,Madalena,bjandlec@multiply.com,(539) 4359661,Lace,Retro Seamless,Violet,Medium,Four weeks,532.904
+518,Caren,rmaccheyneed@odnoklassniki.ru,(292) 9358154,Lace,Retro Seamless,Goldenrod,High ,Four weeks,527.569
+519,Shanna,cpittamee@topsy.com,(353) 7785305,Jute,Flame Stitch,Mauv,Critical ,One week,773.875
+520,Jo,ttomikef@csmonitor.com,(111) 9266279,Cotton ,Polka Dot,Teal,Low ,Four weeks,108.879
+521,Sissy,csalvadorieg@simplemachines.org,(715) 8795832,Velvet,Floral,Teal,Medium,One week,193.069
+522,Randall,cmoggleeh@jigsy.com,(532) 6141579,Silk,Polka Dot,Pink,Medium,Two weeks,774.589
+523,Cam,gpantlinei@alibaba.com,(882) 2039452,Wool,Stripes,Mauv,Low ,Four weeks,212.612
+524,Thaddus,sstoffersej@zimbio.com,(500) 4154308,Denim,Ikat,Mauv,High ,Three weeks,401.45
+525,Jerrilee,iyesek@washingtonpost.com,(568) 9882925,Satin,Flame Stitch,Orange,Critical ,Two weeks,743.243
+526,Sadye,rconradsenel@sourceforge.net,(178) 2908390,Linen,Thread Patterns,Yellow,High ,One week,523.783
+527,Brenn,kpatleyem@reverbnation.com,(186) 6422982,Rayon,Painting,Pink,High ,Four weeks,399.14
+528,Kory,lmcmeekinen@va.gov,(200) 9807573,Chiffon,Shabby Chic Rose,Turquoise,Medium,Three weeks,640.635
+529,Jamil,hnaughtoneo@scribd.com,(766) 3128099,Georgette,Ethnic,Red,Critical ,Three weeks,274.2
+530,Darell,kweinhamep@phpbb.com,(834) 4749023,Sateen,Summer Fabrics,Purple,Critical ,Four weeks,128.954
+531,Griffin,fmcminneq@blogger.com,(742) 9454232,Jute,Retro Seamless,Pink,Low ,Two weeks,913.225
+532,Faustina,etoffolonier@chron.com,(777) 2866804,Lace,Vinatge Seamless,Teal,Low ,One week,574.05
+533,Kenyon,dthornborrowes@blogtalkradio.com,(181) 7702541,Poplin,Geometric,Mauv,Critical ,Two weeks,379.292
+534,Nicki,cmatthensenet@themeforest.net,(450) 6574020,Rayon,Zebra,Turquoise,High ,Two weeks,741.069
+535,Galen,cgrievsoneu@163.com,(532) 4481403,Sateen,Floral,Khaki,Low ,Three weeks,681.258
+536,Julius,fpachecoev@geocities.com,(516) 2280639,Georgette,Retro Seamless,Blue,Medium,One week,978.886
+537,Mirella,edaulbyew@bing.com,(147) 6373593,Silk,Flame Stitch,Fuscia,High ,One week,905.7
+538,Starr,creasonex@businessweek.com,(503) 7051535,Rayon,Summer Fabrics,Yellow,Critical ,Four weeks,640.251
+539,Mariquilla,dgeraudeley@wisc.edu,(529) 7218569,Velvet,Shabby Chic Rose,Khaki,Low ,Four weeks,850.011
+540,Xenia,lcheeseez@scientificamerican.com,(325) 2244333,Georgette,Flame Stitch,Teal,Medium,One week,945.104
+541,Morganne,vbroszkiewiczf0@fotki.com,(487) 2085220,Satin,Ikat,Maroon,Medium,Two weeks,925.423
+542,Dionis,bbygrovef1@nyu.edu,(503) 3163052,Cotton ,Ikat,Teal,Low ,Four weeks,643.433
+543,Boycey,swallingtonf2@ed.gov,(854) 3589402,Chiffon,Painting,Aquamarine,High ,Three weeks,186.332
+544,Francoise,jjimmisonf3@weebly.com,(979) 6997390,Cotton ,Polka Dot,Pink,Critical ,Two weeks,962.297
+545,Elisabetta,gyoellf4@weather.com,(294) 1426868,Poplin,Ethnic,Mauv,High ,One week,239.928
+546,Addie,rkrzysztoff5@bloomberg.com,(890) 8702383,Poplin,Vinatge Seamless,Teal,High ,Four weeks,850.067
+547,Torre,cmumbeyf6@people.com.cn,(973) 5334560,Jute,Thread Patterns,Aquamarine,Medium,Three weeks,251.598
+548,Giacobo,dpervoef7@facebook.com,(683) 9725020,Sateen,Summer Fabrics,Crimson,Critical ,Three weeks,907.052
+549,Faulkner,mlouderf8@youtu.be,(692) 7243886,Lace,Stripes,Indigo,Critical ,Four weeks,251.438
+550,Purcell,lsumptionf9@rakuten.co.jp,(212) 7177578,Lace,Geometric,Puce,Low ,Two weeks,466.254
+551,Hillery,edonfa@hhs.gov,(659) 5143817,Jute,Zebra,Aquamarine,Low ,One week,262.131
+552,Kristen,aritchfb@loc.gov,(284) 8952645,Cotton ,Summer Fabrics,Turquoise,Critical ,Two weeks,683.878
+553,Bobbee,lvanyashinfc@blinklist.com,(198) 7046119,Velvet,Floral,Mauv,High ,Two weeks,484.926
+554,Lin,tmarnesfd@prweb.com,(660) 4968782,Silk,Ikat,Pink,Low ,Three weeks,435.728
+555,Clementius,bnurdinfe@techcrunch.com,(311) 7861733,Wool,Shabby Chic Rose,Indigo,Medium,One week,944.918
+556,Duffy,mcudbyff@t.co,(355) 1729542,Denim,Vinatge Seamless,Orange,High ,One week,669.162
+557,Joelynn,dbottjerfg@businesswire.com,(383) 1322115,Satin,Retro Seamless,Crimson,Critical ,Four weeks,142.749
+558,Felice,lgirkefh@rediff.com,(443) 5980251,Linen,Retro Seamless,Red,Low ,Four weeks,955.053
+559,Constantine,skenchingtonfi@mashable.com,(996) 5384631,Rayon,Flame Stitch,Khaki,Medium,One week,575.321
+560,Beverley,sangovefj@huffingtonpost.com,(274) 7381238,Chiffon,Polka Dot,Teal,Medium,Four weeks,712.789
+561,Kaye,mminterfk@netlog.com,(400) 3541939,Georgette,Floral,Teal,Low ,One week,908.101
+562,Lillian,ahanfordfl@census.gov,(742) 7318398,Sateen,Polka Dot,Khaki,High ,Two weeks,394.723
+563,Zachariah,acallowfm@is.gd,(570) 6490286,Jute,Stripes,Mauv,Critical ,Four weeks,453.902
+564,Bentlee,dbenetfn@usgs.gov,(764) 9983060,Lace,Ikat,Turquoise,High ,Three weeks,181.216
+565,Shaylynn,ctarbattfo@google.com,(209) 3220013,Poplin,Flame Stitch,Red,High ,Two weeks,909.528
+566,Myrna,dbittlestonefp@jalbum.net,(817) 1776955,Rayon,Thread Patterns,Orange,Medium,One week,746.112
+567,Marketa,amishawfq@washingtonpost.com,(961) 4416045,Sateen,Painting,Indigo,Critical ,Four weeks,507.042
+568,Sandor,apeppardfr@google.com.br,(468) 8750962,Georgette,Shabby Chic Rose,Yellow,Critical ,Three weeks,787.806
+569,Tades,agidleyfs@netlog.com,(262) 1228401,Silk,Ethnic,Turquoise,Low ,Three weeks,701.154
+570,Alic,lfadianft@nifty.com,(403) 1552438,Rayon,Summer Fabrics,Blue,Low ,Four weeks,689.911
+571,Upton,abadenfu@bravesites.com,(658) 5651738,Velvet,Retro Seamless,Green,Critical ,Two weeks,219.803
+572,Shalne,mingerfv@wufoo.com,(129) 6925098,Georgette,Vinatge Seamless,Pink,High ,One week,160.573
+573,Jorrie,ndomonkosfw@irs.gov,(382) 7280974,Satin,Geometric,Pink,Low ,Two weeks,433.732
+574,Karney,ebilfootfx@timesonline.co.uk,(462) 5725769,Cotton ,Zebra,Violet,Medium,Two weeks,910.623
+575,Susan,mhargfy@trellian.com,(495) 6130999,Chiffon,Floral,Mauv,High ,Three weeks,504.904
+576,George,gbachellierfz@auda.org.au,(736) 1904504,Cotton ,Retro Seamless,Indigo,Critical ,One week,851.935
+577,Myra,mvelldeng0@feedburner.com,(911) 4036374,Poplin,Flame Stitch,Teal,Low ,One week,761.25
+578,Reeta,cwildorg1@xing.com,(950) 7090958,Poplin,Summer Fabrics,Green,Medium,Four weeks,706.8
+579,Charissa,flobg2@boston.com,(340) 5288683,Jute,Shabby Chic Rose,Indigo,Medium,Four weeks,641.344
+580,Eustace,pblackallg3@surveymonkey.com,(542) 7950742,Sateen,Flame Stitch,Maroon,Low ,One week,827.007
+581,Heloise,jtwellsg4@yandex.ru,(240) 8227576,Lace,Ikat,Mauv,High ,Two weeks,113.219
+582,Berthe,jwalsomg5@npr.org,(333) 7888942,Lace,Ikat,Purple,Critical ,Four weeks,427.754
+583,Norris,bgamblesg6@opensource.org,(591) 4506291,Jute,Painting,Puce,High ,Three weeks,948.481
+584,Jonas,ythoraldg7@theatlantic.com,(419) 1879380,Cotton ,Polka Dot,Teal,High ,Two weeks,571.469
+585,Nanete,rspindlerg8@go.com,(561) 3008372,Velvet,Ethnic,Goldenrod,Medium,One week,117.661
+586,Thorpe,rsavilg9@redcross.org,(981) 2431103,Silk,Vinatge Seamless,Mauv,Critical ,Four weeks,659.367
+587,Lonnie,hmcbeithga@wikispaces.com,(972) 1051683,Wool,Thread Patterns,Orange,Critical ,Three weeks,157.278
+588,Katrine,apythongb@instagram.com,(141) 8372452,Denim,Summer Fabrics,Teal,Low ,Three weeks,562.345
+589,Latisha,khammorgc@cbc.ca,(803) 3834238,Satin,Stripes,Puce,Low ,Four weeks,837.293
+590,Meredithe,wjenninsgd@cocolog-nifty.com,(495) 9904369,Linen,Geometric,Blue,Critical ,Two weeks,305.815
+591,Concordia,spinwillge@gmpg.org,(379) 7592202,Rayon,Zebra,Pink,High ,One week,534.052
+592,Annissa,rsneppgf@free.fr,(487) 3935256,Chiffon,Summer Fabrics,Orange,Low ,Two weeks,927.153
+593,Vidovik,cfenixgg@shareasale.com,(879) 2732249,Georgette,Floral,Orange,Medium,Two weeks,357.901
+594,Debor,tdabornegh@msn.com,(561) 3869793,Sateen,Ikat,Teal,High ,Three weeks,837.265
+595,Darryl,thulburdgi@creativecommons.org,(253) 6645457,Jute,Shabby Chic Rose,Goldenrod,Critical ,One week,707.613
+596,Ursala,rsanziogj@yolasite.com,(625) 5319099,Lace,Vinatge Seamless,Green,Low ,One week,833.325
+597,Freddi,dbotterellgk@goodreads.com,(851) 5907178,Poplin,Retro Seamless,Violet,Medium,Four weeks,622.2
+598,Sianna,ddietzlergl@weebly.com,(289) 4402102,Rayon,Retro Seamless,Fuscia,Medium,Four weeks,895.205
+599,Cammi,lwoolagergm@freewebs.com,(830) 1028655,Sateen,Flame Stitch,Maroon,Low ,One week,472.119
+600,Fanchette,owallworkgn@blogs.com,(281) 6602236,Georgette,Polka Dot,Fuscia,High ,Four weeks,801.408
+601,Evelyn,stomensongo@cdbaby.com,(206) 8566085,Silk,Floral,Teal,Critical ,One week,535.942
+602,Brodie,tcochegp@boston.com,(789) 3012012,Rayon,Polka Dot,Violet,High ,Two weeks,771.429
+603,Merry,mhaslehurstgq@japanpost.jp,(706) 7147106,Velvet,Stripes,Aquamarine,High ,Four weeks,366.608
+604,Sherrie,adittgr@eepurl.com,(482) 2948805,Georgette,Ikat,Crimson,Medium,Three weeks,576.779
+605,Jenni,mjanksgs@123-reg.co.uk,(639) 4083270,Satin,Flame Stitch,Teal,Critical ,Two weeks,753.391
+606,Erie,rrubbensgt@usa.gov,(197) 5985666,Cotton ,Thread Patterns,Pink,Critical ,One week,668.504
+607,Baird,gmathiasgu@altervista.org,(859) 2980822,Chiffon,Painting,Maroon,Low ,Four weeks,655.475
+608,Selig,dkitchinergv@liveinternet.ru,(140) 4110625,Cotton ,Shabby Chic Rose,Aquamarine,Low ,Three weeks,261.791
+609,Bjorn,cnathangw@dion.ne.jp,(552) 1200295,Poplin,Ethnic,Aquamarine,Critical ,Three weeks,857.124
+610,Allissa,ptarborngx@flavors.me,(363) 8313557,Poplin,Summer Fabrics,Violet,High ,Four weeks,483.961
+611,Collie,emoraisgy@ning.com,(382) 1671739,Jute,Retro Seamless,Khaki,Low ,Two weeks,168.271
+612,Roland,cstillmangz@si.edu,(240) 9108981,Sateen,Vinatge Seamless,Aquamarine,Medium,One week,322.588
+613,Jacquenetta,sattiwillh0@fc2.com,(754) 9644170,Lace,Geometric,Crimson,High ,Two weeks,694.897
+614,Helyn,halderwickh1@youku.com,(336) 8683179,Lace,Zebra,Red,Critical ,Two weeks,814.298
+615,Izak,ksturteh2@constantcontact.com,(955) 2009524,Jute,Floral,Orange,Low ,Three weeks,205.182
+616,Thomasine,vhildrewh3@comsenz.com,(956) 1581413,Cotton ,Retro Seamless,Mauv,Medium,One week,887.57
+617,Jeffrey,agavriellyh4@freewebs.com,(847) 4766361,Velvet,Flame Stitch,Yellow,Medium,One week,103.223
+618,Sibel,wleworthyh5@com.com,(864) 6707623,Silk,Summer Fabrics,Orange,Low ,Four weeks,205.177
+619,Costa,svandenhofh6@lulu.com,(807) 2857932,Wool,Shabby Chic Rose,Puce,High ,Four weeks,246.663
+620,Randie,ssegraveh7@cornell.edu,(911) 9697389,Denim,Flame Stitch,Pink,Critical ,One week,340.414
+621,Ardath,amishh8@google.nl,(782) 1368718,Satin,Ikat,Khaki,High ,Two weeks,472.898
+622,Katuscha,smiskenh9@mashable.com,(651) 7229688,Linen,Ikat,Mauv,High ,Four weeks,735.176
+623,Melisa,rwiltshawha@unc.edu,(555) 8423186,Rayon,Painting,Aquamarine,Medium,Three weeks,381.74
+624,Daisie,rwithringtenhb@bloglovin.com,(863) 8155112,Chiffon,Polka Dot,Mauv,Critical ,Two weeks,975.227
+625,Borg,gluckenhc@tumblr.com,(738) 6250589,Georgette,Ethnic,Turquoise,Critical ,One week,198.132
+626,Jania,dubsdellhd@reverbnation.com,(251) 7305167,Sateen,Vinatge Seamless,Purple,Low ,Four weeks,181.433
+627,Inness,gfealyhe@bbc.co.uk,(989) 7200327,Jute,Thread Patterns,Pink,Low ,Three weeks,830.969
+628,Ceil,gjecockhf@hostgator.com,(934) 7660247,Lace,Summer Fabrics,Purple,Critical ,Three weeks,295.552
+629,Alecia,jbarghg@dion.ne.jp,(762) 1759750,Poplin,Stripes,Teal,High ,Four weeks,148.239
+630,Kipp,mturnhh@last.fm,(573) 1339143,Rayon,Geometric,Yellow,Low ,Two weeks,392.574
+631,Ulrike,mbilovskyhi@vistaprint.com,(433) 5427300,Sateen,Zebra,Purple,Medium,One week,783.304
+632,Dinny,dduckwithhj@vinaora.com,(300) 6097743,Georgette,Summer Fabrics,Khaki,High ,Two weeks,274.039
+633,Billie,arickesieshk@last.fm,(714) 3778358,Silk,Floral,Purple,Critical ,Two weeks,709.734
+634,Puff,rcresserhl@woothemes.com,(985) 8211380,Rayon,Ikat,Violet,Low ,Three weeks,375.152
+635,Domenico,vgricehm@deviantart.com,(311) 7254991,Velvet,Shabby Chic Rose,Violet,Medium,One week,788.961
+636,Kimberley,kbalashn@yolasite.com,(844) 6351122,Georgette,Vinatge Seamless,Violet,Medium,One week,751.299
+637,Chester,eseggieho@moonfruit.com,(280) 6942245,Satin,Retro Seamless,Purple,Low ,Four weeks,767.931
+638,Darnall,cdolohuntyhp@list-manage.com,(633) 4844463,Cotton ,Retro Seamless,Aquamarine,High ,Four weeks,842.186
+639,Jessi,llarkinghq@163.com,(174) 8435205,Chiffon,Flame Stitch,Goldenrod,Critical ,One week,219.102
+640,Mano,bspeekhr@umn.edu,(608) 2822821,Cotton ,Polka Dot,Maroon,High ,Four weeks,656.783
+641,Jelene,gchokehs@godaddy.com,(220) 2228909,Poplin,Floral,Goldenrod,High ,One week,438.095
+642,Jacquetta,lleurenht@hibu.com,(251) 2137757,Poplin,Polka Dot,Puce,Medium,Two weeks,390.968
+643,Shelli,hcrimeshu@xrea.com,(730) 8983276,Jute,Stripes,Crimson,Critical ,Four weeks,775.389
+644,Lowell,cyoslowitzhv@reverbnation.com,(318) 4180189,Sateen,Ikat,Yellow,Critical ,Three weeks,582.357
+645,Cal,tcobellihw@china.com.cn,(937) 3286014,Lace,Flame Stitch,Crimson,Low ,Two weeks,417.596
+646,Casey,acrightonhx@slideshare.net,(838) 3561126,Lace,Thread Patterns,Teal,Low ,One week,222.033
+647,Lillian,rhadrillhy@answers.com,(844) 3856353,Jute,Painting,Blue,Critical ,Four weeks,901.785
+648,Merilee,ghilbournehz@a8.net,(704) 2661600,Cotton ,Shabby Chic Rose,Green,High ,Three weeks,346.534
+649,Aloisia,ljanskyi0@narod.ru,(213) 4025390,Velvet,Ethnic,Violet,Low ,Three weeks,500.358
+650,Alia,mtidbaldi1@howstuffworks.com,(340) 5504654,Silk,Summer Fabrics,Crimson,Medium,Four weeks,679.007
+651,Melina,jdowryi2@weebly.com,(199) 9054546,Wool,Retro Seamless,Fuscia,High ,Two weeks,703.289
+652,Cristian,cmerryfieldi3@nba.com,(857) 6962434,Denim,Vinatge Seamless,Teal,Critical ,One week,982.843
+653,Vachel,smcnaughti4@sogou.com,(281) 7572796,Satin,Geometric,Fuscia,Low ,Two weeks,897.943
+654,Charita,fvolagei5@hubpages.com,(126) 1443026,Linen,Zebra,Pink,Medium,Two weeks,486.418
+655,Neron,mdanilchevi6@salon.com,(489) 9304922,Rayon,Floral,Violet,Medium,Three weeks,514.084
+656,Goldina,collerearnshawi7@skype.com,(507) 6825972,Chiffon,Retro Seamless,Green,Low ,One week,170.265
+657,Fax,kstrutzi8@myspace.com,(634) 1630083,Georgette,Flame Stitch,Orange,High ,One week,829.121
+658,Roxie,joxterbyi9@reference.com,(282) 5933026,Sateen,Summer Fabrics,Yellow,Critical ,Four weeks,693.81
+659,Mariel,tdoumicia@hud.gov,(630) 6778031,Jute,Shabby Chic Rose,Aquamarine,High ,Four weeks,785.708
+660,Vin,tlazarib@vk.com,(434) 8316191,Lace,Flame Stitch,Violet,High ,One week,664.854
+661,Delbert,lradfordic@berkeley.edu,(158) 7524196,Poplin,Ikat,Teal,Medium,Two weeks,366.065
+662,Lian,lfludeid@joomla.org,(168) 4453804,Rayon,Ikat,Indigo,Critical ,Four weeks,780.645
+663,Cleve,bkuresie@cdc.gov,(199) 8853965,Sateen,Painting,Aquamarine,Critical ,Three weeks,533.203
+664,Viola,mveversif@tripod.com,(751) 7576044,Georgette,Polka Dot,Orange,Low ,Two weeks,788.371
+665,Debbi,jiacovidesig@wiley.com,(596) 1089763,Silk,Ethnic,Fuscia,Low ,One week,284.923
+666,Abbott,rohalleghaneih@digg.com,(987) 7715581,Rayon,Vinatge Seamless,Orange,Critical ,Four weeks,966.389
+667,Gayle,cloddyii@latimes.com,(564) 5812957,Velvet,Thread Patterns,Indigo,High ,Three weeks,857.002
+668,Lev,iguiettij@virginia.edu,(122) 7119560,Georgette,Summer Fabrics,Aquamarine,Low ,Three weeks,599.237
+669,Arty,orhysik@wikispaces.com,(878) 1199573,Satin,Stripes,Purple,Medium,Four weeks,786.09
+670,Loralee,egaisfordil@drupal.org,(865) 7952930,Cotton ,Geometric,Pink,High ,Two weeks,191.334
+671,Saw,nleabeaterim@toplist.cz,(144) 7788342,Chiffon,Zebra,Turquoise,Critical ,One week,601.111
+672,Trumaine,bharmestonin@constantcontact.com,(223) 6763196,Cotton ,Summer Fabrics,Green,Low ,Two weeks,190.769
+673,Hussein,jbastistiniio@themeforest.net,(436) 3515943,Poplin,Floral,Pink,Medium,Two weeks,973.571
+674,Willdon,apriceip@google.co.uk,(686) 6911703,Poplin,Ikat,Goldenrod,Medium,Three weeks,485.779
+675,Vera,gjerdeiniq@wordpress.com,(812) 7305554,Jute,Shabby Chic Rose,Aquamarine,Low ,One week,305.419
+676,Faber,aginmanir@eventbrite.com,(485) 9498101,Sateen,Vinatge Seamless,Puce,High ,One week,494.307
+677,Greer,cgraveneyis@seesaa.net,(149) 9869326,Lace,Retro Seamless,Puce,Critical ,Four weeks,981.047
+678,Waneta,ejeannelit@php.net,(997) 5174946,Lace,Retro Seamless,Green,High ,Four weeks,204.75
+679,Mae,pbruggeniu@4shared.com,(486) 7239027,Jute,Flame Stitch,Aquamarine,High ,One week,442.088
+680,Aldwin,taddingtoniv@rakuten.co.jp,(639) 6499300,Cotton ,Polka Dot,Khaki,Medium,Four weeks,663.329
+681,Wallie,aschruursiw@trellian.com,(595) 1759510,Velvet,Floral,Green,Critical ,One week,631.978
+682,Sibylla,oraymontix@dell.com,(381) 1418995,Silk,Polka Dot,Khaki,Critical ,Two weeks,903.784
+683,Mose,gpaishiy@hud.gov,(758) 9162825,Wool,Stripes,Fuscia,Low ,Four weeks,767.284
+684,Huntley,ostoltziz@51.la,(970) 5669808,Denim,Ikat,Teal,Low ,Three weeks,439.473
+685,Todd,eduboisj0@behance.net,(879) 2710111,Satin,Flame Stitch,Red,Critical ,Two weeks,856.646
+686,Pearl,rmcilwainej1@addthis.com,(393) 9176409,Linen,Thread Patterns,Fuscia,High ,One week,225.66
+687,Krishna,showtonj2@alibaba.com,(427) 9747106,Rayon,Painting,Teal,Low ,Four weeks,133.033
+688,Eugenia,wsalvatij3@wired.com,(213) 2926958,Chiffon,Shabby Chic Rose,Goldenrod,Medium,Three weeks,855.939
+689,Christen,mwanellj4@ezinearticles.com,(212) 2413252,Georgette,Ethnic,Indigo,High ,Three weeks,186.754
+690,Granthem,ngoldthorpj5@mysql.com,(841) 5265927,Sateen,Summer Fabrics,Mauv,Critical ,Four weeks,961.201
+691,Callie,ibirtlesj6@google.it,(263) 1147467,Jute,Retro Seamless,Green,Low ,Two weeks,983.442
+692,Salomi,ewombwellj7@seattletimes.com,(582) 9891218,Lace,Vinatge Seamless,Green,Medium,One week,482.797
+693,Herc,mschirachj8@google.fr,(598) 2929549,Poplin,Geometric,Fuscia,Medium,Two weeks,711.13
+694,Hodge,jbotwrightj9@nationalgeographic.com,(248) 8414027,Rayon,Zebra,Pink,Low ,Two weeks,975.71
+695,Johna,shallfordja@sakura.ne.jp,(627) 1132003,Sateen,Floral,Turquoise,High ,Three weeks,878.141
+696,Hercule,rsimojb@typepad.com,(347) 5696541,Georgette,Retro Seamless,Yellow,Critical ,One week,218.795
+697,Merrel,mwardejc@godaddy.com,(576) 5164714,Silk,Flame Stitch,Purple,High ,One week,142.245
+698,Modesta,ehoopperjd@friendfeed.com,(494) 4564608,Rayon,Summer Fabrics,Pink,High ,Four weeks,639.916
+699,Fidel,iarpinje@hibu.com,(332) 8693408,Velvet,Shabby Chic Rose,Goldenrod,Medium,Four weeks,591.722
+700,Artair,lpetrollijf@cloudflare.com,(985) 7565992,Georgette,Flame Stitch,Khaki,Critical ,One week,844.795
+701,Rochette,mmacgloryjg@homestead.com,(646) 8783898,Satin,Ikat,Goldenrod,Critical ,Two weeks,882.697
+702,Lief,bcopseyjh@examiner.com,(173) 5245319,Cotton ,Ikat,Puce,Low ,Four weeks,841.485
+703,Karly,lhessji@bluehost.com,(978) 8029612,Chiffon,Painting,Mauv,Low ,Three weeks,430.049
+704,Marcelle,mhatchelljj@wsj.com,(898) 9746871,Cotton ,Polka Dot,Puce,Critical ,Two weeks,376.442
+705,Rosalie,rbracknelljk@businessweek.com,(554) 7664165,Poplin,Ethnic,Goldenrod,High ,One week,170.495
+706,Theresita,cprattingtonjl@phpbb.com,(804) 7177017,Poplin,Vinatge Seamless,Crimson,Low ,Four weeks,585.228
+707,Isaak,jludlowjm@amazon.co.uk,(244) 9944326,Jute,Thread Patterns,Purple,Medium,Three weeks,842.977
+708,Cassie,glegricejn@exblog.jp,(798) 1308980,Sateen,Summer Fabrics,Teal,High ,Three weeks,171.132
+709,Rockie,rmissingtonjo@mit.edu,(740) 9968575,Lace,Stripes,Goldenrod,Critical ,Four weeks,361.434
+710,Farrell,spesslerjp@cnet.com,(424) 5732109,Lace,Geometric,Crimson,Low ,Two weeks,516.268
+711,Brodie,dbraleyjq@jimdo.com,(414) 8994031,Jute,Zebra,Crimson,Medium,One week,873.551
+712,Catie,ckuschekjr@hubpages.com,(763) 1908695,Cotton ,Summer Fabrics,Purple,Medium,Two weeks,393.411
+713,Elise,abernardouxjs@msn.com,(952) 1836287,Velvet,Floral,Indigo,Low ,Two weeks,193.65
+714,Cornelia,vdulwichjt@qq.com,(174) 4428603,Silk,Ikat,Purple,High ,Three weeks,167.021
+715,Danit,ncrackelju@github.com,(302) 9439695,Wool,Shabby Chic Rose,Orange,Critical ,One week,623.453
+716,Erich,svasyaevjv@cpanel.net,(470) 8678222,Denim,Vinatge Seamless,Puce,High ,One week,953.776
+717,Anna-maria,sogianyjw@flickr.com,(462) 5133998,Satin,Retro Seamless,Turquoise,High ,Four weeks,677.992
+718,Muhammad,crubanenkojx@tripod.com,(971) 1988962,Linen,Retro Seamless,Orange,Medium,Four weeks,642.761
+719,Normie,aballantinejy@hp.com,(213) 2914947,Rayon,Flame Stitch,Red,Critical ,One week,440.128
+720,Shelton,aewensjz@independent.co.uk,(387) 9997927,Chiffon,Polka Dot,Green,Critical ,Four weeks,116.24
+721,Kristi,ycrebottk0@mail.ru,(880) 5107488,Georgette,Floral,Turquoise,Low ,One week,280.307
+722,Jerrie,bbroughtonk1@weather.com,(580) 7582914,Sateen,Polka Dot,Maroon,Low ,Two weeks,446.795
+723,Cammy,jmcmeekink2@eventbrite.com,(880) 1711894,Jute,Stripes,Aquamarine,Critical ,Four weeks,614.609
+724,Lindsay,cbauchopk3@si.edu,(547) 3936777,Lace,Ikat,Pink,High ,Three weeks,224.79
+725,Leeanne,acavozzik4@bloglines.com,(616) 1216677,Poplin,Flame Stitch,Purple,Low ,Two weeks,725.336
+726,Jacki,mcracoek5@usgs.gov,(528) 6048744,Rayon,Thread Patterns,Red,Medium,One week,471.237
+727,Celeste,kfarryank6@smh.com.au,(948) 8198843,Sateen,Painting,Aquamarine,High ,Four weeks,507.443
+728,Elysha,choodspethk7@theguardian.com,(115) 6539837,Georgette,Shabby Chic Rose,Teal,Critical ,Three weeks,185.326
+729,Bernadine,cbardellk8@reuters.com,(127) 1209196,Silk,Ethnic,Khaki,Low ,Three weeks,660.739
+730,Woody,fkeek9@theatlantic.com,(784) 5284629,Rayon,Summer Fabrics,Mauv,Medium,Four weeks,685.067
+731,Augie,tscotchforthka@sakura.ne.jp,(972) 2507582,Velvet,Retro Seamless,Khaki,Medium,Two weeks,594.152
+732,Andreana,elampardkb@free.fr,(511) 9608329,Georgette,Vinatge Seamless,Goldenrod,Low ,One week,192.273
+733,Alvie,bpardewkc@rambler.ru,(130) 3803019,Satin,Geometric,Turquoise,High ,Two weeks,755.879
+734,Conney,mhatherleykd@oaic.gov.au,(825) 5526788,Cotton ,Zebra,Turquoise,Critical ,Two weeks,236.144
+735,Joellen,ctesmondke@narod.ru,(165) 7015862,Chiffon,Floral,Blue,High ,Three weeks,837.866
+736,Lawry,severallkf@upenn.edu,(221) 1860882,Cotton ,Retro Seamless,Purple,High ,One week,847.981
+737,Lydon,gsineathkg@about.com,(262) 3026101,Poplin,Flame Stitch,Purple,Medium,One week,161.084
+738,Celinka,ctiltkh@ezinearticles.com,(417) 1256998,Poplin,Summer Fabrics,Green,Critical ,Four weeks,105.994
+739,Sandor,pheberdenki@naver.com,(939) 3932493,Jute,Shabby Chic Rose,Violet,Critical ,Four weeks,986.969
+740,Percy,hkardosstowekj@mapy.cz,(960) 8511739,Sateen,Flame Stitch,Khaki,Low ,One week,341.318
+741,Carver,agoodfellowekk@amazon.co.uk,(526) 8231230,Lace,Ikat,Indigo,Low ,Two weeks,114.382
+742,Jackqueline,hgristockkl@chron.com,(900) 9540153,Lace,Ikat,Blue,Critical ,Four weeks,152.194
+743,Tabby,mcolebornkm@google.com,(581) 1710748,Jute,Painting,Khaki,High ,Three weeks,414.314
+744,Rina,toreillykn@soup.io,(795) 8821741,Cotton ,Polka Dot,Indigo,Low ,Two weeks,382.645
+745,Berny,ggroverko@cdc.gov,(184) 2028179,Velvet,Ethnic,Green,Medium,One week,288.015
+746,Gay,ppeekevoutkp@washingtonpost.com,(533) 9251284,Silk,Vinatge Seamless,Red,High ,Four weeks,559.702
+747,Emory,pedmandskq@cnbc.com,(520) 4028371,Wool,Thread Patterns,Aquamarine,Critical ,Three weeks,197.56
+748,Bryana,gredihalghkr@about.me,(351) 3962468,Denim,Summer Fabrics,Puce,Low ,Three weeks,636.82
+749,Marnie,dheffyks@tamu.edu,(363) 8735869,Satin,Stripes,Indigo,Medium,Four weeks,586.141
+750,Gilbert,imatussonkt@imageshack.us,(917) 7640432,Linen,Geometric,Fuscia,Medium,Two weeks,252.528
+751,Suellen,cbarbyku@miibeian.gov.cn,(357) 1125698,Rayon,Zebra,Green,Low ,One week,220.606
+752,Philly,lspinellokv@mozilla.com,(403) 3357061,Chiffon,Summer Fabrics,Purple,High ,Two weeks,323.363
+753,Pietro,gfrikw@163.com,(689) 4839659,Georgette,Floral,Fuscia,Critical ,Two weeks,157.698
+754,Fionna,tniblockkx@prnewswire.com,(872) 3925561,Sateen,Ikat,Goldenrod,High ,Three weeks,437.085
+755,Rik,pmingottiky@360.cn,(834) 5702396,Jute,Shabby Chic Rose,Blue,High ,One week,704.272
+756,Jackelyn,gtofaninikz@businesswire.com,(946) 4540872,Lace,Vinatge Seamless,Khaki,Medium,One week,670.462
+757,Tony,hdeplacidol0@imgur.com,(978) 2660135,Poplin,Retro Seamless,Green,Critical ,Four weeks,724.498
+758,Jonathon,mskirrowl1@ucoz.com,(425) 3766037,Rayon,Retro Seamless,Maroon,Critical ,Four weeks,817.165
+759,Phedra,smargueritel2@github.io,(266) 4440639,Sateen,Flame Stitch,Maroon,Low ,One week,525.102
+760,Emelen,ebusfieldl3@ed.gov,(933) 6604523,Georgette,Polka Dot,Khaki,Low ,Four weeks,286.761
+761,Quillan,aglandersl4@statcounter.com,(362) 2087522,Silk,Floral,Goldenrod,Critical ,One week,277.957
+762,Lawton,abourchierl5@alibaba.com,(502) 9004950,Rayon,Polka Dot,Violet,High ,Two weeks,396.948
+763,Gabriello,hcottal6@toplist.cz,(906) 5672862,Velvet,Stripes,Teal,Low ,Four weeks,846.134
+764,Pet,amacgahyl7@japanpost.jp,(292) 3710465,Georgette,Ikat,Orange,Medium,Three weeks,687.474
+765,Teodorico,rmeagherl8@booking.com,(296) 8775877,Satin,Flame Stitch,Aquamarine,High ,Two weeks,128.531
+766,Van,dreekl9@ning.com,(222) 6672427,Cotton ,Thread Patterns,Green,Critical ,One week,982.391
+767,Perceval,tsimonsonla@yelp.com,(940) 7072460,Chiffon,Painting,Crimson,Low ,Four weeks,696.162
+768,Westley,cfeitosalb@dmoz.org,(644) 4657587,Cotton ,Shabby Chic Rose,Aquamarine,Medium,Three weeks,828.589
+769,Hagen,equinionlc@soundcloud.com,(122) 7676426,Poplin,Ethnic,Khaki,Medium,Three weeks,306.506
+770,Ancell,dwhicherld@springer.com,(148) 3879662,Poplin,Summer Fabrics,Fuscia,Low ,Four weeks,393.75
+771,Julee,sphillpottsle@nsw.gov.au,(368) 1452400,Jute,Retro Seamless,Orange,High ,Two weeks,272.976
+772,Celia,clellolf@fda.gov,(316) 7076466,Sateen,Vinatge Seamless,Maroon,Critical ,One week,123.826
+773,Patsy,gfeltoelg@buzzfeed.com,(307) 3697382,Lace,Geometric,Teal,High ,Two weeks,854.572
+774,Barbaraanne,eferylh@ycombinator.com,(662) 2008101,Lace,Zebra,Orange,High ,Two weeks,367.106
+775,Riannon,sfreedli@indiegogo.com,(920) 5052983,Jute,Floral,Pink,Medium,Three weeks,595.589
+776,Nananne,rrubinovicilj@flickr.com,(472) 1879222,Cotton ,Retro Seamless,Yellow,Critical ,One week,583.076
+777,Quentin,lrockalllk@biglobe.ne.jp,(885) 7333023,Velvet,Flame Stitch,Crimson,Critical ,One week,498.411
+778,Barnabe,bbrinsonll@nytimes.com,(853) 5006085,Silk,Summer Fabrics,Blue,Low ,Four weeks,704.782
+779,Rhianon,mmaaselm@illinois.edu,(797) 6896507,Wool,Shabby Chic Rose,Indigo,Low ,Four weeks,440.482
+780,Judi,etuiteln@umn.edu,(667) 3031362,Denim,Flame Stitch,Yellow,Critical ,One week,982.619
+781,Isabelita,sjaggerlo@skype.com,(723) 7727563,Satin,Ikat,Violet,High ,Two weeks,301.783
+782,Belita,xhaverslp@senate.gov,(285) 7972930,Linen,Ikat,Indigo,Low ,Four weeks,556.404
+783,Ajay,jbrimfieldlq@51.la,(305) 4845213,Rayon,Painting,Teal,Medium,Three weeks,666.115
+784,Tamera,ilemarchantlr@yelp.com,(404) 4872911,Chiffon,Polka Dot,Green,High ,Two weeks,750.984
+785,York,radelbergls@github.io,(323) 1728780,Georgette,Ethnic,Goldenrod,Critical ,One week,637.927
+786,Teresita,mbolitholt@odnoklassniki.ru,(498) 3752636,Sateen,Vinatge Seamless,Red,Low ,Four weeks,330.338
+787,Shaun,wruberylu@icq.com,(381) 4639236,Jute,Thread Patterns,Mauv,Medium,Three weeks,879.069
+788,Patsy,chalfhydelv@mlb.com,(115) 2310085,Lace,Summer Fabrics,Indigo,Medium,Three weeks,326.363
+789,Inglebert,rcasserlylw@gov.uk,(722) 1531366,Poplin,Stripes,Indigo,Low ,Four weeks,182.376
+790,June,jwoodfieldlx@nhs.uk,(136) 2597338,Rayon,Geometric,Teal,High ,Two weeks,577.842
+791,David,aladonly@discovery.com,(698) 4821747,Sateen,Zebra,Indigo,Critical ,One week,825.699
+792,Glad,lmoodeylz@wisc.edu,(270) 1956328,Georgette,Summer Fabrics,Blue,High ,Two weeks,536.632
+793,Darice,cbenyanm0@yale.edu,(354) 7553781,Silk,Floral,Turquoise,High ,Two weeks,468.969
+794,Cornelle,rinskom1@macromedia.com,(529) 9721379,Rayon,Ikat,Blue,Medium,Three weeks,447.698
+795,Pippa,vandreassonm2@fc2.com,(518) 3201097,Velvet,Shabby Chic Rose,Violet,Critical ,One week,862.955
+796,Brittney,mjohnysm3@mac.com,(790) 6683249,Georgette,Vinatge Seamless,Blue,Critical ,One week,375.778
+797,Georgeanna,lcassellam4@cbc.ca,(951) 9015077,Satin,Retro Seamless,Khaki,Low ,Four weeks,858.458
+798,Oby,emerigotm5@comsenz.com,(858) 5921015,Cotton ,Retro Seamless,Puce,Low ,Four weeks,271.014
+799,Anthea,rwestallm6@yelp.com,(835) 2134171,Chiffon,Flame Stitch,Mauv,Critical ,One week,773.162
+800,Sena,kpolm7@wsj.com,(382) 5590791,Cotton ,Polka Dot,Indigo,High ,Four weeks,210.125
+801,Melisandra,fstormonthm8@latimes.com,(300) 2610036,Poplin,Floral,Purple,Low ,One week,281.073
+802,Prentiss,tjedrzejewskym9@facebook.com,(525) 5368597,Poplin,Polka Dot,Teal,Medium,Two weeks,598.478
+803,Danica,rtibbettsma@ft.com,(358) 7301208,Jute,Stripes,Maroon,High ,Four weeks,655.628
+804,Mace,mcalderomb@indiatimes.com,(116) 2836969,Sateen,Ikat,Maroon,Critical ,Three weeks,270.48
+805,Ellyn,ecicccittimc@nasa.gov,(359) 1994083,Lace,Flame Stitch,Violet,Low ,Two weeks,101.276
+806,Friederike,nphipsonmd@biglobe.ne.jp,(392) 7803068,Lace,Thread Patterns,Turquoise,Medium,One week,910.128
+807,Claudelle,arobottomme@google.nl,(707) 7505821,Jute,Painting,Goldenrod,Medium,Four weeks,746.717
+808,Herold,gmoxleymf@tripod.com,(398) 2746162,Cotton ,Shabby Chic Rose,Yellow,Low ,Three weeks,530.217
+809,Darrelle,adearymg@reuters.com,(653) 7042453,Velvet,Ethnic,Khaki,High ,Three weeks,465.591
+810,Jackqueline,afranzkemh@unc.edu,(945) 8909586,Silk,Summer Fabrics,Yellow,Critical ,Four weeks,343.14
+811,Robinetta,dburgwinmi@archive.org,(227) 9025760,Wool,Retro Seamless,Indigo,High ,Two weeks,851.04
+812,Jerald,rcotilardmj@ameblo.jp,(354) 1482488,Denim,Vinatge Seamless,Pink,High ,One week,698.506
+813,Gordie,sgochermk@wired.com,(494) 4804621,Satin,Geometric,Puce,Medium,Two weeks,362.572
+814,Emeline,ndallmanml@cmu.edu,(219) 4841421,Linen,Zebra,Red,Critical ,Two weeks,512.921
+815,Godart,hnewlandsmm@go.com,(402) 7318540,Rayon,Floral,Goldenrod,Critical ,Three weeks,141.267
+816,Devi,hpirismn@e-recht24.de,(122) 9034505,Chiffon,Retro Seamless,Puce,Low ,One week,267.109
+817,Doloritas,nphilipsmo@bbc.co.uk,(754) 3143713,Georgette,Flame Stitch,Crimson,Low ,One week,167.846
+818,Romonda,rbaggallaymp@plala.or.jp,(359) 3338039,Sateen,Summer Fabrics,Blue,Critical ,Four weeks,464.726
+819,Lyndsay,aantonikovmq@flickr.com,(699) 9574554,Jute,Shabby Chic Rose,Yellow,High ,Four weeks,328.378
+820,Donella,cminghimr@prnewswire.com,(463) 8332484,Lace,Flame Stitch,Violet,Low ,One week,254.41
+821,Sherill,pstantonms@seesaa.net,(170) 1614155,Poplin,Ikat,Crimson,Medium,Two weeks,436.065
+822,Edik,ltrathenmt@globo.com,(351) 5234712,Rayon,Ikat,Goldenrod,High ,Four weeks,770.58
+823,Calla,jmcnaemu@cargocollective.com,(700) 7260522,Sateen,Painting,Turquoise,Critical ,Three weeks,252.219
+824,Robinetta,kjostmv@dell.com,(333) 8790885,Georgette,Polka Dot,Khaki,Low ,Two weeks,800.244
+825,Rozina,flittlekitmw@toplist.cz,(574) 6368117,Silk,Ethnic,Yellow,Medium,One week,372.242
+826,Tate,kwharrammx@1688.com,(167) 2732637,Rayon,Vinatge Seamless,Purple,Medium,Four weeks,875.619
+827,Farris,wcrewemy@dot.gov,(719) 1529757,Velvet,Thread Patterns,Indigo,Low ,Three weeks,240.158
+828,Maury,mvogellermz@mtv.com,(551) 8089320,Georgette,Summer Fabrics,Turquoise,High ,Three weeks,822.977
+829,Ibby,dsolanon0@example.com,(638) 2979427,Satin,Stripes,Maroon,Critical ,Four weeks,231.772
+830,Erica,tsiviln1@nifty.com,(714) 7437969,Cotton ,Geometric,Blue,High ,Two weeks,915.525
+831,Wallie,mgouldbournn2@reference.com,(563) 9609597,Chiffon,Zebra,Indigo,High ,One week,574.1
+832,Lauraine,ophilpottsn3@ft.com,(622) 7068483,Cotton ,Summer Fabrics,Blue,Medium,Two weeks,375.291
+833,Dix,nvurleyn4@oracle.com,(998) 5044592,Poplin,Floral,Mauv,Critical ,Two weeks,994.221
+834,Joshuah,rdyottn5@creativecommons.org,(941) 9100205,Poplin,Ikat,Crimson,Critical ,Three weeks,250.192
+835,Geno,nshulvern6@google.it,(565) 3815009,Jute,Shabby Chic Rose,Goldenrod,Low ,One week,482.668
+836,Vassili,nespinolan7@blogger.com,(751) 4277669,Sateen,Vinatge Seamless,Yellow,Low ,One week,523.378
+837,Guntar,tpigginsn8@amazonaws.com,(429) 7319313,Lace,Retro Seamless,Goldenrod,Critical ,Four weeks,960.44
+838,Freedman,rdukern9@nationalgeographic.com,(497) 1494014,Lace,Retro Seamless,Purple,High ,Four weeks,369.533
+839,Paule,vbuggsna@buzzfeed.com,(652) 2733079,Jute,Flame Stitch,Indigo,Low ,One week,980.996
+840,Benton,cjanowicznb@devhub.com,(627) 1360917,Cotton ,Polka Dot,Khaki,Medium,Four weeks,294.656
+841,Aila,tswyrenc@moonfruit.com,(595) 4945457,Velvet,Floral,Maroon,High ,One week,175.996
+842,Aaron,smaleneynd@godaddy.com,(416) 3673026,Silk,Polka Dot,Purple,Critical ,Two weeks,246.12
+843,Wolf,asauvagene@constantcontact.com,(921) 5058881,Wool,Stripes,Maroon,Low ,Four weeks,596.595
+844,Zacherie,yodoogannf@senate.gov,(804) 8182324,Denim,Ikat,Teal,Medium,Three weeks,275.311
+845,Jillayne,pprucknerng@geocities.com,(820) 1763555,Satin,Flame Stitch,Maroon,Medium,Two weeks,839.406
+846,Vlad,favramownh@barnesandnoble.com,(513) 7577749,Linen,Thread Patterns,Turquoise,Low ,One week,592.206
+847,Verena,adugmoreni@t-online.de,(256) 3601514,Rayon,Painting,Yellow,High ,Four weeks,358.589
+848,Garth,sloxleynj@vinaora.com,(863) 4506531,Chiffon,Shabby Chic Rose,Aquamarine,Critical ,Three weeks,338.822
+849,Saleem,ikubasiewicznk@seattletimes.com,(239) 2355553,Georgette,Ethnic,Goldenrod,High ,Three weeks,190.503
+850,Katinka,bmcdiarmidnl@51.la,(916) 3811564,Sateen,Summer Fabrics,Fuscia,High ,Four weeks,796.971
+851,Whitney,bwimsettnm@surveymonkey.com,(776) 1301713,Jute,Retro Seamless,Indigo,Medium,Two weeks,560.883
+852,Nick,ahawsnn@icio.us,(428) 1303270,Lace,Vinatge Seamless,Maroon,Critical ,One week,531.695
+853,Licha,jyoungmanno@netscape.com,(421) 5913432,Poplin,Geometric,Blue,Critical ,Two weeks,355.298
+854,Orton,jduigednp@desdev.cn,(366) 1270749,Rayon,Zebra,Indigo,Low ,Two weeks,640.556
+855,Eben,nkendlenq@pagesperso-orange.fr,(555) 7914655,Sateen,Floral,Red,Low ,Three weeks,908.992
+856,Kimbell,rcatherinenr@google.com.br,(304) 1674343,Georgette,Retro Seamless,Fuscia,Critical ,One week,908.456
+857,Christie,bcuddonns@springer.com,(565) 7758976,Silk,Flame Stitch,Puce,High ,One week,176.676
+858,Zelma,dmonardnt@chron.com,(350) 6324961,Rayon,Summer Fabrics,Teal,Low ,Four weeks,517.528
+859,Ashton,afoskettnu@arizona.edu,(279) 6613690,Velvet,Shabby Chic Rose,Red,Medium,Four weeks,336.99
+860,Porty,scremennv@sbwire.com,(742) 6270161,Georgette,Flame Stitch,Puce,High ,One week,321.034
+861,Perla,tstraussnw@1688.com,(375) 6965393,Satin,Ikat,Orange,Critical ,Two weeks,648.437
+862,Horatio,lbyronnx@utexas.edu,(914) 4540265,Cotton ,Ikat,Pink,Low ,Four weeks,287.792
+863,Patrizia,freany@elegantthemes.com,(878) 6674639,Chiffon,Painting,Green,Medium,Three weeks,890.322
+864,Valerye,rfeatleynz@creativecommons.org,(978) 9378027,Cotton ,Polka Dot,Red,Medium,Two weeks,568.779
+865,Wilhelmina,mgleaveo0@blogspot.com,(267) 3443542,Poplin,Ethnic,Teal,Low ,One week,293.338
+866,Wilbur,jproffitto1@surveymonkey.com,(736) 7624462,Poplin,Vinatge Seamless,Purple,High ,Four weeks,253.501
+867,Winny,edowseo2@zimbio.com,(313) 3512844,Jute,Thread Patterns,Violet,Critical ,Three weeks,922.335
+868,Erminie,dbaguleyo3@edublogs.org,(189) 1345797,Sateen,Summer Fabrics,Mauv,High ,Three weeks,149.869
+869,Cullen,capplefordo4@webmd.com,(606) 3486085,Lace,Stripes,Blue,High ,Four weeks,436.09
+870,Clevey,dmiramso5@imageshack.us,(257) 9045412,Lace,Geometric,Crimson,Medium,Two weeks,634.458
+871,Teodor,lburwino6@mapquest.com,(447) 8094065,Jute,Zebra,Red,Critical ,One week,899.687
+872,Zolly,mpopovo7@japanpost.jp,(398) 8789309,Cotton ,Summer Fabrics,Green,Critical ,Two weeks,370.118
+873,Charline,bgaskingo8@admin.ch,(566) 1122206,Velvet,Floral,Violet,Low ,Two weeks,648.888
+874,Valentijn,adoudo9@prnewswire.com,(881) 8154374,Silk,Ikat,Green,Low ,Three weeks,964.899
+875,Van,jbrameoa@epa.gov,(157) 3834499,Wool,Shabby Chic Rose,Turquoise,Critical ,One week,310.427
+876,Antoine,feyresob@twitpic.com,(258) 5275239,Denim,Vinatge Seamless,Khaki,High ,One week,678.647
+877,Lorin,jrenneyoc@de.vu,(376) 7266531,Satin,Retro Seamless,Crimson,Low ,Four weeks,756.762
+878,Leupold,hpuntod@prnewswire.com,(142) 8345156,Linen,Retro Seamless,Green,Medium,Four weeks,657.372
+879,Quintina,gstenettoe@timesonline.co.uk,(748) 8040110,Rayon,Flame Stitch,Maroon,High ,One week,736.767
+880,Janela,garonsof@nbcnews.com,(734) 4069618,Chiffon,Polka Dot,Green,Critical ,Four weeks,552.101
+881,Jolynn,aminchintonog@shutterfly.com,(290) 1718851,Georgette,Floral,Purple,Low ,One week,847.072
+882,Mandy,fheberoh@upenn.edu,(300) 5991916,Sateen,Polka Dot,Yellow,Medium,Two weeks,385.043
+883,Gal,akachelleroi@cmu.edu,(466) 5039347,Jute,Stripes,Teal,Medium,Four weeks,298.937
+884,Eolanda,jbritcheroj@java.com,(436) 3924393,Lace,Ikat,Goldenrod,Low ,Three weeks,390.144
+885,Hamel,hoakleyok@fc2.com,(219) 5362624,Poplin,Flame Stitch,Pink,High ,Two weeks,930.213
+886,Joceline,wwykesol@house.gov,(113) 3950691,Rayon,Thread Patterns,Crimson,Critical ,One week,172.545
+887,Danya,cfendlenom@jigsy.com,(976) 3593227,Sateen,Painting,Green,High ,Four weeks,442.351
+888,Mellisa,mhaughtonon@businesswire.com,(202) 2247730,Georgette,Shabby Chic Rose,Khaki,High ,Three weeks,565.752
+889,Kellyann,adevenishoo@edublogs.org,(979) 9861264,Silk,Ethnic,Mauv,Medium,Three weeks,542.728
+890,Tate,sbarlingop@bbc.co.uk,(527) 8671283,Rayon,Summer Fabrics,Indigo,Critical ,Four weeks,221.854
+891,Israel,spechaoq@e-recht24.de,(855) 9100219,Velvet,Retro Seamless,Violet,Critical ,Two weeks,197.477
+892,Valenka,aknipeor@google.com.br,(675) 8283286,Georgette,Vinatge Seamless,Puce,Low ,One week,798.852
+893,Gauthier,cliddonos@delicious.com,(283) 4130182,Satin,Geometric,Yellow,Low ,Two weeks,918.411
+894,Trevor,kpaolucciot@ameblo.jp,(784) 8569366,Cotton ,Zebra,Red,Critical ,Two weeks,641.562
+895,Catie,emethingamou@intel.com,(906) 1664908,Chiffon,Floral,Violet,High ,Three weeks,169.945
+896,Julio,dserjeantsonov@sciencedirect.com,(467) 8731764,Cotton ,Retro Seamless,Crimson,Low ,One week,275.035
+897,Madalyn,rclaceyow@yellowbook.com,(370) 2696622,Poplin,Flame Stitch,Teal,Medium,One week,443.731
+898,Sanford,gbruckentox@deliciousdays.com,(777) 7070663,Poplin,Summer Fabrics,Puce,High ,Four weeks,731.787
+899,Andy,dkelbereroy@blinklist.com,(176) 9602333,Jute,Shabby Chic Rose,Turquoise,Critical ,Four weeks,202.601
+900,Maura,abrennanoz@mapy.cz,(513) 1855412,Sateen,Flame Stitch,Maroon,Low ,One week,997.702
+901,Mae,eleaknerp0@symantec.com,(306) 6486690,Lace,Ikat,Maroon,Medium,Two weeks,943.307
+902,Maryellen,kgurrp1@cdc.gov,(586) 9898118,Lace,Ikat,Teal,Medium,Four weeks,966.983
+903,Bronny,echillingsworthp2@hc360.com,(793) 6391936,Jute,Painting,Red,Low ,Three weeks,220.908
+904,Matti,hbadseyp3@examiner.com,(460) 3606396,Cotton ,Polka Dot,Pink,High ,Two weeks,389.071
+905,Mina,ddemkowiczp4@scientificamerican.com,(352) 6127358,Velvet,Ethnic,Indigo,Critical ,One week,592.747
+906,Gretchen,cgausonp5@nydailynews.com,(904) 4785715,Silk,Vinatge Seamless,Teal,High ,Four weeks,292.002
+907,Fons,llathomp6@sciencedirect.com,(130) 5486345,Wool,Thread Patterns,Mauv,High ,Three weeks,938.257
+908,Nils,amindenhallp7@amazon.de,(735) 6426552,Denim,Summer Fabrics,Blue,Medium,Three weeks,296.546
+909,Kylie,agingelp8@etsy.com,(899) 5303817,Satin,Stripes,Mauv,Critical ,Four weeks,738.179
+910,Joanie,lcolacop9@ed.gov,(575) 7139046,Linen,Geometric,Puce,Critical ,Two weeks,865.494
+911,Robbyn,msivyerpa@usatoday.com,(767) 8277194,Rayon,Zebra,Fuscia,Low ,One week,164.954
+912,Moyra,bchampleypb@gov.uk,(573) 4324723,Chiffon,Summer Fabrics,Red,Low ,Two weeks,541.991
+913,Consuela,asexonpc@geocities.jp,(718) 8424862,Georgette,Floral,Blue,Critical ,Two weeks,260.84
+914,Elmer,deliescopd@usgs.gov,(653) 1334724,Sateen,Ikat,Indigo,High ,Three weeks,534.075
+915,Chrotoem,abrongerpe@google.ca,(827) 5395533,Jute,Shabby Chic Rose,Purple,Low ,One week,721.674
+916,Seymour,nstroverpf@theatlantic.com,(781) 8397111,Lace,Vinatge Seamless,Purple,Medium,One week,492.704
+917,Cesare,vriddlesdenpg@samsung.com,(412) 3043327,Poplin,Retro Seamless,Teal,High ,Four weeks,658.454
+918,Sheena,fabbyph@nymag.com,(568) 4061096,Rayon,Retro Seamless,Orange,Critical ,Four weeks,215.471
+919,Wain,gbridsonpi@kickstarter.com,(925) 1148744,Sateen,Flame Stitch,Crimson,Low ,One week,183.427
+920,Kristos,tharcombepj@upenn.edu,(397) 9554008,Georgette,Polka Dot,Fuscia,Medium,Four weeks,285.48
+921,Leeanne,spalkpk@symantec.com,(879) 8165565,Silk,Floral,Indigo,Medium,One week,914.951
+922,Austin,omacgahypl@arizona.edu,(324) 6084155,Rayon,Polka Dot,Purple,Low ,Two weeks,999.773
+923,Debor,wwinhampm@auda.org.au,(291) 1011327,Velvet,Stripes,Khaki,High ,Four weeks,263.134
+924,Brittaney,oparkinsonpn@tumblr.com,(214) 3506474,Georgette,Ikat,Aquamarine,Critical ,Three weeks,247.182
+925,Martyn,mmcevaypo@multiply.com,(678) 4616944,Satin,Flame Stitch,Indigo,High ,Two weeks,725.908
+926,Logan,rfurzerpp@prweb.com,(893) 2442382,Cotton ,Thread Patterns,Mauv,High ,One week,442.702
+927,Osborn,dandruspq@lycos.com,(334) 6143486,Chiffon,Painting,Orange,Medium,Four weeks,622.085
+928,Paloma,nizakpr@independent.co.uk,(182) 9078628,Cotton ,Shabby Chic Rose,Mauv,Critical ,Three weeks,117.451
+929,Adelice,apollicoteps@mtv.com,(871) 7888913,Poplin,Ethnic,Mauv,Critical ,Three weeks,740.935
+930,Edgar,bsheringhampt@domainmarket.com,(295) 3533381,Poplin,Summer Fabrics,Green,Low ,Four weeks,322.172
+931,Melvin,tnoyepu@accuweather.com,(612) 2463341,Jute,Retro Seamless,Pink,Low ,Two weeks,885.221
+932,Mariann,tbernipv@dailymotion.com,(690) 3828091,Sateen,Vinatge Seamless,Goldenrod,Critical ,One week,691.419
+933,Barclay,gbernadotpw@is.gd,(460) 5872641,Lace,Geometric,Aquamarine,High ,Two weeks,597.981
+934,Virginie,mrabbittspx@ihg.com,(189) 8650519,Lace,Zebra,Indigo,Low ,Two weeks,611.241
+935,Allie,sormespy@gov.uk,(991) 9206102,Jute,Floral,Violet,Medium,Three weeks,296.259
+936,Adena,ahowoodpz@mediafire.com,(131) 4239547,Cotton ,Retro Seamless,Teal,High ,One week,475.78
+937,Ardelia,alaffinq0@bbb.org,(590) 1638438,Velvet,Flame Stitch,Maroon,Critical ,One week,618.115
+938,Janith,crathkeq1@theguardian.com,(627) 9454885,Silk,Summer Fabrics,Aquamarine,Low ,Four weeks,869.637
+939,Abby,omcarthurq2@fotki.com,(885) 1822821,Wool,Shabby Chic Rose,Purple,Medium,Four weeks,669.981
+940,Von,emaciejewskiq3@cafepress.com,(860) 7171883,Denim,Flame Stitch,Teal,Medium,One week,298.806
+941,Joella,adecavilleq4@yahoo.co.jp,(324) 7429784,Satin,Ikat,Violet,Low ,Two weeks,225.1
+942,Edwin,irichinq5@earthlink.net,(373) 4777073,Linen,Ikat,Puce,High ,Four weeks,390.703
+943,Lanette,chickenbottomq6@google.co.uk,(217) 4258139,Rayon,Painting,Crimson,Critical ,Three weeks,619.544
+944,Courtney,kpoveleyeq7@studiopress.com,(155) 7348026,Chiffon,Polka Dot,Green,High ,Two weeks,658.645
+945,Janelle,jdurantq8@opera.com,(173) 9080261,Georgette,Ethnic,Blue,High ,One week,354.439
+946,Krishnah,dadamkiewiczq9@examiner.com,(484) 4500121,Sateen,Vinatge Seamless,Pink,Medium,Four weeks,762.5
+947,Langsdon,pbalsellieqa@globo.com,(389) 9076697,Jute,Thread Patterns,Fuscia,Critical ,Three weeks,846.697
+948,Paulina,idymottqb@cyberchimps.com,(907) 3053619,Lace,Summer Fabrics,Yellow,Critical ,Three weeks,968.067
+949,Adaline,lrosarioqc@list-manage.com,(892) 9680408,Poplin,Stripes,Crimson,Low ,Four weeks,114.736
+950,Elvira,aellettqd@slate.com,(538) 8671725,Rayon,Geometric,Blue,Low ,Two weeks,752.915
+951,Heddie,nharradqe@freewebs.com,(859) 5556719,Sateen,Zebra,Blue,Critical ,One week,546.394
+952,Demetra,mcarterqf@yelp.com,(955) 9933003,Georgette,Summer Fabrics,Purple,High ,Two weeks,549.475
+953,Burt,lankerqg@tmall.com,(218) 5799456,Silk,Floral,Orange,Low ,Two weeks,585.534
+954,Bette-ann,amckennyqh@businessweek.com,(396) 7498993,Rayon,Ikat,Khaki,Medium,Three weeks,455.787
+955,Vinnie,ttorricinaqi@zdnet.com,(828) 2150257,Velvet,Shabby Chic Rose,Crimson,High ,One week,573.695
+956,Deane,bdallmanqj@1und1.de,(125) 7561143,Georgette,Vinatge Seamless,Puce,Critical ,One week,463.361
+957,Brenna,jabatelliqk@storify.com,(723) 1701352,Satin,Retro Seamless,Fuscia,Low ,Four weeks,551.594
+958,Shelley,klockwoodql@angelfire.com,(878) 8605863,Cotton ,Retro Seamless,Aquamarine,Medium,Four weeks,308.603
+959,Minor,jduplanqm@springer.com,(693) 1450748,Chiffon,Flame Stitch,Green,Medium,One week,751.669
+960,Wolfie,erisboroughqn@ed.gov,(877) 5078713,Cotton ,Polka Dot,Khaki,Low ,Four weeks,161.38
+961,Theobald,pninnottiqo@mapquest.com,(717) 1488992,Poplin,Floral,Violet,High ,One week,845.013
+962,Ralf,kbenfordqp@icio.us,(808) 8905451,Poplin,Polka Dot,Orange,Critical ,Two weeks,150.541
+963,Lavena,jastlattqq@blogspot.com,(594) 5538811,Jute,Stripes,Purple,High ,Four weeks,267.961
+964,Correna,peliasenqr@t.co,(159) 1775709,Sateen,Ikat,Red,High ,Three weeks,389.936
+965,Killy,ioliverqs@arstechnica.com,(915) 7280514,Lace,Flame Stitch,Teal,Medium,Two weeks,896.909
+966,Gaston,eforrestqt@elpais.com,(200) 6733291,Lace,Thread Patterns,Fuscia,Critical ,One week,272.227
+967,Ravi,hrosomanqu@dot.gov,(820) 7953984,Jute,Painting,Mauv,Critical ,Four weeks,649.908
+968,Virgil,cklainerqv@diigo.com,(874) 4710137,Cotton ,Shabby Chic Rose,Fuscia,Low ,Three weeks,671.347
+969,Alfredo,kyarwoodqw@parallels.com,(220) 5305992,Velvet,Ethnic,Teal,Low ,Three weeks,839.511
+970,Sibby,bcoatesqx@si.edu,(461) 8423631,Silk,Summer Fabrics,Maroon,Critical ,Four weeks,421.062
+971,Wilfrid,salhirsiqy@mac.com,(352) 9710567,Wool,Retro Seamless,Orange,High ,Two weeks,927.055
+972,Leland,awetwoodqz@sourceforge.net,(633) 6573275,Denim,Vinatge Seamless,Aquamarine,Low ,One week,897.383
+973,Stevena,cborsayr0@so-net.ne.jp,(765) 1691713,Satin,Geometric,Turquoise,Medium,Two weeks,851.303
+974,Arlan,lsporesr1@engadget.com,(883) 4944895,Linen,Zebra,Mauv,High ,Two weeks,192.563
+975,Tisha,dbulgenr2@paginegialle.it,(336) 9799185,Rayon,Floral,Indigo,Critical ,Three weeks,393.615
+976,Bertrando,pblackburnr3@nps.gov,(294) 1970110,Chiffon,Retro Seamless,Teal,Low ,One week,587.848
+977,Tina,dbridalr4@rediff.com,(257) 5237438,Georgette,Flame Stitch,Red,Medium,One week,713.197
+978,Dniren,lblazejr5@reference.com,(294) 6281154,Sateen,Summer Fabrics,Puce,Medium,Four weeks,146.264
+979,Miller,mdellascalar6@drupal.org,(715) 9267798,Jute,Shabby Chic Rose,Puce,Low ,Four weeks,186.463
+980,Meghan,asustinsr7@uol.com.br,(293) 6219440,Lace,Flame Stitch,Turquoise,High ,One week,587.294
+981,Cornall,jjellr8@sogou.com,(901) 3301642,Poplin,Ikat,Red,Critical ,Two weeks,453.028
+982,Jorgan,ccattr9@latimes.com,(306) 4529508,Rayon,Ikat,Purple,High ,Four weeks,722.986
+983,Trueman,gwalkowskira@acquirethisname.com,(102) 1199401,Sateen,Painting,Crimson,High ,Three weeks,267.998
+984,Eve,iwincerb@wikispaces.com,(420) 6621756,Georgette,Polka Dot,Green,Medium,Two weeks,290.68
+985,Dani,abannellrc@feedburner.com,(313) 2019837,Silk,Ethnic,Indigo,Critical ,One week,345.868
+986,Veronique,hmanganrd@bravesites.com,(245) 6358505,Rayon,Vinatge Seamless,Yellow,Critical ,Four weeks,549.548
+987,Nissie,rchelamre@apache.org,(264) 8739748,Velvet,Thread Patterns,Violet,Low ,Three weeks,545.255
+988,Dwain,bbutsonrf@nymag.com,(971) 5135003,Georgette,Summer Fabrics,Aquamarine,Low ,Three weeks,219.693
+989,Genevra,naldhamrg@1und1.de,(241) 2902312,Satin,Stripes,Green,Critical ,Four weeks,445.058
+990,Wilma,cvalentinettirh@dion.ne.jp,(771) 2395714,Cotton ,Geometric,Crimson,High ,Two weeks,755.041
+991,Parry,lbeckri@istockphoto.com,(780) 6580183,Chiffon,Zebra,Blue,Low ,One week,561.878
+992,Ignazio,dadamoviczrj@livejournal.com,(626) 6812835,Cotton ,Summer Fabrics,Fuscia,Medium,Two weeks,160.41
+993,Vivie,efeldkleinrk@elpais.com,(590) 7047731,Poplin,Floral,Khaki,High ,Two weeks,609.133
+994,Laryssa,srestillrl@abc.net.au,(259) 6482103,Poplin,Ikat,Goldenrod,Critical ,Three weeks,890.137
+995,Milo,scherrisonrm@oaic.gov.au,(978) 8185686,Jute,Shabby Chic Rose,Aquamarine,Low ,One week,515.461
+996,Aeriell,nlaughtissern@so-net.ne.jp,(675) 7204999,Sateen,Vinatge Seamless,Crimson,Medium,One week,832.077
+997,Andy,nfonzoro@delicious.com,(468) 2431146,Lace,Retro Seamless,Goldenrod,Medium,Four weeks,688.167
+998,Bobbie,ktournayrp@cam.ac.uk,(764) 2151433,Lace,Retro Seamless,Puce,Low ,Four weeks,810.316
+999,Benson,ssnazelrq@upenn.edu,(685) 2864964,Jute,Flame Stitch,Goldenrod,High ,One week,705.866
+1000,Carla,mizachikrr@smh.com.au,(804) 1580143,Cotton ,Polka Dot,Aquamarine,Critical ,Four weeks,603.974
