@@ -1,0 +1,1001 @@
+ID,Customer ID ,Customer Name ,Segment,Country,State,Order Date,Ship Date,Sales,Quantity,Profit,Order Priority
+1,1,Barbabra,Consumer ,Germany,Niedersachsen,18/12/2018,22/02/2018,382.808,6080,50.21,Critical 
+2,2,Pate,Corporate ,France,Provence-Alpes-Côte d'Azur,27/09/2016,06/12/2016,358.177,5849,14.39,High 
+3,3,Aristotle,Consumer ,Canada,Québec,24/05/2016,31/01/2019,470.312,749,13.27,Low 
+4,4,Editha,Corporate ,France,Rhône-Alpes,11/04/2019,09/10/2016,763.317,7102,44.68,Medium
+5,5,Hoebart,Consumer ,United States,Iowa,22/11/2016,24/11/2019,592.887,6803,37.18,High 
+6,6,Karon,Corporate ,Canada,Ontario,03/11/2018,30/04/2017,320.575,9854,38.79,Critical 
+7,7,Becki,Consumer ,United States,Texas,30/08/2016,09/01/2019,961.968,9761,29.89,Low 
+8,8,Amanda,Corporate ,France,Picardie,26/09/2018,25/05/2018,370.812,1319,71.0,Medium
+9,9,Risa,Corporate ,Germany,Hamburg,30/03/2020,28/01/2017,278.776,6591,73.35,Medium
+10,10,Pauline,Corporate ,France,Île-de-France,05/10/2019,12/09/2017,913.593,5495,73.95,Low 
+11,11,Berte,Consumer ,France,Rhône-Alpes,06/04/2017,01/01/2019,438.614,5761,10.75,High 
+12,12,Ephrem,Consumer ,United States,Texas,03/11/2018,18/11/2017,294.525,7775,66.11,Critical 
+13,13,Kristopher,Consumer ,Canada,Québec,14/07/2016,12/12/2017,297.154,2653,71.02,High 
+14,14,Arther,Corporate ,Canada,Québec,22/05/2018,15/01/2017,570.426,3229,28.25,High 
+15,15,Eulalie,Consumer ,France,Alsace,22/04/2019,21/09/2017,519.76,2822,20.95,Medium
+16,16,Cybil,Corporate ,France,Midi-Pyrénées,31/10/2017,04/07/2019,619.023,6206,64.62,Critical 
+17,17,Gauthier,Consumer ,Canada,British Columbia,07/11/2018,01/10/2016,526.782,870,34.95,Critical 
+18,18,Ann,Corporate ,Canada,New Brunswick,04/06/2016,19/04/2020,109.24,2745,18.2,Low 
+19,19,Cristy,Consumer ,United States,Kentucky,25/10/2018,09/09/2017,269.528,9768,32.29,Low 
+20,20,Borg,Corporate ,France,Rhône-Alpes,06/07/2017,10/12/2018,225.335,1888,18.81,Critical 
+21,21,Hubert,Corporate ,France,Île-de-France,29/09/2019,17/12/2018,638.945,3726,33.75,High 
+22,22,Faye,Corporate ,Hungary,Csongrád,06/08/2018,24/07/2018,571.386,2563,27.72,Low 
+23,23,Giacopo,Consumer ,Canada,British Columbia,02/12/2016,07/11/2019,143.631,8378,13.26,Medium
+24,24,Gates,Consumer ,United States,Nevada,24/11/2018,10/01/2019,367.461,3037,35.03,High 
+25,25,Demetris,Consumer ,United States,Florida,31/10/2017,03/07/2019,212.614,2037,32.48,Critical 
+26,26,Druci,Corporate ,Denmark,Region Hovedstaden,20/07/2018,05/06/2019,129.19,3547,65.13,Low 
+27,27,Kipp,Consumer ,United Kingdom,England,12/09/2019,12/10/2019,119.721,7837,24.58,Medium
+28,28,Fidel,Corporate ,United States,California,12/08/2018,28/06/2019,199.196,7871,34.1,Medium
+29,29,Kriste,Consumer ,Canada,Prince Edward Island,27/08/2016,09/04/2017,412.533,8312,54.51,Low 
+30,30,Baird,Corporate ,France,Île-de-France,20/07/2017,08/11/2017,850.488,4217,34.49,High 
+31,31,Karole,Consumer ,Canada,Alberta,01/08/2018,02/09/2018,152.06,5424,74.41,Critical 
+32,32,Therese,Corporate ,France,Midi-Pyrénées,09/11/2018,04/02/2018,851.55,6673,34.44,High 
+33,33,Manolo,Corporate ,France,Île-de-France,27/12/2019,12/02/2019,879.654,7747,60.79,High 
+34,34,Pieter,Corporate ,France,Île-de-France,23/09/2019,15/09/2016,935.396,9205,26.12,Medium
+35,35,Chad,Consumer ,France,Franche-Comté,23/03/2018,19/08/2016,704.771,4268,34.38,Critical 
+36,36,Jayne,Consumer ,Canada,Québec,07/02/2017,09/08/2019,877.644,5227,56.41,Critical 
+37,37,Rich,Consumer ,Canada,Québec,14/09/2017,01/10/2017,378.773,3414,36.17,Low 
+38,38,Mollie,Corporate ,Australia,New South Wales,19/05/2017,22/06/2017,385.994,9238,36.78,Low 
+39,39,Marena,Consumer ,Canada,Québec,28/02/2019,09/03/2019,730.375,684,29.62,Critical 
+40,40,Christi,Corporate ,France,Provence-Alpes-Côte d'Azur,08/05/2018,05/02/2020,857.128,1568,34.02,High 
+41,41,Elisa,Consumer ,France,Île-de-France,20/08/2018,02/03/2020,377.709,1735,32.72,Low 
+42,42,Janek,Corporate ,Canada,Ontario,26/09/2017,19/08/2019,212.134,1199,16.1,Medium
+43,43,Dannye,Consumer ,France,Provence-Alpes-Côte d'Azur,16/03/2020,03/03/2019,845.993,5396,49.58,High 
+44,44,Friedrick,Corporate ,France,Provence-Alpes-Côte d'Azur,02/04/2018,28/10/2016,345.713,3942,36.33,Critical 
+45,45,Corrie,Corporate ,Germany,Nordrhein-Westfalen,05/06/2017,10/10/2017,346.728,8067,38.84,Low 
+46,46,Irma,Corporate ,France,Poitou-Charentes,04/05/2017,29/03/2018,140.476,5137,15.89,Medium
+47,47,Hollis,Consumer ,Canada,Québec,26/03/2019,13/06/2019,899.042,1882,54.42,Medium
+48,48,Nanine,Consumer ,United States,Hawaii,27/07/2017,18/07/2018,875.292,1575,42.68,Low 
+49,49,Oralla,Consumer ,United States,District of Columbia,04/12/2016,06/08/2017,848.764,5881,34.08,High 
+50,50,Christan,Corporate ,Canada,British Columbia,26/07/2018,26/11/2017,412.506,6638,28.79,Critical 
+51,51,Rhoda,Consumer ,United Kingdom,England,08/01/2019,01/05/2019,275.329,3902,29.54,High 
+52,52,Yorke,Corporate ,France,Lorraine,20/04/2020,19/08/2017,819.432,2139,45.94,High 
+53,53,Alexei,Consumer ,France,Rhône-Alpes,18/08/2019,10/08/2017,855.896,9419,27.94,Medium
+54,54,Mayer,Corporate ,Canada,Alberta,05/06/2019,24/07/2019,284.987,4592,41.62,Critical 
+55,55,Cristian,Consumer ,France,Lorraine,16/03/2017,23/02/2019,380.376,9177,49.89,Critical 
+56,56,Son,Corporate ,Canada,British Columbia,06/05/2016,25/08/2017,140.711,3166,69.72,Low 
+57,57,Zedekiah,Corporate ,France,Aquitaine,21/05/2016,07/02/2018,265.291,7127,28.73,Low 
+58,58,Morgen,Corporate ,United States,California,02/03/2017,23/09/2016,915.826,3545,67.06,Critical 
+59,59,Dona,Consumer ,United States,California,07/01/2017,15/08/2017,971.868,638,73.47,High 
+60,60,Constancia,Consumer ,United States,Indiana,25/05/2019,13/08/2019,558.046,9460,54.7,Low 
+61,61,Ivy,Consumer ,Germany,Schleswig-Holstein,09/05/2019,13/05/2017,530.987,9042,67.16,Medium
+62,62,Veda,Corporate ,Canada,Ontario,12/09/2017,09/10/2017,634.055,8773,27.38,High 
+63,63,Loralyn,Consumer ,Germany,Sachsen-Anhalt,04/11/2017,15/04/2020,153.455,5520,66.92,Critical 
+64,64,Eldredge,Corporate ,France,Île-de-France,01/02/2017,22/12/2018,179.191,1257,63.13,Low 
+65,65,Ardisj,Consumer ,France,Île-de-France,10/02/2018,12/10/2019,871.393,6212,33.74,Medium
+66,66,Rhodie,Corporate ,Germany,Berlin,05/10/2018,19/07/2017,766.598,8614,22.12,Medium
+67,67,Tova,Consumer ,Hungary,Borsod-Abaúj-Zemplén,01/04/2020,07/02/2017,401.854,4193,58.89,Low 
+68,68,Wendye,Corporate ,France,Île-de-France,02/01/2018,27/04/2017,392.534,3784,39.38,High 
+69,69,Jaime,Corporate ,United States,Ohio,09/02/2020,23/03/2019,867.815,8026,22.53,Critical 
+70,70,Reba,Corporate ,France,Provence-Alpes-Côte d'Azur,13/06/2017,13/05/2017,340.888,9225,61.24,High 
+71,71,Cybill,Consumer ,France,Pays de la Loire,07/06/2019,09/09/2019,555.398,1747,28.96,High 
+72,72,Yule,Consumer ,France,Aquitaine,12/10/2018,21/08/2019,498.937,2708,56.57,Medium
+73,73,Gaelan,Consumer ,United Kingdom,England,23/08/2019,03/01/2018,788.337,2249,37.43,Critical 
+74,74,Codie,Corporate ,France,Bretagne,28/07/2016,05/03/2020,193.874,4894,37.17,Critical 
+75,75,Charlena,Consumer ,United States,Indiana,25/08/2016,06/12/2017,828.307,1233,43.65,Low 
+76,76,Pansie,Corporate ,France,Auvergne,09/08/2018,24/12/2019,172.166,840,72.08,Low 
+77,77,Katheryn,Consumer ,Canada,Québec,03/07/2017,02/04/2020,468.558,2555,15.67,Critical 
+78,78,Aaren,Corporate ,France,Île-de-France,06/07/2019,10/11/2017,353.828,3508,19.04,High 
+79,79,Bucky,Consumer ,Canada,New Brunswick,06/05/2018,22/12/2019,514.622,978,57.04,Low 
+80,80,Susie,Corporate ,France,Basse-Normandie,25/04/2020,31/12/2019,993.081,7424,57.27,Medium
+81,81,Orly,Corporate ,Canada,Québec,01/02/2017,09/03/2020,640.801,7170,21.07,High 
+82,82,Thoma,Corporate ,Canada,British Columbia,03/02/2019,15/05/2016,418.821,3425,45.98,Critical 
+83,83,Eolanda,Consumer ,France,Lorraine,23/01/2019,06/02/2020,405.922,3255,74.74,Low 
+84,84,Kandy,Consumer ,Hungary,Csongrád,19/01/2019,20/10/2017,319.626,3774,37.89,Medium
+85,85,Oswell,Consumer ,France,Midi-Pyrénées,24/03/2020,16/05/2018,151.371,1804,18.68,Medium
+86,86,Anallise,Corporate ,United States,Texas,06/01/2019,13/06/2017,628.24,903,63.69,Low 
+87,87,Florie,Consumer ,France,Île-de-France,04/08/2018,12/11/2017,866.046,6102,58.53,High 
+88,88,Freddy,Corporate ,France,Rhône-Alpes,24/10/2019,17/01/2019,287.281,6545,10.44,Critical 
+89,89,Sarene,Consumer ,United States,District of Columbia,09/04/2018,07/08/2018,160.426,3841,65.49,High 
+90,90,Berkie,Corporate ,France,Centre,25/10/2016,28/05/2018,463.087,5595,33.31,High 
+91,91,Cherianne,Consumer ,France,Midi-Pyrénées,16/01/2018,20/03/2019,909.543,8746,41.48,Medium
+92,92,Randolf,Corporate ,Canada,British Columbia,24/03/2017,05/11/2016,212.693,3290,16.32,Critical 
+93,93,Bobbi,Corporate ,Canada,British Columbia,15/03/2019,01/08/2018,468.051,6232,34.13,Critical 
+94,94,Josias,Corporate ,United States,Kansas,09/07/2018,07/11/2017,656.679,8090,15.0,Low 
+95,95,Carleen,Consumer ,United States,Kansas,13/02/2020,28/08/2019,780.502,5540,73.81,Low 
+96,96,Kimmie,Consumer ,United States,Pennsylvania,17/08/2017,20/06/2016,268.67,5588,38.67,Critical 
+97,97,Alie,Consumer ,France,Haute-Normandie,12/10/2018,27/08/2016,893.408,4496,32.98,High 
+98,98,Viviyan,Corporate ,United States,Tennessee,01/04/2017,21/12/2016,723.065,694,68.49,Low 
+99,99,Hunt,Consumer ,United States,District of Columbia,08/04/2020,10/08/2017,921.386,715,56.38,Medium
+100,100,Elden,Corporate ,Canada,British Columbia,13/12/2019,28/01/2017,382.565,9736,36.56,High 
+101,101,Shem,Consumer ,France,Basse-Normandie,27/07/2018,27/11/2019,819.923,3160,44.92,Critical 
+102,102,Sanderson,Corporate ,Australia,Tasmania,15/05/2016,22/04/2018,508.187,3515,61.54,Low 
+103,103,Jori,Consumer ,France,Midi-Pyrénées,06/02/2018,16/08/2018,802.16,3238,24.59,Medium
+104,104,Geraldine,Corporate ,Canada,Québec,10/09/2017,13/11/2018,265.644,5629,66.71,Medium
+105,105,Kathrine,Corporate ,France,Nord-Pas-de-Calais,09/07/2019,13/08/2018,231.47,4488,57.91,Low 
+106,106,Blanch,Corporate ,France,Île-de-France,02/09/2018,21/12/2017,941.745,1464,67.12,High 
+107,107,Xavier,Consumer ,France,Île-de-France,25/01/2020,26/04/2018,794.52,7821,53.76,Critical 
+108,108,Nadeen,Consumer ,France,Provence-Alpes-Côte d'Azur,14/03/2017,01/01/2019,704.079,9068,43.95,High 
+109,109,Rickard,Consumer ,France,Franche-Comté,10/04/2018,29/07/2016,878.034,7191,39.76,High 
+110,110,Garey,Corporate ,France,Île-de-France,11/04/2018,16/03/2018,459.462,5786,74.92,Medium
+111,111,Gal,Consumer ,United States,Michigan,20/10/2017,26/04/2018,608.604,3368,13.87,Critical 
+112,112,Alecia,Corporate ,France,Lorraine,07/03/2017,23/11/2016,913.493,4628,18.8,Critical 
+113,113,Clarence,Consumer ,Canada,Nunavut,12/05/2018,18/01/2019,337.894,7227,65.93,Low 
+114,114,Danny,Corporate ,United States,Connecticut,13/07/2019,16/03/2019,433.111,8573,71.93,Low 
+115,115,Regina,Consumer ,France,Île-de-France,04/02/2017,13/06/2017,231.188,1669,73.91,Critical 
+116,116,Harriet,Corporate ,United States,Illinois,26/02/2017,24/12/2016,732.158,4776,19.91,High 
+117,117,Faythe,Corporate ,United States,Louisiana,27/01/2017,09/09/2016,111.929,8340,33.04,Low 
+118,118,Barbara,Corporate ,United States,Tennessee,11/12/2018,18/12/2018,285.098,5890,33.96,Medium
+119,119,Kirbie,Consumer ,France,Centre,27/11/2019,04/12/2016,244.462,3210,48.65,High 
+120,120,Fielding,Consumer ,France,Pays de la Loire,11/08/2019,10/03/2019,191.878,4509,62.92,Critical 
+121,121,Ralph,Consumer ,Canada,Alberta,10/05/2017,17/10/2016,539.593,4948,24.75,Low 
+122,122,Maddie,Corporate ,Belgium,Wallonie,28/10/2019,19/11/2017,198.406,7564,37.72,Medium
+123,123,Angelica,Consumer ,Canada,Québec,17/05/2016,08/04/2017,203.299,3338,19.3,Medium
+124,124,Levey,Corporate ,United States,Colorado,03/10/2017,23/07/2017,787.085,9839,23.25,Low 
+125,125,Pansy,Consumer ,France,Champagne-Ardenne,01/06/2019,09/08/2019,864.902,4129,60.85,High 
+126,126,Max,Corporate ,France,Haute-Normandie,14/08/2018,01/10/2019,161.942,5462,45.43,Critical 
+127,127,Standford,Consumer ,France,Nord-Pas-de-Calais,31/12/2018,11/05/2016,323.924,1259,68.42,High 
+128,128,Gabi,Corporate ,United Kingdom,England,26/01/2017,24/02/2020,696.863,5642,23.41,High 
+129,129,Lucius,Corporate ,Canada,Ontario,09/12/2019,18/01/2019,935.458,1384,62.02,Medium
+130,130,Maximilian,Corporate ,Canada,Northwest Territories,12/08/2018,31/01/2017,992.045,8040,40.02,Critical 
+131,131,Avie,Consumer ,United States,California,14/05/2019,08/05/2018,814.317,7109,24.53,Critical 
+132,132,Dex,Consumer ,United States,Connecticut,04/03/2020,17/09/2019,694.545,7163,32.03,Low 
+133,133,Minerva,Consumer ,Canada,Alberta,18/11/2019,24/11/2018,260.424,6418,45.1,Low 
+134,134,Nettle,Corporate ,United States,Virginia,16/07/2018,01/02/2019,660.812,3019,10.7,Critical 
+135,135,Darsie,Consumer ,Belgium,Wallonie,06/10/2019,19/05/2018,963.872,8481,45.44,High 
+136,136,David,Corporate ,Canada,Nova Scotia,02/11/2017,10/01/2018,794.189,2612,12.37,Low 
+137,137,Amil,Consumer ,United States,Louisiana,25/12/2018,15/03/2020,313.027,6168,46.3,Medium
+138,138,Larina,Corporate ,United States,Arizona,28/05/2019,29/01/2019,267.693,9786,42.22,High 
+139,139,Juanita,Consumer ,Canada,Nova Scotia,30/06/2019,11/03/2018,623.42,6487,56.89,Critical 
+140,140,Cazzie,Corporate ,France,Poitou-Charentes,07/09/2018,07/03/2020,192.59,1240,35.6,Low 
+141,141,Anselma,Corporate ,Canada,Alberta,28/06/2016,19/03/2020,790.243,8968,73.28,Medium
+142,142,Man,Corporate ,France,Nord-Pas-de-Calais,26/01/2020,17/12/2017,749.832,5296,10.69,Medium
+143,143,Swen,Consumer ,United States,California,10/06/2018,04/08/2018,679.622,4170,15.25,Low 
+144,144,Sharron,Consumer ,France,Picardie,30/11/2016,07/03/2017,541.065,554,61.96,High 
+145,145,Frederico,Consumer ,United States,Washington,12/06/2018,28/10/2016,866.698,7396,45.03,Critical 
+146,146,Baryram,Corporate ,France,Alsace,06/07/2019,01/12/2019,663.916,9069,56.45,High 
+147,147,Lay,Consumer ,United Kingdom,England,20/07/2017,19/09/2019,815.611,8519,58.1,High 
+148,148,Fanchette,Corporate ,Canada,Ontario,03/11/2019,18/03/2017,481.004,9516,26.27,Medium
+149,149,Frances,Consumer ,France,Nord-Pas-de-Calais,21/08/2018,14/12/2017,171.906,4733,40.22,Critical 
+150,150,Vevay,Corporate ,France,Provence-Alpes-Côte d'Azur,24/02/2020,14/03/2018,932.836,6184,49.67,Critical 
+151,151,Minor,Consumer ,France,Aquitaine,20/08/2017,13/08/2016,838.308,3928,11.08,Low 
+152,152,Elvyn,Corporate ,Canada,Alberta,11/09/2018,02/12/2019,140.981,7281,11.86,Low 
+153,153,Oona,Corporate ,Canada,Alberta,10/01/2020,21/09/2017,827.149,2383,20.76,Critical 
+154,154,Morissa,Corporate ,Denmark,Region Hovedstaden,03/03/2020,14/11/2016,515.783,6351,21.76,High 
+155,155,Maybelle,Consumer ,France,Poitou-Charentes,09/02/2018,27/06/2016,319.086,4981,57.11,Low 
+156,156,Alana,Consumer ,Canada,Québec,15/09/2019,08/06/2017,800.594,3575,31.84,Medium
+157,157,Bayard,Consumer ,France,Provence-Alpes-Côte d'Azur,15/02/2019,27/12/2017,961.357,806,16.91,High 
+158,158,Beale,Corporate ,France,Île-de-France,16/11/2019,06/06/2018,955.521,7826,24.35,Critical 
+159,159,Anabelle,Consumer ,United States,Nevada,29/03/2019,06/02/2018,714.079,5140,51.97,Low 
+160,160,Burl,Corporate ,France,Provence-Alpes-Côte d'Azur,31/05/2018,17/10/2018,277.322,5494,46.17,Medium
+161,161,Rina,Consumer ,France,Île-de-France,14/03/2017,06/12/2017,816.788,9736,13.22,Medium
+162,162,Casie,Corporate ,Canada,Québec,11/10/2019,29/09/2016,600.819,7723,29.8,Low 
+163,163,Elbertina,Consumer ,Canada,Alberta,27/01/2018,01/01/2018,958.651,8203,73.33,High 
+164,164,Beniamino,Corporate ,United States,Texas,13/04/2020,07/11/2017,409.674,2220,33.24,Critical 
+165,165,Richardo,Corporate ,United States,Maryland,23/04/2017,25/11/2017,558.374,5879,34.97,High 
+166,166,Nev,Corporate ,United States,Arkansas,14/12/2019,26/03/2017,896.539,6134,65.39,High 
+167,167,Karalynn,Consumer ,France,Île-de-France,26/08/2019,30/05/2019,579.77,9807,30.72,Medium
+168,168,Lelia,Consumer ,United States,Illinois,27/10/2017,13/01/2017,879.84,9296,27.09,Critical 
+169,169,Arleen,Consumer ,France,Rhône-Alpes,10/08/2019,11/11/2017,860.777,3660,49.95,Critical 
+170,170,La verne,Corporate ,France,Île-de-France,30/12/2016,29/12/2018,540.276,5519,11.44,Low 
+171,171,Leonhard,Consumer ,France,Lorraine,02/08/2019,07/03/2020,823.057,1234,45.45,Low 
+172,172,Beckie,Corporate ,France,Auvergne,15/03/2017,26/02/2020,602.019,1781,48.11,Critical 
+173,173,Gertrude,Consumer ,France,Aquitaine,30/06/2018,08/05/2017,952.24,8067,49.12,High 
+174,174,Averill,Corporate ,Germany,Hessen,08/10/2016,06/12/2017,587.015,6503,52.56,Low 
+175,175,Cheslie,Consumer ,Denmark,Region Hovedstaden,16/01/2020,29/09/2018,349.436,1823,18.37,Medium
+176,176,Mariam,Corporate ,United States,Georgia,30/06/2016,08/05/2017,250.537,5212,70.74,High 
+177,177,Cassandra,Corporate ,United States,Utah,19/10/2017,23/01/2019,985.902,8564,54.47,Critical 
+178,178,Celina,Corporate ,Australia,South Australia,31/03/2019,06/01/2019,394.11,8982,50.62,Low 
+179,179,Geri,Consumer ,France,Basse-Normandie,08/07/2017,16/06/2019,262.299,8977,43.1,Medium
+180,180,Alain,Consumer ,United States,West Virginia,23/09/2018,30/09/2018,178.747,4686,74.63,Medium
+181,181,Jourdan,Consumer ,United States,Colorado,08/01/2019,17/09/2019,182.589,9522,48.65,Low 
+182,182,Viki,Corporate ,United States,Georgia,12/05/2018,30/06/2019,271.215,9616,14.1,High 
+183,183,Etienne,Consumer ,France,Île-de-France,21/11/2016,18/10/2018,435.7,2870,59.27,Critical 
+184,184,Pearle,Corporate ,Canada,Ontario,18/04/2017,18/08/2017,384.405,8404,48.99,High 
+185,185,Estell,Consumer ,Canada,Ontario,23/05/2019,27/07/2017,373.186,511,51.8,High 
+186,186,Velvet,Corporate ,France,Rhône-Alpes,23/01/2019,10/12/2019,748.952,7510,56.39,Medium
+187,187,Siward,Consumer ,Canada,British Columbia,06/06/2018,16/07/2019,341.32,8646,57.55,Critical 
+188,188,Esra,Corporate ,France,Franche-Comté,29/11/2016,30/01/2020,459.242,6004,36.49,Critical 
+189,189,Yorgos,Corporate ,Hungary,Budapest,22/09/2018,05/07/2016,386.528,5270,42.53,Low 
+190,190,Francois,Corporate ,United States,California,02/12/2016,01/01/2018,384.688,6422,58.03,Low 
+191,191,Khalil,Consumer ,France,Île-de-France,06/12/2017,04/03/2020,112.537,1446,73.85,Critical 
+192,192,Nicol,Consumer ,United States,Georgia,29/01/2018,08/02/2020,798.627,7486,70.53,High 
+193,193,Ericka,Consumer ,Canada,Ontario,29/12/2019,11/06/2017,246.834,8408,38.59,Low 
+194,194,Lorens,Corporate ,Hungary,Budapest,22/11/2019,22/03/2020,917.629,6193,53.22,Medium
+195,195,Ellynn,Consumer ,United States,California,21/10/2019,16/12/2018,451.345,3051,41.01,High 
+196,196,Bryon,Corporate ,France,Bourgogne,18/01/2017,10/12/2016,418.355,9698,13.92,Critical 
+197,197,Sophronia,Consumer ,Canada,Nunavut,25/10/2016,25/10/2016,516.763,8271,31.68,Low 
+198,198,Nollie,Corporate ,Canada,Québec,16/01/2018,14/08/2018,667.861,3146,19.7,Medium
+199,199,Henryetta,Consumer ,France,Île-de-France,28/04/2017,21/10/2016,844.232,4874,42.76,Medium
+200,200,Jolynn,Corporate ,France,Limousin,26/08/2016,21/01/2018,410.259,4565,11.58,Low 
+201,201,Raoul,Corporate ,United States,Michigan,18/11/2019,20/11/2017,636.765,7822,27.57,High 
+202,202,Emelyne,Corporate ,United States,California,29/05/2018,25/02/2020,292.722,4254,14.62,Critical 
+203,203,Ailey,Consumer ,Canada,Newfoundland and Labrador,25/04/2017,10/08/2018,920.82,9376,54.75,High 
+204,204,Welsh,Consumer ,United States,Georgia,22/06/2018,24/04/2018,698.453,9522,49.9,High 
+205,205,Rutter,Consumer ,France,Île-de-France,14/04/2019,21/11/2017,113.786,4850,24.89,Medium
+206,206,Anett,Corporate ,France,Île-de-France,12/11/2017,20/11/2019,463.724,3324,30.8,Critical 
+207,207,Tyne,Consumer ,United States,Illinois,25/08/2018,30/01/2019,120.451,2327,43.44,Critical 
+208,208,Cheslie,Corporate ,France,Île-de-France,11/10/2019,06/09/2017,571.994,7598,14.04,Low 
+209,209,Loise,Consumer ,United States,Arizona,14/09/2018,09/09/2016,414.736,9600,71.16,Low 
+210,210,Tess,Corporate ,France,Provence-Alpes-Côte d'Azur,28/10/2019,27/02/2020,502.83,9353,64.56,Critical 
+211,211,Pegeen,Consumer ,France,Aquitaine,26/06/2018,11/08/2016,883.264,5364,25.84,High 
+212,212,Harriott,Corporate ,France,Centre,25/01/2020,10/08/2018,935.378,6466,11.16,Low 
+213,213,Tamiko,Corporate ,United States,Ohio,04/02/2020,25/02/2017,319.882,8731,47.3,Medium
+214,214,Aksel,Corporate ,Germany,Mecklenburg-Vorpommern,25/01/2018,24/01/2018,647.861,3848,50.8,High 
+215,215,Emilia,Consumer ,France,Bretagne,16/07/2018,05/06/2019,116.724,9702,63.71,Critical 
+216,216,Rance,Consumer ,Germany,Bayern,24/04/2019,21/03/2017,369.888,7601,66.51,Low 
+217,217,Burke,Consumer ,France,Île-de-France,14/07/2018,02/06/2016,237.213,9589,48.28,Medium
+218,218,Loutitia,Corporate ,United States,Minnesota,09/11/2018,08/07/2018,790.499,2200,27.35,Medium
+219,219,Ardis,Consumer ,United States,Pennsylvania,29/07/2016,25/12/2016,156.92,6258,47.93,Low 
+220,220,Antonia,Corporate ,Canada,Ontario,18/06/2019,05/10/2017,604.544,6888,48.7,High 
+221,221,Hershel,Consumer ,Canada,Québec,16/10/2017,02/10/2017,624.909,2319,51.38,Critical 
+222,222,Agace,Corporate ,Canada,Newfoundland and Labrador,21/08/2016,03/01/2018,929.162,2187,23.61,High 
+223,223,Delcine,Consumer ,France,Île-de-France,03/10/2018,03/10/2016,203.09,1345,66.91,High 
+224,224,Greer,Corporate ,Canada,Alberta,26/01/2017,14/06/2017,226.84,3307,42.32,Medium
+225,225,Cati,Corporate ,Belgium,Wallonie,01/09/2019,25/12/2016,739.293,4697,35.83,Critical 
+226,226,Fayina,Corporate ,Canada,Québec,08/05/2017,22/02/2018,466.247,3459,17.97,Critical 
+227,227,Lissa,Consumer ,United States,Texas,13/07/2017,28/01/2019,349.285,1378,67.23,Low 
+228,228,El,Consumer ,France,Île-de-France,23/08/2019,07/05/2018,218.205,9326,65.12,Low 
+229,229,Bernadine,Consumer ,France,Auvergne,20/02/2020,05/04/2020,533.42,8667,71.52,Critical 
+230,230,Denis,Corporate ,France,Île-de-France,15/11/2019,14/02/2017,128.369,4285,67.3,High 
+231,231,Pavia,Consumer ,France,Provence-Alpes-Côte d'Azur,03/02/2018,31/07/2019,892.768,5258,32.42,Low 
+232,232,Elly,Corporate ,France,Rhône-Alpes,11/07/2017,17/09/2018,335.986,1175,11.04,Medium
+233,233,Gamaliel,Consumer ,Canada,British Columbia,15/10/2019,25/10/2017,683.714,546,70.25,High 
+234,234,Roderich,Corporate ,France,Pays de la Loire,22/09/2018,14/11/2018,679.849,3376,69.84,Critical 
+235,235,Gilbert,Consumer ,United Kingdom,England,22/10/2016,09/11/2016,457.531,5749,33.79,Low 
+236,236,Alysa,Corporate ,France,Lorraine,11/08/2016,04/08/2016,237.522,3725,26.69,Medium
+237,237,Mag,Corporate ,Canada,Québec,12/01/2018,17/11/2019,763.279,3934,35.31,Medium
+238,238,Gal,Corporate ,France,Rhône-Alpes,06/07/2016,07/09/2017,116.477,2487,56.18,Low 
+239,239,Port,Consumer ,France,Île-de-France,21/08/2019,29/09/2018,517.671,6811,31.32,High 
+240,240,Lorianna,Consumer ,France,Île-de-France,07/06/2019,08/06/2019,922.563,7976,44.23,Critical 
+241,241,Celinka,Consumer ,Canada,Nunavut,18/12/2016,04/09/2018,775.513,8848,73.02,High 
+242,242,Israel,Corporate ,France,Île-de-France,07/05/2018,27/05/2016,103.86,5169,47.94,High 
+243,243,Egon,Consumer ,France,Rhône-Alpes,25/01/2019,05/11/2019,113.82,5495,43.95,Medium
+244,244,Joellen,Corporate ,United States,Indiana,16/05/2018,05/12/2018,113.222,7250,32.32,Critical 
+245,245,Woodie,Consumer ,United States,Tennessee,24/08/2016,06/05/2018,448.355,7814,48.2,Critical 
+246,246,Hildegaard,Corporate ,United Kingdom,England,25/01/2017,07/08/2019,424.264,9119,17.03,Low 
+247,247,Skippie,Consumer ,United States,Virginia,21/01/2019,14/05/2016,530.549,9707,40.2,Low 
+248,248,Radcliffe,Corporate ,France,Île-de-France,13/09/2016,21/12/2018,592.108,3042,43.05,Critical 
+249,249,Ethelyn,Corporate ,Canada,Ontario,04/12/2017,15/10/2016,264.394,3025,24.88,High 
+250,250,Gris,Corporate ,France,Aquitaine,05/01/2020,04/03/2020,124.416,3360,12.87,Low 
+251,251,Debora,Consumer ,United States,Tennessee,07/09/2017,28/07/2019,277.678,8139,74.97,Medium
+252,252,Rorke,Consumer ,Canada,Québec,16/07/2017,04/05/2016,628.877,2044,37.99,High 
+253,253,Welsh,Consumer ,France,Île-de-France,09/04/2017,20/11/2019,897.286,4122,13.54,Critical 
+254,254,Dolli,Corporate ,United States,Florida,31/07/2016,30/04/2017,486.545,4130,65.17,Low 
+255,255,Estella,Consumer ,France,Lorraine,11/07/2019,18/01/2018,820.142,1021,22.01,Medium
+256,256,Benito,Corporate ,Switzerland,Kanton Luzern,04/12/2016,09/05/2016,215.867,4871,67.08,Medium
+257,257,Lothario,Consumer ,France,Picardie,17/06/2018,23/07/2017,418.301,956,44.56,Low 
+258,258,Jsandye,Corporate ,Canada,Ontario,14/02/2018,15/02/2020,221.373,9476,74.49,High 
+259,259,Alphard,Consumer ,Canada,British Columbia,17/05/2019,20/05/2016,727.065,8849,10.91,Critical 
+260,260,Rianon,Corporate ,United Kingdom,England,02/11/2017,21/01/2017,374.567,8091,68.68,High 
+261,261,Barclay,Corporate ,France,Pays de la Loire,24/09/2017,03/03/2019,581.147,1643,24.86,High 
+262,262,Ernesto,Corporate ,United States,California,25/03/2018,21/09/2019,491.621,3850,71.24,Medium
+263,263,Luelle,Consumer ,Canada,Québec,04/08/2018,17/02/2017,143.573,5188,30.87,Critical 
+264,264,Kaitlyn,Consumer ,Canada,Québec,31/12/2019,05/06/2019,339.612,2197,10.54,Critical 
+265,265,Merrielle,Consumer ,United States,North Carolina,16/03/2018,19/12/2016,956.772,2441,68.05,Low 
+266,266,Callean,Corporate ,Denmark,Region Hovedstaden,01/03/2019,19/10/2018,640.05,6338,30.86,Low 
+267,267,Stanford,Consumer ,France,Nord-Pas-de-Calais,24/06/2019,20/05/2018,715.617,9232,59.69,Critical 
+268,268,Grenville,Corporate ,United States,Kansas,25/11/2017,22/05/2017,891.179,5305,10.22,High 
+269,269,Rachele,Consumer ,Germany,Bayern,20/03/2019,09/02/2018,756.165,8028,70.79,Low 
+270,270,Alisha,Corporate ,United States,New York,22/04/2020,08/08/2017,833.105,9014,47.04,Medium
+271,271,Dulsea,Consumer ,Germany,Berlin,08/02/2019,30/01/2017,666.002,4847,56.49,High 
+272,272,Berk,Corporate ,Germany,Bayern,08/12/2017,08/01/2018,715.914,6071,57.62,Critical 
+273,273,Chauncey,Corporate ,Canada,Saskatchewan,12/07/2016,02/11/2016,325.132,6797,51.67,Low 
+274,274,Gerome,Corporate ,France,Rhône-Alpes,27/02/2019,05/03/2020,973.421,7955,17.89,Medium
+275,275,Jan,Consumer ,France,Bretagne,14/05/2019,12/04/2020,543.802,2244,21.43,Medium
+276,276,Lionel,Consumer ,Canada,British Columbia,09/10/2017,25/03/2020,422.07,9263,28.71,Low 
+277,277,Ric,Consumer ,Canada,Québec,16/02/2017,30/01/2020,105.865,7188,74.07,High 
+278,278,Tarrance,Corporate ,United States,Texas,08/06/2016,30/04/2017,479.899,8675,38.84,Critical 
+279,279,Carl,Consumer ,United States,Texas,26/08/2016,13/08/2019,820.5,8899,21.54,High 
+280,280,Victor,Corporate ,France,Franche-Comté,20/01/2020,28/05/2016,257.443,2700,61.32,High 
+281,281,Yorker,Consumer ,France,Aquitaine,24/12/2016,26/09/2016,563.265,3941,25.45,Medium
+282,282,Wernher,Corporate ,Germany,Hessen,12/06/2018,14/05/2017,241.646,7633,24.37,Critical 
+283,283,Elsworth,Consumer ,Hungary,Budapest,10/03/2020,27/08/2016,153.515,7017,29.47,Critical 
+284,284,Carlo,Corporate ,France,Nord-Pas-de-Calais,14/08/2018,02/05/2019,667.594,2672,25.6,Low 
+285,285,Ursa,Corporate ,Canada,Québec,27/11/2019,29/12/2018,473.379,9865,21.44,Low 
+286,286,Stephan,Corporate ,United States,Colorado,20/11/2018,23/09/2016,119.885,3024,62.77,Critical 
+287,287,Wileen,Consumer ,United States,Nevada,14/01/2017,06/06/2019,756.853,4110,49.49,High 
+288,288,Maitilde,Consumer ,France,Provence-Alpes-Côte d'Azur,02/09/2018,25/02/2020,623.777,1858,30.57,Low 
+289,289,Jemima,Consumer ,United Kingdom,England,12/08/2018,21/11/2019,260.337,8558,58.83,Medium
+290,290,Ramsay,Corporate ,France,Nord-Pas-de-Calais,25/11/2017,19/12/2016,726.971,1167,10.34,High 
+291,291,Mabel,Consumer ,United States,Utah,28/11/2017,14/11/2017,735.496,4906,58.55,Critical 
+292,292,Mayne,Corporate ,France,Basse-Normandie,05/02/2017,07/12/2017,305.789,7481,34.92,Low 
+293,293,Solomon,Consumer ,France,Rhône-Alpes,06/09/2017,02/06/2016,664.622,4551,33.54,Medium
+294,294,Bartholemy,Corporate ,France,Île-de-France,02/10/2016,25/11/2017,248.274,8140,69.49,Medium
+295,295,Rosalind,Consumer ,United States,Texas,21/08/2019,05/05/2019,460.979,9122,53.2,Low 
+296,296,Yvette,Corporate ,France,Alsace,25/11/2016,21/09/2016,645.755,9898,41.53,High 
+297,297,Aubree,Corporate ,United States,Ohio,17/01/2019,23/12/2019,377.866,1865,35.23,Critical 
+298,298,Cristina,Corporate ,France,Île-de-France,14/07/2019,13/02/2019,681.596,7742,40.76,High 
+299,299,Lainey,Consumer ,France,Rhône-Alpes,01/06/2019,19/06/2018,134.747,7863,66.17,High 
+300,300,Karine,Consumer ,France,Languedoc-Roussillon,20/12/2019,27/04/2018,216.059,7291,34.86,Medium
+301,301,Maisie,Consumer ,France,Haute-Normandie,10/10/2019,03/02/2018,949.38,6948,16.3,Critical 
+302,302,Buddy,Corporate ,United Arab Emirates,Île-de-France,26/10/2017,25/10/2019,351.175,688,70.09,Critical 
+303,303,Gretta,Consumer ,France,Rhône-Alpes,01/10/2017,11/05/2019,777.55,8664,72.85,Low 
+304,304,Ki,Corporate ,France,Nord-Pas-de-Calais,22/04/2017,26/10/2018,362.338,8383,50.71,Low 
+305,305,Joye,Consumer ,United States,Maryland,12/10/2018,22/10/2018,401.324,6525,39.02,Critical 
+306,306,Emmanuel,Corporate ,France,Rhône-Alpes,15/04/2019,26/07/2017,880.227,3490,47.65,High 
+307,307,Gaynor,Consumer ,Canada,British Columbia,25/02/2019,11/01/2020,149.472,7989,19.89,Low 
+308,308,Erinn,Corporate ,France,Aquitaine,31/01/2019,24/11/2017,762.645,8508,58.66,Medium
+309,309,Rosella,Corporate ,United States,Virginia,19/02/2020,29/09/2017,337.938,5518,69.4,High 
+310,310,Michel,Corporate ,France,Champagne-Ardenne,06/03/2017,22/06/2016,414.437,8334,24.99,Critical 
+311,311,Sal,Consumer ,France,Lorraine,27/03/2019,12/08/2016,851.659,6144,31.9,Low 
+312,312,Pepillo,Consumer ,Canada,British Columbia,27/02/2018,03/11/2018,943.961,4838,23.36,Medium
+313,313,Erroll,Consumer ,United States,Massachusetts,06/07/2018,10/03/2017,340.01,3446,10.67,Medium
+314,314,Dorine,Corporate ,France,Provence-Alpes-Côte d'Azur,25/08/2017,01/11/2018,919.491,6673,30.03,Low 
+315,315,Lavina,Consumer ,United States,Michigan,18/08/2016,12/10/2016,181.8,2342,42.24,High 
+316,316,Roselle,Corporate ,France,Rhône-Alpes,12/02/2020,30/10/2016,944.061,6711,34.98,Critical 
+317,317,Fraze,Consumer ,France,Île-de-France,08/12/2019,20/12/2019,117.407,1255,18.59,High 
+318,318,Thornie,Corporate ,United States,Arizona,31/03/2020,01/11/2018,140.021,3406,64.44,High 
+319,319,Daffy,Consumer ,United States,California,16/04/2017,08/04/2018,204.967,4793,30.2,Medium
+320,320,Reuven,Corporate ,United States,Pennsylvania,23/02/2018,26/06/2016,825.917,3010,69.92,Critical 
+321,321,Clerissa,Corporate ,France,Île-de-France,14/07/2016,21/12/2019,671.387,2512,54.52,Critical 
+322,322,Bertha,Corporate ,Canada,Ontario,17/09/2016,04/05/2019,807.53,602,47.65,Low 
+323,323,Dasya,Consumer ,France,Aquitaine,01/11/2018,10/08/2017,584.37,5620,45.71,Low 
+324,324,Giustino,Consumer ,United States,North Carolina,05/02/2017,23/03/2019,291.092,6001,73.98,Critical 
+325,325,Trish,Consumer ,United States,California,06/08/2018,10/11/2018,877.615,4656,73.62,High 
+326,326,Shermy,Corporate ,United States,Alaska,19/08/2019,23/01/2018,547.794,4106,24.94,Low 
+327,327,Fae,Consumer ,France,Champagne-Ardenne,27/05/2018,05/09/2019,490.783,5378,35.04,Medium
+328,328,Dorice,Corporate ,Canada,Ontario,17/01/2018,10/02/2019,828.048,8085,72.22,High 
+329,329,Dorothea,Consumer ,France,Pays de la Loire,29/11/2016,18/11/2017,116.655,3183,43.53,Critical 
+330,330,Kerrie,Corporate ,Canada,Alberta,14/07/2016,17/07/2018,724.62,9799,10.95,Low 
+331,331,Bone,Consumer ,France,Haute-Normandie,15/01/2018,19/02/2018,581.427,3971,50.46,Medium
+332,332,Chloette,Corporate ,France,Bretagne,02/02/2018,16/11/2019,506.662,9288,51.18,Medium
+333,333,Cyndie,Corporate ,United States,Illinois,27/01/2019,05/04/2020,828.579,8686,69.32,Low 
+334,334,Charil,Corporate ,Switzerland,Kanton Zürich,16/01/2018,04/10/2016,887.105,7294,35.72,High 
+335,335,Alta,Consumer ,United States,Missouri,11/07/2016,22/02/2020,117.171,9583,15.27,Critical 
+336,336,Moses,Consumer ,France,Aquitaine,03/07/2019,22/09/2017,129.212,7905,40.88,High 
+337,337,Cassie,Consumer ,United States,California,26/01/2020,28/09/2017,835.462,8766,51.4,High 
+338,338,Shalna,Corporate ,France,Midi-Pyrénées,13/12/2019,02/07/2017,757.169,2936,69.96,Medium
+339,339,Ivory,Consumer ,United States,Texas,08/06/2019,28/05/2019,836.915,3918,42.62,Critical 
+340,340,Sandi,Corporate ,France,Lorraine,20/05/2019,28/02/2018,895.392,9603,11.69,Critical 
+341,341,Bridie,Consumer ,United States,Florida,13/02/2018,10/04/2018,473.237,945,34.57,Low 
+342,342,Ross,Corporate ,Canada,Alberta,27/01/2020,17/09/2018,794.729,3152,18.36,Low 
+343,343,Paige,Consumer ,Hungary,Budapest,21/08/2018,17/03/2019,682.884,5979,30.07,Critical 
+344,344,Ingram,Corporate ,Germany,Rheinland-Pfalz,28/09/2019,14/02/2017,905.012,1684,48.06,High 
+345,345,Celesta,Corporate ,United States,Iowa,10/09/2016,04/06/2019,380.271,9757,72.74,Low 
+346,346,Vinny,Corporate ,France,Alsace,24/09/2019,17/06/2016,941.454,6179,13.21,Medium
+347,347,Beret,Consumer ,France,Centre,09/07/2017,06/01/2020,594.599,9029,71.22,High 
+348,348,Carine,Consumer ,Canada,Nova Scotia,28/09/2018,03/01/2020,763.166,4530,20.96,Critical 
+349,349,Bordie,Consumer ,France,Languedoc-Roussillon,02/07/2019,21/10/2016,966.203,7041,56.65,Low 
+350,350,Noelyn,Corporate ,Canada,Québec,18/04/2019,24/03/2017,380.192,7462,62.34,Medium
+351,351,Alexine,Consumer ,France,Centre,21/11/2016,28/01/2019,793.452,2331,22.67,Medium
+352,352,Jolee,Corporate ,United States,Florida,07/02/2017,02/08/2019,619.381,4527,24.66,Low 
+353,353,Anthiathia,Consumer ,Canada,Alberta,11/09/2017,07/05/2018,269.575,8209,38.01,High 
+354,354,Nancie,Corporate ,Canada,Alberta,18/02/2018,01/07/2019,729.522,9056,10.68,Critical 
+355,355,Kaine,Consumer ,United States,California,13/01/2020,20/04/2017,196.208,8586,15.35,High 
+356,356,Meaghan,Corporate ,United States,Florida,17/05/2019,24/04/2018,964.905,7134,11.76,High 
+357,357,Cynthie,Corporate ,France,Rhône-Alpes,06/02/2020,14/10/2019,248.03,7875,42.13,Medium
+358,358,Winston,Corporate ,France,Poitou-Charentes,11/03/2019,13/12/2019,606.885,8378,28.16,Critical 
+359,359,Nalani,Consumer ,France,Midi-Pyrénées,13/04/2017,31/01/2017,282.618,7630,59.53,Critical 
+360,360,Odo,Consumer ,Canada,Alberta,17/08/2019,23/08/2016,628.265,6022,50.2,Low 
+361,361,Fidelio,Consumer ,United States,Georgia,09/06/2017,14/03/2017,883.38,3020,61.37,Low 
+362,362,Elvis,Corporate ,United States,Arizona,03/04/2020,30/11/2019,356.802,8948,13.59,Critical 
+363,363,Saxe,Consumer ,United States,District of Columbia,11/05/2019,19/01/2020,602.503,2507,34.46,High 
+364,364,Hayyim,Corporate ,Canada,Alberta,21/10/2018,07/04/2018,746.536,8926,33.7,Low 
+365,365,Aleece,Consumer ,Canada,Québec,16/12/2018,01/12/2017,414.171,7883,34.29,Medium
+366,366,Paige,Corporate ,United States,Ohio,31/12/2019,11/05/2017,980.604,5188,39.34,High 
+367,367,Davon,Consumer ,United States,Ohio,21/08/2019,18/06/2019,784.31,7623,48.96,Critical 
+368,368,Raynell,Corporate ,United States,Oklahoma,12/11/2019,23/09/2016,403.69,6966,17.74,Low 
+369,369,Freida,Corporate ,Germany,Berlin,10/03/2019,18/07/2016,182.609,3974,59.55,Medium
+370,370,Cynthea,Corporate ,United States,Colorado,18/12/2018,27/01/2019,943.99,2348,21.73,Medium
+371,371,Kincaid,Consumer ,United States,California,24/05/2016,07/01/2018,413.328,1205,47.32,Low 
+372,372,Alyosha,Consumer ,United States,California,28/03/2019,13/04/2020,769.253,6901,33.43,High 
+373,373,Pegeen,Consumer ,France,Île-de-France,23/09/2017,13/07/2016,309.289,3839,13.9,Critical 
+374,374,Quinton,Corporate ,France,Île-de-France,07/08/2019,09/03/2020,842.576,3268,56.01,High 
+375,375,Lyndell,Consumer ,France,Île-de-France,20/05/2017,24/04/2017,809.792,1354,66.1,High 
+376,376,Aldric,Corporate ,United States,North Carolina,05/09/2016,30/03/2018,871.301,4663,70.3,Medium
+377,377,Caroline,Consumer ,United States,Maryland,26/11/2017,07/09/2017,608.573,9072,62.9,Critical 
+378,378,Jedd,Corporate ,United States,Colorado,04/10/2018,18/11/2018,522.331,9426,14.39,Critical 
+379,379,Elias,Consumer ,France,Languedoc-Roussillon,23/05/2019,15/02/2019,579.472,2954,47.84,Low 
+380,380,Tyrone,Corporate ,Canada,Québec,06/03/2017,08/08/2018,586.167,8609,38.8,Low 
+381,381,Cami,Corporate ,France,Aquitaine,09/04/2020,25/06/2019,867.099,2068,68.05,Critical 
+382,382,Nada,Corporate ,France,Bretagne,04/10/2018,19/08/2017,463.177,9266,22.37,High 
+383,383,Euell,Consumer ,France,Haute-Normandie,25/03/2018,11/02/2020,222.078,6179,63.79,Low 
+384,384,Abbey,Consumer ,France,Provence-Alpes-Côte d'Azur,20/09/2018,05/04/2018,553.436,7009,64.36,Medium
+385,385,Redford,Consumer ,France,Languedoc-Roussillon,26/07/2018,20/10/2019,862.319,5526,68.13,High 
+386,386,Seward,Corporate ,France,Provence-Alpes-Côte d'Azur,15/10/2016,15/12/2018,825.649,1978,15.77,Critical 
+387,387,Ferrell,Consumer ,France,Languedoc-Roussillon,14/06/2019,02/05/2019,129.768,6108,50.1,Low 
+388,388,Rheba,Corporate ,United States,Oregon,25/07/2017,02/05/2019,877.254,5524,25.38,Medium
+389,389,Friedrich,Consumer ,France,Aquitaine,15/06/2018,09/03/2020,560.518,5196,31.06,Medium
+390,390,Henderson,Corporate ,United States,Florida,28/10/2019,21/11/2019,185.855,8024,64.06,Low 
+391,391,Reeta,Consumer ,United States,Indiana,04/07/2017,20/03/2020,946.115,9011,14.11,High 
+392,392,Pen,Corporate ,Hungary,Komárom-Esztergom,27/07/2017,10/02/2020,337.468,3736,52.05,Critical 
+393,393,Guido,Corporate ,Canada,British Columbia,09/12/2017,24/06/2018,797.38,3762,18.16,High 
+394,394,Tobiah,Corporate ,France,Nord-Pas-de-Calais,09/02/2020,21/07/2019,300.525,1893,51.45,High 
+395,395,Montgomery,Consumer ,France,Île-de-France,03/11/2019,20/09/2018,364.689,6249,74.43,Medium
+396,396,Shannon,Consumer ,Germany,Berlin,23/12/2016,02/05/2018,241.683,9558,36.16,Critical 
+397,397,Clemmie,Consumer ,France,Pays de la Loire,17/06/2018,19/07/2016,557.535,1673,65.75,Critical 
+398,398,Wesley,Corporate ,United States,Minnesota,30/01/2019,31/07/2016,855.424,1468,13.77,Low 
+399,399,Efrem,Consumer ,France,Auvergne,16/09/2016,09/07/2019,172.019,2612,25.77,Low 
+400,400,Bennie,Corporate ,France,Provence-Alpes-Côte d'Azur,05/02/2020,03/07/2019,632.279,5347,35.46,Critical 
+401,401,Annnora,Consumer ,United States,Colorado,01/09/2016,03/02/2019,901.189,8193,62.03,High 
+402,402,Madlin,Corporate ,France,Rhône-Alpes,27/08/2016,02/09/2019,551.432,5051,48.0,Low 
+403,403,Hurley,Consumer ,Canada,Ontario,15/07/2016,06/02/2018,342.118,2217,31.73,Medium
+404,404,Lovell,Corporate ,France,Rhône-Alpes,26/07/2016,14/01/2018,373.114,8885,38.82,High 
+405,405,Waneta,Corporate ,United States,Alabama,18/10/2016,13/07/2018,816.266,6973,19.75,Critical 
+406,406,Virginia,Corporate ,United States,Florida,12/02/2018,07/01/2020,362.189,1305,54.01,Low 
+407,407,Ivan,Consumer ,United States,Florida,25/02/2019,13/08/2018,174.794,2382,53.1,Medium
+408,408,Merrill,Consumer ,France,Corse,03/04/2019,31/01/2019,489.985,4535,32.62,Medium
+409,409,Jeannine,Consumer ,France,Corse,10/04/2020,10/05/2016,732.943,7933,41.79,Low 
+410,410,Page,Corporate ,France,Bourgogne,31/08/2019,13/05/2018,389.944,6971,35.2,High 
+411,411,Opaline,Consumer ,United States,North Carolina,24/08/2019,26/06/2017,653.924,9913,22.52,Critical 
+412,412,Caressa,Corporate ,United States,California,21/02/2019,24/06/2016,717.517,8573,46.1,High 
+413,413,Cally,Consumer ,France,Rhône-Alpes,28/02/2019,10/12/2019,757.337,5871,48.34,High 
+414,414,Sigvard,Corporate ,United Arab Emirates,Île-de-France,07/12/2018,11/05/2016,926.621,7431,33.0,Medium
+415,415,Reg,Consumer ,United States,Florida,06/02/2019,23/04/2019,145.672,3212,73.93,Critical 
+416,416,Hermione,Corporate ,Canada,Alberta,11/07/2019,25/01/2020,762.053,2997,37.97,Critical 
+417,417,Virginia,Corporate ,France,Bourgogne,05/03/2017,25/07/2018,457.258,4323,27.79,Low 
+418,418,Carol,Corporate ,France,Provence-Alpes-Côte d'Azur,27/09/2016,06/03/2018,153.091,3512,71.4,Low 
+419,419,Lemar,Consumer ,United States,New Mexico,17/12/2019,25/07/2017,362.744,5084,70.12,Critical 
+420,420,Dalis,Consumer ,Denmark,Region Hovedstaden,16/08/2018,05/04/2020,128.075,3401,38.65,High 
+421,421,Farley,Consumer ,France,Picardie,17/05/2016,23/10/2016,206.801,1978,27.19,Low 
+422,422,Sheena,Corporate ,France,Île-de-France,18/04/2018,05/01/2020,143.013,1397,56.07,Medium
+423,423,Rivy,Consumer ,Germany,Berlin,19/07/2019,18/05/2016,790.328,6752,51.83,High 
+424,424,Stanton,Corporate ,United States,Arizona,20/11/2016,28/12/2018,567.783,2158,18.26,Critical 
+425,425,Sauveur,Consumer ,France,Rhône-Alpes,20/08/2018,12/02/2019,436.505,4143,59.96,Low 
+426,426,Liuka,Corporate ,United States,Florida,28/09/2019,29/06/2016,528.978,2198,49.11,Medium
+427,427,Kessia,Consumer ,France,Île-de-France,08/01/2017,24/03/2017,645.124,2391,63.0,Medium
+428,428,Deedee,Corporate ,France,Champagne-Ardenne,09/06/2018,24/06/2017,229.187,6632,10.48,Low 
+429,429,Pam,Corporate ,Germany,Niedersachsen,28/12/2017,13/08/2017,874.062,9046,20.0,High 
+430,430,Bogey,Corporate ,France,Île-de-France,23/01/2018,18/01/2020,718.758,1678,15.58,Critical 
+431,431,Pammi,Consumer ,Canada,Alberta,10/02/2017,14/10/2016,468.967,8077,28.97,High 
+432,432,Waneta,Consumer ,United States,Texas,13/03/2020,03/02/2017,182.902,5926,27.32,High 
+433,433,Marcus,Consumer ,France,Lorraine,31/01/2019,29/07/2019,268.963,1023,67.25,Medium
+434,434,Geneva,Corporate ,France,Provence-Alpes-Côte d'Azur,06/12/2016,10/08/2016,705.121,9383,38.75,Critical 
+435,435,Christel,Consumer ,Canada,Alberta,21/08/2017,06/12/2017,836.908,1798,23.24,Critical 
+436,436,Mirabella,Corporate ,United States,Michigan,10/03/2017,16/02/2019,163.128,9784,55.03,Low 
+437,437,Elwood,Consumer ,France,Picardie,27/01/2018,25/10/2019,687.603,3640,74.13,Low 
+438,438,Theobald,Corporate ,Canada,Ontario,10/06/2016,07/11/2016,900.998,2101,21.16,Critical 
+439,439,Yoko,Consumer ,United Kingdom,Scotland,23/01/2020,29/09/2016,464.123,2593,34.62,High 
+440,440,Murry,Corporate ,Australia,New South Wales,31/10/2019,28/07/2018,994.563,1501,72.22,Low 
+441,441,Almire,Corporate ,France,Haute-Normandie,23/09/2016,11/10/2019,788.46,7032,44.82,Medium
+442,442,Yalonda,Corporate ,United States,Illinois,25/05/2017,16/03/2020,398.265,1881,12.27,High 
+443,443,Loella,Consumer ,Canada,Alberta,01/05/2017,11/05/2019,647.385,4031,55.56,Critical 
+444,444,Vinnie,Consumer ,United Kingdom,Scotland,31/08/2019,24/11/2019,208.631,5052,56.87,Low 
+445,445,Mariam,Consumer ,France,Midi-Pyrénées,15/12/2017,18/09/2016,307.224,1281,52.55,Medium
+446,446,Gustavus,Corporate ,United States,Oklahoma,23/06/2016,27/12/2018,612.58,3770,68.03,Medium
+447,447,Robin,Consumer ,United States,California,22/07/2017,25/12/2019,627.54,2391,64.62,Low 
+448,448,Ludwig,Corporate ,United States,Texas,02/08/2016,04/02/2020,901.554,7967,49.99,High 
+449,449,Mae,Consumer ,Canada,Québec,12/07/2017,20/01/2017,647.845,979,73.03,Critical 
+450,450,Morly,Corporate ,United States,Alabama,05/03/2017,08/11/2019,788.349,8631,29.69,High 
+451,451,Francene,Consumer ,Hungary,Baranya,01/06/2017,26/04/2018,494.425,3847,25.36,High 
+452,452,Kikelia,Corporate ,United States,Virginia,28/01/2020,07/11/2019,683.653,7770,27.1,Medium
+453,453,Herbert,Corporate ,France,Poitou-Charentes,10/10/2018,07/09/2017,122.97,4867,12.01,Critical 
+454,454,Joanna,Corporate ,United States,Utah,05/07/2018,25/11/2017,954.035,9100,51.84,Critical 
+455,455,Orville,Consumer ,United States,Illinois,02/01/2017,17/09/2019,252.896,4551,27.42,Low 
+456,456,Sacha,Consumer ,France,Poitou-Charentes,06/03/2017,03/06/2019,918.959,4509,50.83,Low 
+457,457,Erick,Consumer ,France,Rhône-Alpes,01/08/2016,13/01/2017,697.852,7320,34.33,Critical 
+458,458,Willetta,Corporate ,France,Lorraine,05/11/2017,25/03/2018,467.036,6206,72.45,High 
+459,459,Carolin,Consumer ,United States,North Carolina,05/06/2019,19/09/2018,603.417,5151,10.17,Low 
+460,460,Gisela,Corporate ,United States,Oklahoma,13/01/2017,03/02/2019,928.043,2962,19.64,Medium
+461,461,Randi,Consumer ,France,Limousin,01/02/2019,07/01/2017,700.705,2847,65.29,High 
+462,462,Frazer,Corporate ,France,Haute-Normandie,03/10/2017,22/01/2020,600.775,6393,45.5,Critical 
+463,463,Vinny,Consumer ,France,Rhône-Alpes,14/01/2019,26/10/2019,898.932,599,67.62,Low 
+464,464,Bunny,Corporate ,France,Centre,10/07/2017,14/03/2019,499.385,4691,28.76,Medium
+465,465,Kimmy,Corporate ,United States,Texas,16/02/2019,11/04/2019,635.346,9613,60.44,Medium
+466,466,Richmound,Corporate ,France,Alsace,26/11/2016,30/09/2019,550.948,7167,24.33,Low 
+467,467,Caz,Consumer ,France,Île-de-France,30/06/2017,19/02/2017,625.321,8236,32.51,High 
+468,468,Niki,Consumer ,United States,Florida,22/04/2017,17/11/2018,275.547,2862,43.2,Critical 
+469,469,Larissa,Consumer ,France,Languedoc-Roussillon,04/02/2018,21/01/2019,621.959,1065,16.41,High 
+470,470,Doll,Corporate ,France,Île-de-France,21/08/2018,29/12/2019,373.392,7735,66.08,High 
+471,471,Eran,Consumer ,United States,Nevada,24/07/2017,21/12/2016,390.709,1486,66.32,Medium
+472,472,Jessey,Corporate ,France,Aquitaine,22/01/2018,16/04/2020,293.499,2850,68.76,Critical 
+473,473,Orrin,Consumer ,United States,Minnesota,03/12/2016,03/11/2016,247.855,4293,67.97,Critical 
+474,474,Rudyard,Corporate ,France,Centre,06/01/2020,29/12/2018,374.349,6762,22.49,Low 
+475,475,Gayelord,Consumer ,France,Languedoc-Roussillon,25/02/2017,28/06/2017,788.495,9662,12.32,Low 
+476,476,Jeno,Corporate ,Germany,Bayern,18/12/2019,23/09/2018,685.905,7513,56.9,Critical 
+477,477,Vance,Corporate ,France,Provence-Alpes-Côte d'Azur,06/02/2019,02/09/2016,651.475,2265,53.2,High 
+478,478,Orson,Corporate ,United States,North Carolina,02/05/2019,29/11/2019,275.642,1209,24.5,Low 
+479,479,Marilin,Consumer ,Hungary,Heves,28/06/2018,01/10/2019,160.513,2667,52.29,Medium
+480,480,Skippie,Consumer ,France,Franche-Comté,18/11/2016,19/10/2019,263.249,4547,20.66,High 
+481,481,Erin,Consumer ,France,Rhône-Alpes,22/11/2016,15/02/2018,968.615,3566,57.22,Critical 
+482,482,Bernette,Corporate ,United States,District of Columbia,30/10/2017,04/10/2019,491.033,7309,55.72,Low 
+483,483,Gilbertine,Consumer ,Canada,Québec,13/01/2017,11/04/2019,215.615,7241,22.84,Medium
+484,484,Lissie,Corporate ,France,Rhône-Alpes,24/01/2018,10/02/2020,327.076,2893,41.76,Medium
+485,485,Belicia,Consumer ,United States,California,25/10/2018,17/02/2019,428.197,4509,49.59,Low 
+486,486,Rhonda,Corporate ,United States,Delaware,22/10/2019,08/01/2019,906.738,9803,27.48,High 
+487,487,Isak,Consumer ,France,Île-de-France,05/12/2019,16/06/2018,658.201,3188,36.81,Critical 
+488,488,Gisela,Corporate ,United States,Oklahoma,13/02/2020,28/03/2017,167.751,6098,47.04,High 
+489,489,Honey,Corporate ,France,Bretagne,09/04/2017,12/07/2017,814.959,4456,19.99,High 
+490,490,Florenza,Corporate ,France,Pays de la Loire,08/11/2018,18/08/2016,409.031,8885,73.76,Medium
+491,491,Jerrylee,Consumer ,France,Provence-Alpes-Côte d'Azur,03/08/2017,16/06/2019,887.247,2629,38.24,Critical 
+492,492,Billye,Consumer ,United States,Indiana,20/07/2016,29/01/2019,239.101,7020,11.04,Critical 
+493,493,Ade,Consumer ,France,Provence-Alpes-Côte d'Azur,06/01/2017,19/08/2019,367.585,7587,66.69,Low 
+494,494,Mirilla,Corporate ,France,Pays de la Loire,11/06/2016,09/09/2019,670.593,1789,71.9,Low 
+495,495,Shelbi,Consumer ,United States,Missouri,01/05/2020,23/01/2020,494.838,4652,52.19,Critical 
+496,496,Lissa,Corporate ,United States,Indiana,19/07/2017,04/06/2019,671.422,3180,69.89,High 
+497,497,Phaedra,Consumer ,United States,Utah,21/08/2016,04/08/2017,160.668,9446,58.83,Low 
+498,498,Samaria,Corporate ,France,Pays de la Loire,27/03/2020,14/05/2019,296.178,5449,52.48,Medium
+499,499,Chas,Consumer ,France,Provence-Alpes-Côte d'Azur,08/10/2016,15/05/2017,168.407,2993,49.29,High 
+500,500,Libby,Corporate ,France,Provence-Alpes-Côte d'Azur,18/03/2018,17/08/2018,550.468,2865,10.14,Critical 
+501,501,Katalin,Corporate ,France,Lorraine,15/02/2017,29/01/2018,177.496,7778,63.7,Low 
+502,502,Briano,Corporate ,United States,District of Columbia,27/08/2018,23/03/2020,844.444,930,74.29,Medium
+503,503,Findlay,Consumer ,Hungary,Baranya,05/05/2016,12/02/2018,281.786,6347,73.33,Medium
+504,504,Flinn,Consumer ,France,Rhône-Alpes,23/06/2018,13/12/2016,347.351,2673,12.27,Low 
+505,505,Neille,Consumer ,United States,California,06/05/2017,30/12/2019,692.036,1372,59.17,High 
+506,506,Malinde,Corporate ,France,Bretagne,20/04/2017,01/08/2019,674.621,8390,29.69,Critical 
+507,507,Zena,Consumer ,Canada,Québec,09/03/2020,28/01/2018,517.906,7094,17.47,High 
+508,508,Harper,Corporate ,France,Pays de la Loire,20/04/2020,07/11/2017,278.021,5917,68.35,High 
+509,509,Lacey,Consumer ,France,Nord-Pas-de-Calais,09/11/2018,28/09/2018,956.652,2846,69.31,Medium
+510,510,Garrik,Corporate ,Canada,Alberta,12/05/2018,15/10/2018,419.925,1946,51.11,Critical 
+511,511,Mohandis,Consumer ,United States,New York,13/05/2016,24/09/2016,379.14,4223,20.27,Critical 
+512,512,Shirlee,Corporate ,France,Rhône-Alpes,14/05/2018,11/12/2019,417.957,817,58.01,Low 
+513,513,Ynez,Corporate ,Canada,Québec,05/06/2017,11/12/2019,815.166,9934,47.6,Low 
+514,514,Felizio,Corporate ,United States,Alabama,28/06/2019,22/12/2018,216.363,1522,60.05,Critical 
+515,515,Raven,Consumer ,Canada,Québec,13/02/2018,01/04/2020,683.553,6906,62.56,High 
+516,516,Lib,Consumer ,Canada,Québec,30/07/2016,08/08/2017,302.244,8540,33.23,Low 
+517,517,Madalena,Consumer ,France,Île-de-France,27/03/2019,30/07/2019,532.904,7326,10.48,Medium
+518,518,Caren,Corporate ,France,Picardie,06/10/2017,30/04/2017,527.569,7957,52.99,High 
+519,519,Shanna,Consumer ,France,Basse-Normandie,01/04/2020,12/05/2019,773.875,5450,19.9,Critical 
+520,520,Jo,Corporate ,United States,Massachusetts,07/05/2017,11/09/2019,108.879,1367,10.04,Low 
+521,521,Sissy,Consumer ,France,Rhône-Alpes,22/07/2016,14/05/2016,193.069,5970,19.37,Medium
+522,522,Randall,Corporate ,France,Haute-Normandie,17/06/2019,08/03/2018,774.589,1655,35.44,Medium
+523,523,Cam,Consumer ,Canada,British Columbia,24/10/2017,15/07/2017,212.612,2088,34.73,Low 
+524,524,Thaddus,Corporate ,France,Languedoc-Roussillon,12/02/2018,14/09/2016,401.45,3613,42.78,High 
+525,525,Jerrilee,Corporate ,Denmark,Region Hovedstaden,07/02/2017,21/04/2018,743.243,9764,39.97,Critical 
+526,526,Sadye,Corporate ,France,Île-de-France,12/02/2017,08/09/2018,523.783,1375,19.1,High 
+527,527,Brenn,Consumer ,United States,California,12/12/2018,02/02/2019,399.14,4847,60.81,High 
+528,528,Kory,Consumer ,France,Île-de-France,25/01/2019,30/07/2016,640.635,4533,26.59,Medium
+529,529,Jamil,Consumer ,Canada,Québec,01/09/2019,21/01/2017,274.2,9108,34.61,Critical 
+530,530,Darell,Corporate ,United States,California,27/08/2019,26/10/2019,128.954,4673,43.56,Critical 
+531,531,Griffin,Consumer ,Canada,Québec,21/12/2016,19/06/2019,913.225,9742,57.86,Low 
+532,532,Faustina,Corporate ,United States,District of Columbia,29/05/2018,03/02/2019,574.05,3669,67.0,Low 
+533,533,Kenyon,Consumer ,United Arab Emirates,Île-de-France,15/01/2020,31/08/2019,379.292,8720,51.26,Critical 
+534,534,Nicki,Corporate ,France,Île-de-France,09/05/2017,26/09/2018,741.069,5780,32.85,High 
+535,535,Galen,Consumer ,France,Provence-Alpes-Côte d'Azur,12/08/2017,09/08/2019,681.258,3116,19.71,Low 
+536,536,Julius,Corporate ,France,Île-de-France,12/12/2019,15/08/2018,978.886,1357,63.79,Medium
+537,537,Mirella,Corporate ,United States,Arkansas,03/07/2017,28/06/2019,905.7,9252,36.51,High 
+538,538,Starr,Corporate ,United States,New York,05/09/2018,17/11/2018,640.251,774,71.05,Critical 
+539,539,Mariquilla,Consumer ,United States,Louisiana,19/07/2018,10/02/2017,850.011,5181,28.69,Low 
+540,540,Xenia,Consumer ,Australia,New South Wales,18/09/2017,05/08/2018,945.104,7841,27.91,Medium
+541,541,Morganne,Consumer ,France,Lorraine,03/10/2016,25/06/2018,925.423,2023,18.06,Medium
+542,542,Dionis,Corporate ,United States,North Carolina,10/12/2018,10/04/2020,643.433,7611,34.94,Low 
+543,543,Boycey,Consumer ,United States,California,14/07/2018,05/08/2019,186.332,8431,31.84,High 
+544,544,Francoise,Corporate ,France,Provence-Alpes-Côte d'Azur,30/05/2019,25/08/2019,962.297,6259,20.99,Critical 
+545,545,Elisabetta,Consumer ,France,Bretagne,28/06/2016,03/02/2019,239.928,2301,27.94,High 
+546,546,Addie,Corporate ,France,Île-de-France,22/07/2016,26/10/2017,850.067,2571,21.25,High 
+547,547,Torre,Consumer ,France,Bretagne,26/11/2018,10/08/2017,251.598,4022,63.95,Medium
+548,548,Giacobo,Corporate ,United States,Alabama,06/12/2018,05/04/2020,907.052,6405,39.3,Critical 
+549,549,Faulkner,Corporate ,United States,Ohio,26/05/2017,30/01/2018,251.438,999,71.06,Critical 
+550,550,Purcell,Corporate ,France,Midi-Pyrénées,28/07/2018,20/02/2020,466.254,8237,60.83,Low 
+551,551,Hillery,Consumer ,United States,Nebraska,07/08/2016,28/11/2016,262.131,3657,29.66,Low 
+552,552,Kristen,Consumer ,Canada,Alberta,25/01/2019,27/05/2018,683.878,3452,59.97,Critical 
+553,553,Bobbee,Consumer ,United States,Arkansas,13/09/2016,04/02/2019,484.926,8034,71.81,High 
+554,554,Lin,Corporate ,United States,Minnesota,21/11/2017,07/11/2018,435.728,7496,65.55,Low 
+555,555,Clementius,Consumer ,France,Île-de-France,17/11/2017,09/04/2019,944.918,4498,70.81,Medium
+556,556,Duffy,Corporate ,Denmark,Region Hovedstaden,15/07/2019,16/04/2018,669.162,1813,68.28,High 
+557,557,Joelynn,Consumer ,Canada,Québec,02/04/2017,03/03/2019,142.749,2237,23.23,Critical 
+558,558,Felice,Corporate ,United Kingdom,England,26/12/2017,09/08/2018,955.053,7140,31.56,Low 
+559,559,Constantine,Consumer ,United States,California,07/01/2017,07/07/2016,575.321,7315,66.28,Medium
+560,560,Beverley,Corporate ,United Kingdom,England,15/08/2017,08/11/2018,712.789,711,29.65,Medium
+561,561,Kaye,Corporate ,Denmark,Region Hovedstaden,11/05/2018,27/02/2018,908.101,7655,60.58,Low 
+562,562,Lillian,Corporate ,United States,California,19/08/2017,19/04/2018,394.723,8780,66.36,High 
+563,563,Zachariah,Consumer ,Canada,Ontario,13/07/2019,17/07/2016,453.902,1988,53.56,Critical 
+564,564,Bentlee,Consumer ,France,Haute-Normandie,03/08/2017,23/08/2018,181.216,9100,48.6,High 
+565,565,Shaylynn,Consumer ,United States,Ohio,12/10/2016,02/06/2016,909.528,8356,26.78,High 
+566,566,Myrna,Corporate ,Canada,British Columbia,08/08/2016,02/02/2017,746.112,1713,56.79,Medium
+567,567,Marketa,Consumer ,Canada,Nova Scotia,13/03/2020,24/12/2019,507.042,9121,74.48,Critical 
+568,568,Sandor,Corporate ,United States,Maryland,12/02/2017,31/01/2018,787.806,3727,22.39,Critical 
+569,569,Tades,Consumer ,France,Pays de la Loire,21/03/2018,09/04/2018,701.154,6906,36.25,Low 
+570,570,Alic,Corporate ,France,Île-de-France,29/03/2017,29/12/2019,689.911,697,19.63,Low 
+571,571,Upton,Consumer ,Denmark,Region Hovedstaden,11/12/2017,14/02/2018,219.803,4241,50.91,Critical 
+572,572,Shalne,Corporate ,Belgium,Bruxelles-Capitale,12/07/2017,30/05/2016,160.573,6831,61.58,High 
+573,573,Jorrie,Corporate ,Canada,Alberta,23/09/2019,13/09/2017,433.732,5205,57.8,Low 
+574,574,Karney,Corporate ,United States,Utah,12/04/2018,26/02/2018,910.623,9490,42.37,Medium
+575,575,Susan,Consumer ,Canada,Québec,21/10/2018,13/11/2017,504.904,1553,31.23,High 
+576,576,George,Consumer ,Canada,Alberta,07/12/2018,09/04/2018,851.935,4911,19.54,Critical 
+577,577,Myra,Consumer ,France,Lorraine,29/05/2016,03/04/2018,761.25,3137,29.74,Low 
+578,578,Reeta,Corporate ,France,Provence-Alpes-Côte d'Azur,03/05/2017,09/10/2019,706.8,5498,40.96,Medium
+579,579,Charissa,Consumer ,France,Île-de-France,16/06/2017,01/05/2018,641.344,2370,61.05,Medium
+580,580,Eustace,Corporate ,France,Bourgogne,04/08/2017,28/01/2020,827.007,971,39.48,Low 
+581,581,Heloise,Consumer ,Canada,Québec,21/06/2017,07/06/2016,113.219,1923,15.26,High 
+582,582,Berthe,Corporate ,Canada,Ontario,22/10/2016,28/10/2017,427.754,7500,36.11,Critical 
+583,583,Norris,Consumer ,France,Lorraine,08/04/2019,28/09/2019,948.481,1039,61.3,High 
+584,584,Jonas,Corporate ,United Kingdom,Wales,18/10/2016,27/11/2017,571.469,1211,16.72,High 
+585,585,Nanete,Corporate ,France,Basse-Normandie,31/08/2016,16/01/2020,117.661,8699,34.17,Medium
+586,586,Thorpe,Corporate ,Denmark,Region Hovedstaden,10/07/2017,13/06/2016,659.367,7863,66.35,Critical 
+587,587,Lonnie,Consumer ,France,Nord-Pas-de-Calais,28/08/2017,10/06/2019,157.278,5821,46.38,Critical 
+588,588,Katrine,Consumer ,France,Lorraine,29/10/2017,30/01/2018,562.345,3239,53.69,Low 
+589,589,Latisha,Consumer ,United States,District of Columbia,05/06/2016,15/10/2016,837.293,2951,67.47,Low 
+590,590,Meredithe,Corporate ,France,Île-de-France,30/07/2016,28/11/2016,305.815,6596,25.9,Critical 
+591,591,Concordia,Consumer ,France,Limousin,24/05/2019,11/10/2018,534.052,545,40.33,High 
+592,592,Annissa,Corporate ,United States,Louisiana,15/03/2018,17/06/2019,927.153,5789,11.79,Low 
+593,593,Vidovik,Consumer ,United States,District of Columbia,29/01/2017,29/05/2016,357.901,8050,62.51,Medium
+594,594,Debor,Corporate ,Canada,New Brunswick,04/07/2017,14/03/2017,837.265,1012,56.68,High 
+595,595,Darryl,Consumer ,France,Alsace,06/02/2020,01/08/2016,707.613,1951,57.26,Critical 
+596,596,Ursala,Corporate ,Canada,Québec,19/05/2016,24/02/2020,833.325,5875,15.11,Low 
+597,597,Freddi,Corporate ,Canada,Alberta,21/10/2018,10/05/2018,622.2,5980,29.84,Medium
+598,598,Sianna,Corporate ,Germany,Nordrhein-Westfalen,03/11/2017,28/01/2019,895.205,8137,23.43,Medium
+599,599,Cammi,Consumer ,Canada,Saskatchewan,26/08/2018,09/08/2018,472.119,2527,48.06,Low 
+600,600,Fanchette,Consumer ,France,Picardie,18/03/2020,26/08/2017,801.408,4231,20.27,High 
+601,601,Evelyn,Consumer ,France,Île-de-France,17/10/2018,17/06/2018,535.942,9538,12.63,Critical 
+602,602,Brodie,Corporate ,France,Île-de-France,03/02/2019,28/08/2019,771.429,2494,26.56,High 
+603,603,Merry,Consumer ,France,Languedoc-Roussillon,01/01/2018,06/09/2019,366.608,4371,44.03,High 
+604,604,Sherrie,Corporate ,Canada,Nouveau-Brunswick,29/04/2020,13/04/2018,576.779,3823,28.89,Medium
+605,605,Jenni,Consumer ,United States,Texas,25/07/2016,22/08/2017,753.391,4673,64.08,Critical 
+606,606,Erie,Corporate ,United States,Texas,01/09/2017,09/11/2016,668.504,689,30.3,Critical 
+607,607,Baird,Consumer ,Canada,Québec,11/08/2016,27/06/2017,655.475,8860,67.59,Low 
+608,608,Selig,Corporate ,United States,Wisconsin,08/09/2018,16/05/2017,261.791,3143,60.3,Low 
+609,609,Bjorn,Corporate ,France,Île-de-France,12/05/2017,06/04/2019,857.124,9399,42.82,Critical 
+610,610,Allissa,Corporate ,Hungary,Zala,19/03/2020,21/12/2018,483.961,5360,64.0,High 
+611,611,Collie,Consumer ,France,Nord-Pas-de-Calais,25/08/2019,14/05/2019,168.271,8281,11.45,Low 
+612,612,Roland,Consumer ,Germany,Baden-Württemberg,04/01/2018,30/10/2019,322.588,3487,37.06,Medium
+613,613,Jacquenetta,Consumer ,Australia,Victoria,09/09/2016,22/01/2019,694.897,2897,74.25,High 
+614,614,Helyn,Corporate ,France,Lorraine,29/09/2019,19/06/2017,814.298,6475,56.08,Critical 
+615,615,Izak,Consumer ,United States,Colorado,13/05/2016,07/07/2016,205.182,2467,70.12,Low 
+616,616,Thomasine,Corporate ,France,Île-de-France,07/07/2017,11/05/2016,887.57,5550,43.17,Medium
+617,617,Jeffrey,Consumer ,Canada,Québec,01/10/2017,20/08/2018,103.223,4316,56.61,Medium
+618,618,Sibel,Corporate ,United States,District of Columbia,30/04/2017,27/09/2018,205.177,5405,64.13,Low 
+619,619,Costa,Consumer ,France,Pays de la Loire,28/12/2019,07/08/2016,246.663,714,13.77,High 
+620,620,Randie,Corporate ,France,Île-de-France,27/02/2017,16/02/2019,340.414,2975,44.74,Critical 
+621,621,Ardath,Corporate ,France,Midi-Pyrénées,21/05/2016,10/12/2016,472.898,6319,36.69,High 
+622,622,Katuscha,Corporate ,United States,Ohio,15/01/2020,16/02/2019,735.176,895,65.08,High 
+623,623,Melisa,Consumer ,Denmark,Region Hovedstaden,01/09/2016,19/05/2017,381.74,7758,49.12,Medium
+624,624,Daisie,Consumer ,Canada,British Columbia,09/02/2018,07/11/2016,975.227,6416,62.79,Critical 
+625,625,Borg,Consumer ,United States,Iowa,21/06/2016,18/08/2018,198.132,719,27.95,Critical 
+626,626,Jania,Corporate ,United States,Oklahoma,29/01/2019,31/03/2017,181.433,638,10.61,Low 
+627,627,Inness,Consumer ,France,Haute-Normandie,24/02/2020,25/11/2019,830.969,1288,66.37,Low 
+628,628,Ceil,Corporate ,United States,Texas,27/07/2018,17/01/2020,295.552,988,17.18,Critical 
+629,629,Alecia,Consumer ,Canada,Saskatchewan,09/02/2020,28/08/2019,148.239,2600,43.61,High 
+630,630,Kipp,Corporate ,Canada,Québec,25/08/2016,07/04/2019,392.574,2470,56.44,Low 
+631,631,Ulrike,Consumer ,United States,Illinois,27/05/2016,24/11/2017,783.304,8982,62.07,Medium
+632,632,Dinny,Corporate ,France,Languedoc-Roussillon,22/02/2017,28/03/2018,274.039,2587,45.34,High 
+633,633,Billie,Corporate ,France,Île-de-France,15/03/2019,21/01/2017,709.734,2348,58.34,Critical 
+634,634,Puff,Corporate ,United States,Texas,17/10/2018,10/08/2018,375.152,8445,22.77,Low 
+635,635,Domenico,Consumer ,Canada,British Columbia,11/04/2019,04/01/2020,788.961,9595,27.39,Medium
+636,636,Kimberley,Consumer ,United States,California,28/07/2016,05/11/2019,751.299,5552,23.44,Medium
+637,637,Chester,Consumer ,France,Languedoc-Roussillon,02/01/2020,25/03/2017,767.931,5360,59.37,Low 
+638,638,Darnall,Corporate ,United States,Texas,11/10/2017,20/10/2017,842.186,9315,27.46,High 
+639,639,Jessi,Consumer ,France,Languedoc-Roussillon,04/09/2018,09/09/2016,219.102,3513,61.94,Critical 
+640,640,Mano,Corporate ,Canada,Québec,02/02/2019,29/12/2017,656.783,734,15.1,High 
+641,641,Jelene,Consumer ,Canada,Newfoundland and Labrador,27/12/2016,05/01/2019,438.095,7211,37.44,High 
+642,642,Jacquetta,Corporate ,France,Centre,06/01/2018,08/12/2017,390.968,764,65.32,Medium
+643,643,Shelli,Consumer ,United States,Texas,03/04/2019,13/02/2018,775.389,3959,58.47,Critical 
+644,644,Lowell,Corporate ,Denmark,Region Hovedstaden,26/03/2017,07/03/2020,582.357,3336,23.68,Critical 
+645,645,Cal,Corporate ,France,Champagne-Ardenne,16/12/2018,09/09/2018,417.596,4019,44.58,Low 
+646,646,Casey,Corporate ,United States,Wisconsin,23/03/2018,18/04/2018,222.033,9730,32.41,Low 
+647,647,Lillian,Consumer ,France,Île-de-France,12/06/2016,13/09/2017,901.785,8095,51.39,Critical 
+648,648,Merilee,Consumer ,United States,Florida,15/03/2019,22/01/2017,346.534,2432,17.92,High 
+649,649,Aloisia,Consumer ,France,Île-de-France,08/11/2016,12/03/2017,500.358,9816,28.94,Low 
+650,650,Alia,Corporate ,Canada,British Columbia,02/08/2019,03/01/2020,679.007,5691,38.53,Medium
+651,651,Melina,Consumer ,United States,Pennsylvania,13/11/2017,21/07/2016,703.289,6074,50.98,High 
+652,652,Cristian,Corporate ,Canada,Alberta,13/11/2019,12/04/2019,982.843,580,35.14,Critical 
+653,653,Vachel,Consumer ,France,Provence-Alpes-Côte d'Azur,30/10/2019,28/09/2017,897.943,5795,40.09,Low 
+654,654,Charita,Corporate ,France,Île-de-France,17/09/2016,10/04/2019,486.418,3738,41.14,Medium
+655,655,Neron,Consumer ,Switzerland,Kanton Bern,27/08/2019,02/11/2016,514.084,4071,39.62,Medium
+656,656,Goldina,Corporate ,United States,District of Columbia,28/07/2019,13/03/2017,170.265,1378,62.13,Low 
+657,657,Fax,Corporate ,France,Rhône-Alpes,19/08/2019,01/02/2017,829.121,5567,37.75,High 
+658,658,Roxie,Corporate ,France,Île-de-France,14/08/2019,12/06/2016,693.81,5786,34.36,Critical 
+659,659,Mariel,Consumer ,Germany,Schleswig-Holstein,19/06/2016,12/06/2018,785.708,1554,37.55,High 
+660,660,Vin,Consumer ,Canada,Québec,16/02/2018,02/05/2016,664.854,3080,11.54,High 
+661,661,Delbert,Consumer ,United States,North Carolina,21/09/2018,29/01/2020,366.065,5041,62.24,Medium
+662,662,Lian,Corporate ,United States,North Carolina,08/06/2018,07/03/2019,780.645,1981,50.04,Critical 
+663,663,Cleve,Consumer ,Canada,British Columbia,07/09/2017,01/03/2018,533.203,1839,13.13,Critical 
+664,664,Viola,Corporate ,Hungary,Budapest,23/12/2018,15/10/2019,788.371,4717,60.67,Low 
+665,665,Debbi,Consumer ,France,Midi-Pyrénées,21/03/2019,09/05/2019,284.923,2831,16.42,Low 
+666,666,Abbott,Corporate ,France,Centre,12/07/2018,18/04/2020,966.389,4499,34.97,Critical 
+667,667,Gayle,Consumer ,France,Bretagne,05/08/2016,12/07/2018,857.002,883,11.49,High 
+668,668,Lev,Corporate ,United States,Texas,15/02/2018,18/01/2019,599.237,5021,46.39,Low 
+669,669,Arty,Corporate ,France,Lorraine,29/03/2018,04/06/2019,786.09,7080,71.53,Medium
+670,670,Loralee,Corporate ,Hungary,Borsod-Abaúj-Zemplén,31/08/2017,25/11/2017,191.334,2827,40.97,High 
+671,671,Saw,Consumer ,France,Picardie,05/05/2016,24/04/2018,601.111,2486,30.58,Critical 
+672,672,Trumaine,Consumer ,United States,Iowa,21/08/2018,28/09/2017,190.769,2922,41.71,Low 
+673,673,Hussein,Consumer ,Canada,Saskatchewan,02/02/2019,07/03/2019,973.571,1803,15.1,Medium
+674,674,Willdon,Corporate ,Germany,Schleswig-Holstein,23/08/2017,10/08/2016,485.779,6842,53.18,Medium
+675,675,Vera,Consumer ,United States,California,22/09/2019,04/03/2018,305.419,1869,52.3,Low 
+676,676,Faber,Corporate ,Canada,Québec,19/06/2017,18/01/2018,494.307,4626,63.35,High 
+677,677,Greer,Consumer ,France,Alsace,08/05/2019,15/07/2016,981.047,1336,66.68,Critical 
+678,678,Waneta,Corporate ,Canada,Alberta,12/05/2016,02/02/2020,204.75,6604,31.48,High 
+679,679,Mae,Consumer ,Canada,Québec,02/08/2018,02/04/2020,442.088,8845,29.37,High 
+680,680,Aldwin,Corporate ,France,Provence-Alpes-Côte d'Azur,19/12/2019,07/01/2019,663.329,4379,43.87,Medium
+681,681,Wallie,Corporate ,France,Auvergne,08/02/2017,25/04/2018,631.978,9188,39.56,Critical 
+682,682,Sibylla,Corporate ,France,Bourgogne,02/02/2019,28/05/2019,903.784,7112,67.75,Critical 
+683,683,Mose,Consumer ,France,Île-de-France,19/10/2019,15/01/2019,767.284,1803,16.81,Low 
+684,684,Huntley,Consumer ,France,Île-de-France,12/11/2018,28/04/2017,439.473,3049,60.81,Low 
+685,685,Todd,Consumer ,France,Île-de-France,23/07/2017,24/05/2019,856.646,3029,16.59,Critical 
+686,686,Pearl,Corporate ,France,Languedoc-Roussillon,15/02/2018,16/08/2017,225.66,6866,61.86,High 
+687,687,Krishna,Consumer ,United States,North Carolina,07/02/2019,14/03/2019,133.033,8773,16.97,Low 
+688,688,Eugenia,Corporate ,France,Poitou-Charentes,19/12/2017,25/06/2017,855.939,7253,59.4,Medium
+689,689,Christen,Consumer ,Germany,Sachsen-Anhalt,02/10/2019,26/05/2019,186.754,7290,52.89,High 
+690,690,Granthem,Corporate ,Canada,Ontario,17/09/2018,08/09/2017,961.201,4441,13.45,Critical 
+691,691,Callie,Consumer ,Canada,Ontario,23/04/2017,03/03/2020,983.442,3734,37.14,Low 
+692,692,Salomi,Corporate ,Canada,Nova Scotia,21/10/2016,19/03/2019,482.797,2328,40.8,Medium
+693,693,Herc,Corporate ,France,Nord-Pas-de-Calais,05/09/2018,09/11/2017,711.13,2679,32.94,Medium
+694,694,Hodge,Corporate ,France,Île-de-France,04/04/2020,24/03/2020,975.71,2314,25.25,Low 
+695,695,Johna,Consumer ,United States,Texas,01/12/2017,14/10/2016,878.141,6392,64.66,High 
+696,696,Hercule,Consumer ,France,Aquitaine,01/01/2017,15/06/2017,218.795,6673,10.94,Critical 
+697,697,Merrel,Consumer ,France,Rhône-Alpes,07/09/2019,03/03/2017,142.245,5241,21.61,High 
+698,698,Modesta,Corporate ,Belgium,Wallonie,11/11/2019,22/05/2017,639.916,4587,15.95,High 
+699,699,Fidel,Consumer ,United States,District of Columbia,26/07/2017,11/05/2016,591.722,8616,58.22,Medium
+700,700,Artair,Corporate ,Canada,Québec,22/02/2019,25/02/2020,844.795,2877,43.02,Critical 
+701,701,Rochette,Consumer ,Canada,Québec,15/04/2019,02/06/2018,882.697,8701,71.93,Critical 
+702,702,Lief,Corporate ,Canada,Alberta,11/04/2019,26/02/2017,841.485,9438,43.52,Low 
+703,703,Karly,Consumer ,Canada,Québec,15/11/2017,16/10/2017,430.049,7644,73.3,Low 
+704,704,Marcelle,Corporate ,United States,Arizona,28/10/2016,04/03/2017,376.442,6501,15.61,Critical 
+705,705,Rosalie,Corporate ,France,Provence-Alpes-Côte d'Azur,28/08/2018,10/01/2018,170.495,6167,58.97,High 
+706,706,Theresita,Corporate ,France,Rhône-Alpes,10/09/2016,20/11/2019,585.228,6199,31.46,Low 
+707,707,Isaak,Consumer ,United States,Ohio,30/08/2018,05/04/2018,842.977,9874,14.27,Medium
+708,708,Cassie,Consumer ,France,Île-de-France,27/08/2016,09/05/2016,171.132,7302,12.81,High 
+709,709,Rockie,Consumer ,Belgium,Wallonie,17/12/2018,14/05/2016,361.434,2119,47.0,Critical 
+710,710,Farrell,Corporate ,France,Île-de-France,09/09/2018,11/10/2019,516.268,9462,67.13,Low 
+711,711,Brodie,Consumer ,Denmark,Region Hovedstaden,25/04/2017,05/07/2016,873.551,8670,40.2,Medium
+712,712,Catie,Corporate ,France,Rhône-Alpes,28/04/2017,04/01/2018,393.411,3065,63.25,Medium
+713,713,Elise,Consumer ,France,Provence-Alpes-Côte d'Azur,13/04/2018,20/10/2017,193.65,2390,73.73,Low 
+714,714,Cornelia,Corporate ,France,Alsace,31/12/2018,19/12/2017,167.021,7152,20.09,High 
+715,715,Danit,Consumer ,United Kingdom,England,26/07/2019,19/10/2017,623.453,4558,22.28,Critical 
+716,716,Erich,Corporate ,France,Franche-Comté,28/08/2017,13/03/2018,953.776,7757,35.04,High 
+717,717,Anna-maria,Corporate ,United States,Louisiana,10/01/2019,30/12/2019,677.992,3189,30.61,High 
+718,718,Muhammad,Corporate ,United States,Michigan,29/11/2016,29/06/2017,642.761,8983,28.67,Medium
+719,719,Normie,Consumer ,United States,Florida,22/03/2018,05/07/2019,440.128,6441,57.11,Critical 
+720,720,Shelton,Consumer ,France,Île-de-France,15/02/2019,30/01/2017,116.24,6670,60.28,Critical 
+721,721,Kristi,Consumer ,France,Provence-Alpes-Côte d'Azur,19/05/2018,12/03/2017,280.307,8960,73.25,Low 
+722,722,Jerrie,Corporate ,France,Haute-Normandie,20/07/2018,03/11/2018,446.795,5183,53.89,Low 
+723,723,Cammy,Consumer ,France,Pays de la Loire,17/08/2018,24/06/2016,614.609,3450,63.16,Critical 
+724,724,Lindsay,Corporate ,United States,California,23/12/2016,07/11/2017,224.79,2453,45.01,High 
+725,725,Leeanne,Consumer ,Switzerland,Kanton Zürich,13/11/2017,18/12/2017,725.336,6251,47.8,Low 
+726,726,Jacki,Corporate ,Canada,Québec,20/04/2018,09/12/2018,471.237,1961,32.14,Medium
+727,727,Celeste,Consumer ,Hungary,Győr-Moson-Sopron,21/09/2017,02/09/2017,507.443,5272,54.58,High 
+728,728,Elysha,Corporate ,United States,Tennessee,22/12/2016,20/09/2018,185.326,6420,21.73,Critical 
+729,729,Bernadine,Corporate ,United States,California,05/09/2016,09/11/2016,660.739,7060,22.6,Low 
+730,730,Woody,Corporate ,France,Franche-Comté,19/10/2018,18/03/2017,685.067,5748,44.81,Medium
+731,731,Augie,Consumer ,United States,Missouri,14/02/2019,19/05/2016,594.152,5669,57.59,Medium
+732,732,Andreana,Consumer ,Canada,Québec,23/06/2017,03/06/2018,192.273,2433,71.91,Low 
+733,733,Alvie,Consumer ,France,Lorraine,11/11/2016,29/10/2016,755.879,7643,64.29,High 
+734,734,Conney,Corporate ,United States,Michigan,02/01/2018,05/08/2016,236.144,1432,67.73,Critical 
+735,735,Joellen,Consumer ,Canada,Newfoundland and Labrador,09/10/2018,01/03/2019,837.866,2528,40.03,High 
+736,736,Lawry,Corporate ,United States,Kansas,31/01/2020,11/07/2016,847.981,5933,12.15,High 
+737,737,Lydon,Consumer ,Canada,Alberta,20/03/2020,12/02/2017,161.084,9914,12.17,Medium
+738,738,Celinka,Corporate ,France,Île-de-France,29/10/2018,09/02/2018,105.994,1588,54.14,Critical 
+739,739,Sandor,Consumer ,Canada,Québec,05/12/2017,29/08/2016,986.969,4459,27.85,Critical 
+740,740,Percy,Corporate ,United States,Michigan,25/09/2016,20/08/2017,341.318,6683,40.09,Low 
+741,741,Carver,Corporate ,France,Midi-Pyrénées,24/08/2016,16/08/2017,114.382,4811,42.75,Low 
+742,742,Jackqueline,Corporate ,United Kingdom,England,06/07/2016,26/12/2016,152.194,3700,69.4,Critical 
+743,743,Tabby,Consumer ,United States,California,12/03/2019,20/10/2016,414.314,533,62.1,High 
+744,744,Rina,Consumer ,United States,Florida,14/05/2019,10/04/2018,382.645,6978,46.47,Low 
+745,745,Berny,Consumer ,United States,Alabama,08/11/2016,14/06/2017,288.015,6711,53.28,Medium
+746,746,Gay,Corporate ,France,Basse-Normandie,11/07/2019,15/11/2017,559.702,6891,56.55,High 
+747,747,Emory,Consumer ,United States,Florida,24/04/2017,16/05/2018,197.56,7529,39.55,Critical 
+748,748,Bryana,Corporate ,Canada,British Columbia,14/01/2020,05/03/2018,636.82,6683,66.83,Low 
+749,749,Marnie,Consumer ,France,Haute-Normandie,26/09/2019,29/04/2018,586.141,5444,52.02,Medium
+750,750,Gilbert,Corporate ,Canada,Ontario,17/09/2017,05/01/2018,252.528,7511,12.67,Medium
+751,751,Suellen,Consumer ,United States,Indiana,04/02/2019,23/06/2016,220.606,4457,42.64,Low 
+752,752,Philly,Corporate ,Canada,New Brunswick,30/10/2017,14/12/2019,323.363,9835,69.47,High 
+753,753,Pietro,Corporate ,United States,California,29/04/2018,03/02/2017,157.698,5315,16.92,Critical 
+754,754,Fionna,Corporate ,France,Lorraine,07/01/2018,03/11/2016,437.085,2939,44.06,High 
+755,755,Rik,Consumer ,France,Picardie,10/01/2018,23/08/2017,704.272,7415,68.28,High 
+756,756,Jackelyn,Consumer ,Canada,Québec,25/10/2019,22/11/2016,670.462,4504,45.34,Medium
+757,757,Tony,Consumer ,United States,Georgia,20/04/2017,30/03/2018,724.498,673,72.49,Critical 
+758,758,Jonathon,Corporate ,France,Île-de-France,03/12/2018,12/01/2020,817.165,8362,42.33,Critical 
+759,759,Phedra,Consumer ,United Kingdom,Scotland,14/05/2016,23/04/2018,525.102,2723,25.6,Low 
+760,760,Emelen,Corporate ,United States,Hawaii,01/04/2020,25/07/2016,286.761,2644,13.6,Low 
+761,761,Quillan,Consumer ,Canada,Alberta,14/11/2017,23/03/2018,277.957,7075,37.39,Critical 
+762,762,Lawton,Corporate ,United States,New York,13/11/2018,25/07/2018,396.948,7005,22.67,High 
+763,763,Gabriello,Consumer ,United States,Arkansas,11/08/2016,25/10/2017,846.134,1950,48.97,Low 
+764,764,Pet,Corporate ,United States,Virginia,22/07/2019,28/09/2018,687.474,575,43.31,Medium
+765,765,Teodorico,Corporate ,Canada,British Columbia,23/03/2018,14/06/2019,128.531,6037,37.43,High 
+766,766,Van,Corporate ,United States,California,18/01/2019,17/09/2018,982.391,2396,56.73,Critical 
+767,767,Perceval,Consumer ,France,Île-de-France,10/11/2018,21/11/2017,696.162,5859,10.91,Low 
+768,768,Westley,Consumer ,France,Île-de-France,06/05/2018,17/05/2018,828.589,4186,55.61,Medium
+769,769,Hagen,Consumer ,Canada,British Columbia,13/05/2016,31/03/2019,306.506,9484,59.15,Medium
+770,770,Ancell,Corporate ,United Kingdom,England,13/09/2018,03/02/2019,393.75,9346,64.5,Low 
+771,771,Julee,Consumer ,France,Provence-Alpes-Côte d'Azur,07/02/2018,20/08/2017,272.976,4076,64.29,High 
+772,772,Celia,Corporate ,United States,Michigan,24/06/2019,15/03/2018,123.826,2395,72.55,Critical 
+773,773,Patsy,Consumer ,Australia,New South Wales,13/07/2016,17/09/2019,854.572,9108,51.24,High 
+774,774,Barbaraanne,Corporate ,Germany,Nordrhein-Westfalen,30/03/2020,15/05/2018,367.106,2643,34.24,High 
+775,775,Riannon,Consumer ,United States,Illinois,13/06/2016,09/04/2018,595.589,3868,44.42,Medium
+776,776,Nananne,Corporate ,United States,Rhode Island,12/03/2018,05/11/2016,583.076,5465,63.7,Critical 
+777,777,Quentin,Corporate ,Canada,New Brunswick,19/01/2018,13/06/2019,498.411,3008,33.22,Critical 
+778,778,Barnabe,Corporate ,France,Provence-Alpes-Côte d'Azur,03/02/2018,06/03/2019,704.782,3026,26.3,Low 
+779,779,Rhianon,Consumer ,United States,Washington,16/11/2016,23/02/2019,440.482,1621,49.08,Low 
+780,780,Judi,Consumer ,France,Nord-Pas-de-Calais,24/06/2016,22/02/2019,982.619,4322,41.46,Critical 
+781,781,Isabelita,Consumer ,United States,New York,10/05/2017,22/02/2020,301.783,7740,46.84,High 
+782,782,Belita,Corporate ,France,Île-de-France,17/07/2018,10/02/2017,556.404,5443,49.62,Low 
+783,783,Ajay,Consumer ,France,Île-de-France,09/01/2017,21/03/2017,666.115,3283,33.8,Medium
+784,784,Tamera,Corporate ,Hungary,Budapest,17/04/2017,05/11/2018,750.984,6466,26.99,High 
+785,785,York,Consumer ,France,Languedoc-Roussillon,20/08/2017,30/10/2017,637.927,9853,68.73,Critical 
+786,786,Teresita,Corporate ,Canada,British Columbia,06/04/2020,03/10/2017,330.338,2732,58.2,Low 
+787,787,Shaun,Consumer ,United States,Massachusetts,30/08/2017,15/07/2019,879.069,2393,68.32,Medium
+788,788,Patsy,Corporate ,France,Provence-Alpes-Côte d'Azur,20/09/2019,15/01/2017,326.363,7174,31.79,Medium
+789,789,Inglebert,Corporate ,Hungary,Budapest,20/02/2017,19/04/2017,182.376,4436,69.61,Low 
+790,790,June,Corporate ,France,Limousin,23/07/2019,17/11/2017,577.842,7507,63.58,High 
+791,791,David,Consumer ,France,Poitou-Charentes,07/10/2018,26/10/2019,825.699,3594,27.23,Critical 
+792,792,Glad,Consumer ,United States,New York,05/02/2018,15/11/2019,536.632,7209,24.51,High 
+793,793,Darice,Consumer ,Canada,Québec,30/08/2019,28/04/2020,468.969,9653,61.43,High 
+794,794,Cornelle,Corporate ,France,Île-de-France,30/10/2018,24/06/2018,447.698,1389,63.21,Medium
+795,795,Pippa,Consumer ,France,Pays de la Loire,11/11/2018,21/02/2018,862.955,4356,28.63,Critical 
+796,796,Brittney,Corporate ,Switzerland,Kanton Zürich,01/01/2019,18/11/2019,375.778,2260,50.11,Critical 
+797,797,Georgeanna,Consumer ,France,Alsace,16/12/2017,01/04/2017,858.458,8174,28.19,Low 
+798,798,Oby,Corporate ,United States,South Dakota,21/10/2018,27/09/2019,271.014,7181,26.75,Low 
+799,799,Anthea,Consumer ,France,Franche-Comté,17/06/2017,21/09/2018,773.162,733,51.14,Critical 
+800,800,Sena,Corporate ,France,Pays de la Loire,02/03/2020,04/05/2019,210.125,1590,74.03,High 
+801,801,Melisandra,Corporate ,France,Île-de-France,30/11/2019,24/03/2019,281.073,2151,66.12,Low 
+802,802,Prentiss,Corporate ,France,Île-de-France,07/07/2019,09/09/2016,598.478,8850,27.96,Medium
+803,803,Danica,Consumer ,France,Languedoc-Roussillon,06/03/2018,21/04/2018,655.628,1996,39.44,High 
+804,804,Mace,Consumer ,France,Champagne-Ardenne,11/09/2018,19/11/2017,270.48,8652,71.94,Critical 
+805,805,Ellyn,Consumer ,Belgium,Wallonie,08/09/2017,18/01/2019,101.276,2980,18.22,Low 
+806,806,Friederike,Corporate ,Canada,Saskatchewan,07/06/2019,24/05/2018,910.128,1994,70.23,Medium
+807,807,Claudelle,Consumer ,France,Rhône-Alpes,17/03/2017,31/08/2018,746.717,7694,45.68,Medium
+808,808,Herold,Corporate ,France,Centre,03/11/2019,04/02/2017,530.217,9410,33.17,Low 
+809,809,Darrelle,Consumer ,France,Centre,15/05/2018,22/01/2018,465.591,5821,17.64,High 
+810,810,Jackqueline,Corporate ,United States,Ohio,09/02/2017,22/12/2018,343.14,4351,15.61,Critical 
+811,811,Robinetta,Consumer ,France,Île-de-France,17/11/2017,22/07/2019,851.04,8148,13.26,High 
+812,812,Jerald,Corporate ,United States,Texas,09/11/2017,29/05/2019,698.506,6172,71.73,High 
+813,813,Gordie,Corporate ,Hungary,Budapest,19/02/2019,05/07/2016,362.572,7789,72.31,Medium
+814,814,Emeline,Corporate ,France,Provence-Alpes-Côte d'Azur,18/12/2019,04/05/2016,512.921,4686,35.47,Critical 
+815,815,Godart,Consumer ,Canada,Québec,07/01/2018,15/07/2016,141.267,4239,55.22,Critical 
+816,816,Devi,Consumer ,France,Provence-Alpes-Côte d'Azur,13/06/2018,18/01/2017,267.109,9687,28.35,Low 
+817,817,Doloritas,Consumer ,United States,California,17/04/2018,18/09/2016,167.846,2901,34.28,Low 
+818,818,Romonda,Corporate ,France,Île-de-France,01/10/2019,03/10/2017,464.726,6365,45.23,Critical 
+819,819,Lyndsay,Consumer ,United States,California,28/01/2017,12/09/2017,328.378,7766,63.73,High 
+820,820,Donella,Corporate ,France,Bretagne,25/02/2020,10/02/2017,254.41,1404,50.0,Low 
+821,821,Sherill,Consumer ,Australia,New South Wales,13/01/2019,12/05/2018,436.065,860,31.08,Medium
+822,822,Edik,Corporate ,France,Aquitaine,18/09/2016,01/10/2016,770.58,6930,67.68,High 
+823,823,Calla,Consumer ,Canada,Ontario,28/05/2019,24/07/2018,252.219,9194,52.32,Critical 
+824,824,Robinetta,Corporate ,France,Bretagne,04/05/2017,14/12/2016,800.244,9519,65.69,Low 
+825,825,Rozina,Corporate ,United States,Michigan,28/11/2017,06/12/2019,372.242,8798,72.46,Medium
+826,826,Tate,Corporate ,Canada,Québec,26/08/2016,13/08/2018,875.619,5718,70.28,Medium
+827,827,Farris,Consumer ,France,Provence-Alpes-Côte d'Azur,09/04/2018,03/09/2016,240.158,6114,31.82,Low 
+828,828,Maury,Consumer ,Canada,Ontario,17/07/2017,03/07/2017,822.977,6969,25.86,High 
+829,829,Ibby,Consumer ,Canada,British Columbia,09/12/2017,17/11/2018,231.772,6313,38.91,Critical 
+830,830,Erica,Corporate ,United States,Texas,23/08/2017,23/12/2019,915.525,5598,48.29,High 
+831,831,Wallie,Consumer ,France,Île-de-France,17/12/2019,14/03/2018,574.1,3923,71.44,High 
+832,832,Lauraine,Corporate ,Hungary,Fejér,14/07/2018,03/12/2018,375.291,4219,71.48,Medium
+833,833,Dix,Consumer ,United States,Washington,14/06/2017,09/08/2018,994.221,7216,64.13,Critical 
+834,834,Joshuah,Corporate ,United States,Kansas,13/04/2020,06/09/2018,250.192,9881,53.33,Critical 
+835,835,Geno,Consumer ,United States,Nevada,06/06/2018,16/09/2016,482.668,7760,39.39,Low 
+836,836,Vassili,Corporate ,France,Provence-Alpes-Côte d'Azur,15/03/2017,23/06/2018,523.378,9322,35.32,Low 
+837,837,Guntar,Corporate ,United Kingdom,England,15/02/2020,26/07/2018,960.44,5286,54.14,Critical 
+838,838,Freedman,Corporate ,Canada,Québec,25/02/2019,06/09/2019,369.533,9349,74.31,High 
+839,839,Paule,Consumer ,Germany,Sachsen,25/07/2019,13/09/2018,980.996,9616,70.56,Low 
+840,840,Benton,Consumer ,United States,California,20/07/2017,12/07/2017,294.656,3439,74.9,Medium
+841,841,Aila,Consumer ,France,Provence-Alpes-Côte d'Azur,25/04/2019,18/11/2018,175.996,6249,33.14,High 
+842,842,Aaron,Corporate ,Canada,Québec,26/08/2019,21/01/2017,246.12,6005,34.3,Critical 
+843,843,Wolf,Consumer ,France,Aquitaine,24/09/2016,01/02/2020,596.595,9832,25.72,Low 
+844,844,Zacherie,Corporate ,United States,Tennessee,30/07/2016,20/07/2018,275.311,3252,63.71,Medium
+845,845,Jillayne,Consumer ,France,Poitou-Charentes,03/09/2019,16/06/2016,839.406,3997,65.11,Medium
+846,846,Vlad,Corporate ,Canada,Newfoundland and Labrador,04/05/2017,29/04/2019,592.206,5167,22.34,Low 
+847,847,Verena,Consumer ,Canada,Québec,12/09/2018,03/09/2019,358.589,4505,34.29,High 
+848,848,Garth,Corporate ,United States,Colorado,19/10/2016,11/12/2017,338.822,6165,15.57,Critical 
+849,849,Saleem,Corporate ,France,Lorraine,21/08/2016,20/07/2018,190.503,5550,43.56,High 
+850,850,Katinka,Corporate ,Canada,New Brunswick,23/06/2018,30/10/2016,796.971,4888,14.28,High 
+851,851,Whitney,Consumer ,United States,Michigan,03/10/2017,23/12/2018,560.883,614,36.29,Medium
+852,852,Nick,Consumer ,France,Île-de-France,01/10/2018,03/01/2017,531.695,2180,72.46,Critical 
+853,853,Licha,Consumer ,Canada,British Columbia,13/10/2019,26/03/2017,355.298,691,50.66,Critical 
+854,854,Orton,Corporate ,France,Île-de-France,26/11/2016,13/05/2017,640.556,6810,36.55,Low 
+855,855,Eben,Consumer ,France,Rhône-Alpes,05/12/2016,03/11/2017,908.992,8049,34.17,Low 
+856,856,Kimbell,Corporate ,United Kingdom,England,28/01/2017,24/11/2018,908.456,9829,51.38,Critical 
+857,857,Christie,Consumer ,France,Franche-Comté,27/01/2017,25/11/2016,176.676,3977,37.78,High 
+858,858,Zelma,Corporate ,France,Franche-Comté,06/06/2017,13/02/2017,517.528,2816,24.71,Low 
+859,859,Ashton,Consumer ,Hungary,Komárom-Esztergom,23/01/2018,30/07/2019,336.99,8704,45.71,Medium
+860,860,Porty,Corporate ,United States,Missouri,21/09/2019,08/02/2020,321.034,3124,17.25,High 
+861,861,Perla,Corporate ,Germany,Niedersachsen,19/03/2017,20/12/2016,648.437,2866,47.31,Critical 
+862,862,Horatio,Corporate ,United States,Michigan,08/09/2017,03/12/2019,287.792,2933,69.53,Low 
+863,863,Patrizia,Consumer ,France,Centre,20/07/2019,14/05/2018,890.322,6049,24.47,Medium
+864,864,Valerye,Consumer ,Canada,Nunavut,21/08/2017,19/02/2020,568.779,5089,18.16,Medium
+865,865,Wilhelmina,Consumer ,Australia,New South Wales,11/01/2018,09/05/2017,293.338,5227,64.04,Low 
+866,866,Wilbur,Corporate ,France,Midi-Pyrénées,08/03/2018,19/08/2017,253.501,2002,26.13,High 
+867,867,Winny,Consumer ,United States,California,22/04/2019,30/03/2018,922.335,7927,69.12,Critical 
+868,868,Erminie,Corporate ,United States,Florida,27/12/2019,27/11/2016,149.869,8069,30.87,High 
+869,869,Cullen,Consumer ,United States,Texas,05/05/2019,15/06/2017,436.09,4147,22.37,High 
+870,870,Clevey,Corporate ,France,Limousin,13/01/2018,23/08/2018,634.458,624,24.38,Medium
+871,871,Teodor,Consumer ,Canada,Québec,07/07/2016,14/11/2018,899.687,5867,32.33,Critical 
+872,872,Zolly,Corporate ,France,Midi-Pyrénées,09/05/2019,31/01/2018,370.118,4135,14.95,Critical 
+873,873,Charline,Corporate ,France,Provence-Alpes-Côte d'Azur,29/11/2019,03/08/2016,648.888,3246,40.56,Low 
+874,874,Valentijn,Corporate ,France,Languedoc-Roussillon,07/12/2017,28/07/2016,964.899,1912,60.76,Low 
+875,875,Van,Consumer ,France,Île-de-France,01/11/2016,04/07/2019,310.427,1346,34.87,Critical 
+876,876,Antoine,Consumer ,France,Rhône-Alpes,09/07/2016,23/01/2020,678.647,5339,72.11,High 
+877,877,Lorin,Consumer ,France,Lorraine,28/07/2018,03/04/2020,756.762,616,72.47,Low 
+878,878,Leupold,Corporate ,United States,District of Columbia,26/12/2019,28/01/2020,657.372,5285,28.53,Medium
+879,879,Quintina,Consumer ,Germany,Berlin,26/02/2020,25/08/2017,736.767,1083,54.81,High 
+880,880,Janela,Corporate ,France,Haute-Normandie,02/04/2020,23/02/2018,552.101,7746,71.71,Critical 
+881,881,Jolynn,Consumer ,Germany,Berlin,28/05/2019,27/05/2016,847.072,9738,17.41,Low 
+882,882,Mandy,Corporate ,France,Île-de-France,16/09/2018,24/01/2017,385.043,3058,69.79,Medium
+883,883,Gal,Consumer ,France,Basse-Normandie,19/06/2018,26/09/2018,298.937,2360,20.17,Medium
+884,884,Eolanda,Corporate ,Canada,British Columbia,03/10/2019,08/04/2020,390.144,6594,63.63,Low 
+885,885,Hamel,Corporate ,United States,Maryland,22/08/2019,26/06/2016,930.213,3932,61.93,High 
+886,886,Joceline,Corporate ,United States,Arizona,07/01/2019,15/03/2019,172.545,8865,15.79,Critical 
+887,887,Danya,Consumer ,United States,Ohio,05/02/2017,02/09/2016,442.351,4472,36.36,High 
+888,888,Mellisa,Consumer ,Hungary,Borsod-Abaúj-Zemplén,01/01/2018,28/04/2018,565.752,2846,59.35,High 
+889,889,Kellyann,Consumer ,France,Île-de-France,24/12/2018,03/11/2016,542.728,3191,39.06,Medium
+890,890,Tate,Corporate ,France,Île-de-France,29/12/2016,16/06/2017,221.854,5623,33.27,Critical 
+891,891,Israel,Consumer ,United States,Colorado,21/03/2017,03/11/2017,197.477,4261,64.99,Critical 
+892,892,Valenka,Corporate ,United States,Texas,01/11/2017,22/10/2018,798.852,8532,68.32,Low 
+893,893,Gauthier,Consumer ,Canada,British Columbia,20/06/2019,18/06/2017,918.411,4349,53.1,Low 
+894,894,Trevor,Corporate ,United States,Michigan,14/10/2017,28/11/2017,641.562,3591,32.45,Critical 
+895,895,Catie,Consumer ,Canada,Ontario,04/02/2017,07/04/2020,169.945,901,20.2,High 
+896,896,Julio,Corporate ,United States,Kansas,21/11/2018,17/12/2019,275.035,8614,60.65,Low 
+897,897,Madalyn,Corporate ,Canada,Québec,23/09/2018,16/03/2018,443.731,9379,65.58,Medium
+898,898,Sanford,Corporate ,France,Midi-Pyrénées,19/04/2018,16/11/2019,731.787,1162,48.8,High 
+899,899,Andy,Consumer ,France,Centre,20/09/2018,19/01/2017,202.601,2875,28.44,Critical 
+900,900,Maura,Consumer ,United States,Florida,16/06/2016,06/07/2016,997.702,4329,43.99,Low 
+901,901,Mae,Consumer ,France,Nord-Pas-de-Calais,01/11/2018,01/03/2017,943.307,6196,37.44,Medium
+902,902,Maryellen,Corporate ,France,Île-de-France,20/05/2019,13/02/2020,966.983,2185,56.47,Medium
+903,903,Bronny,Consumer ,United States,South Dakota,04/01/2017,27/09/2016,220.908,1341,19.28,Low 
+904,904,Matti,Corporate ,France,Languedoc-Roussillon,01/09/2016,09/03/2018,389.071,2936,62.24,High 
+905,905,Mina,Consumer ,France,Pays de la Loire,04/09/2017,20/10/2017,592.747,4553,55.84,Critical 
+906,906,Gretchen,Corporate ,United Kingdom,England,17/01/2017,28/11/2016,292.002,1226,68.89,High 
+907,907,Fons,Consumer ,Canada,Québec,24/03/2017,26/11/2017,938.257,1375,52.1,High 
+908,908,Nils,Corporate ,United States,Virginia,05/09/2019,12/03/2017,296.546,7268,49.08,Medium
+909,909,Kylie,Corporate ,France,Bretagne,06/05/2016,22/01/2017,738.179,6873,72.03,Critical 
+910,910,Joanie,Corporate ,United Kingdom,England,27/07/2016,17/08/2016,865.494,5889,21.02,Critical 
+911,911,Robbyn,Consumer ,United States,Indiana,16/09/2019,07/02/2020,164.954,8609,59.4,Low 
+912,912,Moyra,Consumer ,France,Alsace,24/11/2017,05/09/2019,541.991,2872,14.77,Low 
+913,913,Consuela,Consumer ,United States,Florida,25/12/2017,22/01/2017,260.84,6891,51.56,Critical 
+914,914,Elmer,Corporate ,United States,Texas,14/08/2018,02/07/2019,534.075,4023,53.07,High 
+915,915,Chrotoem,Consumer ,Canada,Ontario,12/01/2017,11/02/2019,721.674,3902,15.49,Low 
+916,916,Seymour,Corporate ,France,Midi-Pyrénées,16/01/2019,20/04/2018,492.704,4961,31.08,Medium
+917,917,Cesare,Consumer ,France,Languedoc-Roussillon,03/09/2019,18/04/2020,658.454,2992,26.43,High 
+918,918,Sheena,Corporate ,United States,Nevada,05/04/2018,29/07/2017,215.471,8885,31.33,Critical 
+919,919,Wain,Consumer ,United States,Texas,22/07/2017,13/06/2016,183.427,2199,50.01,Low 
+920,920,Kristos,Corporate ,Hungary,Budapest,27/06/2016,12/06/2017,285.48,1747,59.4,Medium
+921,921,Leeanne,Corporate ,France,Île-de-France,04/08/2018,25/04/2017,914.951,8843,66.38,Medium
+922,922,Austin,Corporate ,France,Rhône-Alpes,08/08/2016,04/05/2017,999.773,4522,30.17,Low 
+923,923,Debor,Consumer ,France,Île-de-France,15/10/2019,01/09/2017,263.134,5033,36.51,High 
+924,924,Brittaney,Consumer ,Germany,Nordrhein-Westfalen,30/11/2019,08/06/2016,247.182,1598,22.77,Critical 
+925,925,Martyn,Consumer ,United States,Texas,28/02/2018,14/05/2017,725.908,3616,34.74,High 
+926,926,Logan,Corporate ,France,Île-de-France,29/08/2018,28/08/2016,442.702,9960,27.88,High 
+927,927,Osborn,Consumer ,United States,Colorado,26/08/2019,05/05/2016,622.085,1667,28.6,Medium
+928,928,Paloma,Corporate ,United States,New Jersey,16/03/2020,20/03/2017,117.451,5578,25.75,Critical 
+929,929,Adelice,Consumer ,France,Île-de-France,04/12/2017,13/07/2018,740.935,5141,52.96,Critical 
+930,930,Edgar,Corporate ,Canada,Nova Scotia,03/05/2018,21/07/2018,322.172,7877,70.37,Low 
+931,931,Melvin,Consumer ,France,Île-de-France,26/01/2017,06/10/2019,885.221,6579,62.58,Low 
+932,932,Mariann,Corporate ,France,Île-de-France,03/04/2017,02/12/2016,691.419,9902,35.47,Critical 
+933,933,Barclay,Corporate ,United Kingdom,England,03/06/2019,08/08/2017,597.981,3578,31.85,High 
+934,934,Virginie,Corporate ,United States,Michigan,16/02/2019,06/02/2019,611.241,1719,65.31,Low 
+935,935,Allie,Consumer ,France,Alsace,04/10/2016,01/11/2019,296.259,5463,51.04,Medium
+936,936,Adena,Consumer ,France,Île-de-France,22/01/2017,10/07/2018,475.78,4601,59.56,High 
+937,937,Ardelia,Consumer ,France,Provence-Alpes-Côte d'Azur,20/10/2018,04/08/2019,618.115,5834,11.55,Critical 
+938,938,Janith,Corporate ,France,Haute-Normandie,01/05/2017,15/10/2017,869.637,8601,69.55,Low 
+939,939,Abby,Consumer ,United States,New York,07/04/2018,04/10/2016,669.981,8700,15.92,Medium
+940,940,Von,Corporate ,United States,Maryland,01/01/2018,18/08/2016,298.806,6429,21.09,Medium
+941,941,Joella,Consumer ,United States,Texas,14/02/2017,21/05/2018,225.1,8152,35.95,Low 
+942,942,Edwin,Corporate ,France,Île-de-France,06/10/2017,09/01/2020,390.703,8443,27.36,High 
+943,943,Lanette,Consumer ,Germany,Bayern,16/08/2016,26/12/2017,619.544,8132,47.59,Critical 
+944,944,Courtney,Corporate ,United States,Washington,17/03/2020,20/10/2016,658.645,5744,40.79,High 
+945,945,Janelle,Corporate ,United States,Georgia,13/02/2018,25/07/2016,354.439,6224,18.46,High 
+946,946,Krishnah,Corporate ,United States,Illinois,30/06/2016,26/02/2020,762.5,1960,50.72,Medium
+947,947,Langsdon,Consumer ,France,Languedoc-Roussillon,27/02/2019,24/08/2017,846.697,7557,70.06,Critical 
+948,948,Paulina,Consumer ,Canada,British Columbia,12/09/2017,21/07/2017,968.067,7148,66.63,Critical 
+949,949,Adaline,Consumer ,Canada,British Columbia,09/04/2017,01/05/2018,114.736,2765,59.15,Low 
+950,950,Elvira,Corporate ,United States,Texas,11/10/2016,21/12/2017,752.915,5800,30.56,Low 
+951,951,Heddie,Consumer ,United States,Arizona,05/12/2018,08/03/2018,546.394,7973,22.56,Critical 
+952,952,Demetra,Corporate ,United States,Missouri,19/03/2018,22/11/2016,549.475,8728,39.25,High 
+953,953,Burt,Consumer ,United States,California,15/12/2017,19/08/2019,585.534,2775,19.85,Low 
+954,954,Bette-ann,Corporate ,United States,Ohio,31/07/2017,19/11/2019,455.787,5236,51.28,Medium
+955,955,Vinnie,Consumer ,France,Midi-Pyrénées,03/06/2016,28/08/2018,573.695,6278,15.2,High 
+956,956,Deane,Corporate ,France,Champagne-Ardenne,20/09/2019,30/10/2016,463.361,7065,15.81,Critical 
+957,957,Brenna,Corporate ,France,Midi-Pyrénées,20/02/2020,03/10/2016,551.594,9076,71.87,Low 
+958,958,Shelley,Corporate ,France,Basse-Normandie,08/03/2017,27/05/2017,308.603,4856,16.43,Medium
+959,959,Minor,Consumer ,France,Haute-Normandie,22/03/2017,13/07/2016,751.669,5763,67.5,Medium
+960,960,Wolfie,Consumer ,United States,Tennessee,09/07/2016,18/05/2019,161.38,4321,65.95,Low 
+961,961,Theobald,Consumer ,Canada,Manitoba,03/10/2019,18/07/2019,845.013,509,62.84,High 
+962,962,Ralf,Corporate ,United States,California,20/07/2019,06/09/2018,150.541,1972,26.89,Critical 
+963,963,Lavena,Consumer ,France,Poitou-Charentes,14/09/2019,26/01/2019,267.961,5329,24.62,High 
+964,964,Correna,Corporate ,United States,Ohio,25/06/2017,02/01/2020,389.936,7858,10.81,High 
+965,965,Killy,Consumer ,Canada,Saskatchewan,16/01/2018,31/07/2016,896.909,6972,27.49,Medium
+966,966,Gaston,Corporate ,United States,Florida,14/03/2020,11/01/2019,272.227,1808,44.26,Critical 
+967,967,Ravi,Consumer ,Hungary,Budapest,21/09/2017,06/10/2019,649.908,6216,48.18,Critical 
+968,968,Virgil,Corporate ,Hungary,Szabolcs-Szatmár-Bereg,25/12/2017,03/02/2017,671.347,859,11.35,Low 
+969,969,Alfredo,Corporate ,United States,California,18/12/2016,01/12/2017,839.511,1682,20.22,Low 
+970,970,Sibby,Corporate ,Germany,Berlin,30/04/2018,29/03/2020,421.062,9641,56.91,Critical 
+971,971,Wilfrid,Consumer ,Canada,Québec,08/12/2017,05/01/2017,927.055,8942,43.7,High 
+972,972,Leland,Consumer ,United States,Wisconsin,15/08/2019,02/07/2017,897.383,4863,25.74,Low 
+973,973,Stevena,Consumer ,United States,Florida,21/12/2018,18/11/2019,851.303,1826,44.94,Medium
+974,974,Arlan,Corporate ,Canada,Alberta,07/08/2016,11/11/2017,192.563,6055,64.8,High 
+975,975,Tisha,Consumer ,France,Rhône-Alpes,25/02/2019,20/12/2016,393.615,4414,69.56,Critical 
+976,976,Bertrando,Corporate ,France,Rhône-Alpes,19/02/2019,04/10/2016,587.848,4567,63.55,Low 
+977,977,Tina,Consumer ,Germany,Hessen,13/05/2016,05/07/2019,713.197,4648,23.19,Medium
+978,978,Dniren,Corporate ,United States,Illinois,08/11/2017,05/09/2016,146.264,9353,24.58,Medium
+979,979,Miller,Consumer ,United States,Texas,14/08/2016,05/04/2019,186.463,5370,58.78,Low 
+980,980,Meghan,Corporate ,Germany,Bayern,20/06/2018,02/10/2019,587.294,6801,73.88,High 
+981,981,Cornall,Corporate ,United States,Texas,29/01/2018,12/11/2019,453.028,5887,59.03,Critical 
+982,982,Jorgan,Corporate ,France,Île-de-France,04/05/2016,09/01/2018,722.986,928,27.91,High 
+983,983,Trueman,Consumer ,Hungary,Fejér,02/06/2018,12/05/2019,267.998,695,71.1,High 
+984,984,Eve,Consumer ,Canada,Québec,10/11/2018,23/01/2017,290.68,9659,18.78,Medium
+985,985,Dani,Consumer ,France,Île-de-France,14/11/2016,30/12/2016,345.868,7122,68.91,Critical 
+986,986,Veronique,Corporate ,France,Picardie,02/01/2018,29/04/2017,549.548,4602,67.83,Critical 
+987,987,Nissie,Consumer ,Canada,Québec,30/11/2016,12/11/2018,545.255,7369,17.7,Low 
+988,988,Dwain,Corporate ,Canada,Québec,27/01/2018,01/06/2017,219.693,1224,25.97,Low 
+989,989,Genevra,Consumer ,France,Auvergne,11/02/2018,12/03/2019,445.058,6794,13.5,Critical 
+990,990,Wilma,Corporate ,France,Pays de la Loire,06/03/2017,21/01/2017,755.041,8119,36.23,High 
+991,991,Parry,Consumer ,Germany,Bremen,05/10/2017,27/09/2017,561.878,694,39.24,Low 
+992,992,Ignazio,Corporate ,France,Île-de-France,30/10/2018,21/03/2018,160.41,1312,65.55,Medium
+993,993,Vivie,Corporate ,United Kingdom,England,07/07/2017,22/07/2017,609.133,4688,24.46,High 
+994,994,Laryssa,Corporate ,France,Provence-Alpes-Côte d'Azur,11/09/2017,13/05/2018,890.137,6937,56.34,Critical 
+995,995,Milo,Consumer ,France,Pays de la Loire,11/06/2018,20/03/2017,515.461,7870,42.41,Low 
+996,996,Aeriell,Consumer ,United States,Maryland,26/06/2016,07/01/2020,832.077,3065,61.53,Medium
+997,997,Andy,Consumer ,Canada,Nouveau-Brunswick,21/10/2019,28/05/2019,688.167,3332,11.39,Medium
+998,998,Bobbie,Corporate ,France,Provence-Alpes-Côte d'Azur,25/12/2019,16/08/2016,810.316,3323,19.91,Low 
+999,999,Benson,Consumer ,Canada,Newfoundland and Labrador,16/04/2019,22/05/2016,705.866,5301,72.27,High 
+1000,1000,Carla,Corporate ,France,Picardie,20/07/2016,25/10/2018,603.974,9707,53.96,Critical 
